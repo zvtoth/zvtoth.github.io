@@ -7,7 +7,7 @@ url:              http://qwtel.com
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          /hydejack
 
-title:            Hydejack
+title:            ZVT
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
