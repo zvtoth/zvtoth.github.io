@@ -11,17 +11,28 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
-  name: Hyde
-  image: /hydejack/public/img/hyde.jpg
-  color: '#949667'
-  description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
 
-jekyll:
-  name: Jekyll
-  image: /hydejack/public/img/jekyll.jpg
-  color: '#949667'
+Research:
+  name: Research Wunderkammer
+  image: /mockham/public/img/research.jpg
+  color: '#075c12'
   description: >
-    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+    Various materials related to my research interests --- mostly about medieval philosophy, causation, and philosophy of religion.
+
+
+
+
+Teaching:
+  name: Teaching
+  image: /mockham/public/img/teach.jpg
+  color: '#d06706'
+  description: >
+    I am an instructor of record at Fordham's Rose Hill campus, teaching usually Ethics or Philosophy of Human Nature. If you would like to reserve a slot for office hours, please click here.
+
+
+Latin:
+  name: Latin Reading Group
+  image: /mockham/public/img/latin.jpg
+  color: '#513fa4'
+  description: >
+    The Fordham Philosophy Latin Reading Group is a group of students and faculty whose primary interest is medieval philosophy (although classicists are by no means excluded), and who already have at least some working knowledge of Latin. We usually meet once a week for an hour or so and try to read texts that are somehow connected to the research interests of some of the participants and that are not available in English translation. Thus, the group’s aim is both linguistic and philosophical: it gives both a good practice of medieval Latin and an occasion to reflect on some problems and perhaps lesser known arguments in medieval philosophy. For more information, please contact me or Giorgio Pini.

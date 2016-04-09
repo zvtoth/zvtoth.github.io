@@ -1,32 +1,18 @@
 ---
 layout: page
-title: About
+title: About me
+image: /mockham/public/img/about.jpg
+color: '#aa0234'
 ---
-
-{% comment %}
-  This inserts the "about" photo and text from `_config.yml`.
-  You can edit it there (jekyll needs restart!) or remove it and provide your own photo/text.
-  Don't forget to add the `me` class to the photo, like this: `![alt](src){:.me}`.
-{% endcomment %}
 
 {% if site.author.photo %}
   ![{{ site.author.name }}]({{ site.author.photo }}){:.me}
 {% endif %}
 
-{{ site.author.about }}
 
-[write something about self]
+I am a PhD candidate and teaching fellow in philosophy at [Fordham University](http://www.fordham.edu), New York.
+Before coming to NYC, I did some medieval studies at [Central European University](http://www.ceu.hu), and even before that, studied philosophy and mathematics at [Eötvös Loránd University](http://www.elte.hu/en), in Budapest.
 
-***
+My main interest is later medieval philosophy, especially metaphysics, philosophy of religion, and epistemology. I am also interested in the history of science, mainly in the connection between late medieval and early modern scientific practice and theory. My dissertation is on later medieval problems of secondary causality and divine concurrence (broadly between Aquinas and Gabriel Biel).
 
-## References
-
-### Design
-
-* Based on [Hyde](http://hyde.getpoole.com/) by [`@mdo`](https://twitter.com/mdo).
-
-### Icons
-
-* [Wreath](https://thenounproject.com/term/laurel-wreath/203146/) by [Nick Abrams](https://thenounproject.com/nabrams/) from the [Noun Project](https://thenounproject.com/).
-
-[usr]: /how-to-find-a-short-username
+When I am not doing philosophy, I like hiking, going to  museums, taking photos (not in museums), and listening to and playing 14-18th-century music.

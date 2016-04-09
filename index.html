@@ -1,16 +1,10 @@
 ---
 layout: default
-title: Blog
+title: Home
 ---
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul><hr/>{% endunless %}
-    <h2 id="y{{post.date | date: "%Y"}}" class="page-title">{{ currentdate }}</h2>
-    <ul class="related-posts">
-    {% assign date = currentdate %}
-  {% endif %}
+
   <li>
     <h4>
       <a href="{{ site.baseurl }}{{ post.url }}">

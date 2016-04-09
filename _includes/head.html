@@ -4,11 +4,10 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {% if page.tag %} {{ site.data.tags[page.tag].name }} {% else %} {{ page.title }} {% endif %} &middot; {{ site.title }}
-    {% endif %}
-  </title>
+          {{ site.title }} &middot; {{ site.tagline }}
+        {% else %}
+          {% if page.tag %} {{ site.data.tags[page.tag].name }} {% else %} {{ page.title }} {% endif %} &middot; {{ site.title }}
+        {% endif %}  </title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:700|PT+Serif:400,400italic,700,700italic" type="text/css">
