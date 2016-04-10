@@ -76,7 +76,6 @@
           {% if author.weibo %}<a href="http://www.weibo.com/{{ author.weibo }}" class="author-social" target="_blank"><i class="fa fa-fw fa-weibo"></i> Weibo</a>{% endif %}
           {% if author.flickr %}<a href="http://www.flickr.com/{{ author.flickr }}" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> Flickr</a>{% endif %}
           {% if author.codepen %}<a href="http://codepen.io/{{ author.codepen }}" class="author-social" target="_blank"><i class="fa fa-fw fa-codepen"></i> CodePen</a>{% endif %}
-        </div>
 
 
 
@@ -85,8 +84,7 @@
 
       {% if site.author.facebook %}
         {% include icon-facebook.html username=site.author.facebook %}
-      {% endif %}
-    </div>
+      {% endif %} <br/>
     <font size="2"><center> &#169; 2016 Zita Tóth. Powered by <a href = "http://jekyllrb.com" target="_blank">Jekyll</a>. </center></font>
   </div>
 </aside>
