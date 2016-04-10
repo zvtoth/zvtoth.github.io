@@ -33,6 +33,8 @@ title: Home
   {% endfor %}
 </div>
 
+
+
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
@@ -49,4 +51,16 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div> -->
+{% endif %}
+
+{% if site.author.about %}
+<aside class="author">
+  <h2 class="aside-title">About</h2>
+
+  {% if site.author.photo %}
+  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
+  {% endif %}
+
+  {{ site.author.about | markdownify }}
+</aside>
 {% endif %}
