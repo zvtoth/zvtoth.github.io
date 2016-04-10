@@ -224,29 +224,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-.author-social {
-  display: block;
-  margin-bottom: 5px;
-  @include font-rem(14);
-  color: $black;
-  &:visited {
-    color: $black;
-  }
-  &:hover {
-    @include scale(1.1);
-  }
-  &:active {
-    @include translate(0, 2px);
-  }
-  .fa {
-		margin-right: 5px;
-	}
-}
-
-@import "font-awesome/font-awesome.scss";
-
-
-
 
 
 
