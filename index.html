@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+<title> Recent Posts </title>
 
 {% for post in site.posts %}
 
@@ -12,7 +13,7 @@ title: Home
         <small>({{ post.date | date: "%m/%d/%y" }})</small>
       </a>
     </h4>
-  
+
   {% if forloop.last %}</ul><hr/>{% endif %}
 {% endfor %}
 
