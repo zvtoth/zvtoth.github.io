@@ -2,7 +2,7 @@
 permalink:        pretty
 
 # Setup
-url:             http://mockham.github.io
+url:             http://zvtoth.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:        ''
@@ -23,7 +23,7 @@ color:            '#b14633'
 author:
   name:           'Zita V. Tóth'
   facebook:     tothzit
-  github:         mockham
+  github:         zvtoth
   photo:          /public/img/zvt.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
