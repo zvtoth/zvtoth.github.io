@@ -2,12 +2,12 @@
 permalink:        pretty
 
 # Setup
-url:              http://qwtel.com
+url:             http://mockham.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          /mockham
+baseurl:        ''
 
-title:            Zita V. Toth
+title:            Zita V. Tóth
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      PhD Candidate in Philosophy (Fordham University)
