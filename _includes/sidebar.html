@@ -56,25 +56,17 @@
         {% if site.author.facebook %}
           {% include icon-facebook.html username=site.author.facebook class="sidebar-social"%}
         {% endif %}
-        {% if site.author.github %}
+        {% if site.author.linkedin %}
+        {% include icon-linkedin.html username=site.author.linkedin class="sidebar-social"%}
+      {% endif %}
+      {% if site.author.github %}
         {% include icon-github.html username=site.author.github class="sidebar-social"%}
       {% endif %}
 
 
 
 
-          {% if site.author.facebook %}<a href="http://facebook.com/{{ site.author.facebook }}" class="author-social" target="_blank"><i class="fa fa-cloud"></i> Facebook</a>{% endif %}
-          {% if author.google.plus %}<a href="http://plus.google.com/+{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
-          {% if site.author.linkedin %}<a href="http://linkedin.com/in/{{ site.author.linkedin }}" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
-
-
-
-
-
-
-      {% if site.author.facebook %}
-        {% include icon-facebook.html username=site.author.facebook %}
-      {% endif %} <br/>
+ <br/>
     <font size="2"><center> &#169; 2016 Zita Tóth. Powered by <a href = "http://jekyllrb.com" target="_blank">Jekyll</a>. </center></font>
   </div>
 </aside>
