@@ -14,7 +14,7 @@
 
 Research:
   name: Research Wunderkammer
-  image: mockham.github.io/public/img/research.jpg
+  image: /public/img/research.jpg
   color: '#075c12'
   description: >
     Various materials related to my research interests --- mostly about medieval philosophy, causation, and philosophy of religion.
