@@ -5,14 +5,14 @@ title: Home
 
 {% for post in site.posts %}
 
-  <li>
+
     <h4>
       <a href="{{ site.baseurl }}{{ post.url }}">
         <span>{{ post.title }}</span>
         <small>({{ post.date | date: "%m/%d/%y" }})</small>
       </a>
     </h4>
-  </li>
+  
   {% if forloop.last %}</ul><hr/>{% endif %}
 {% endfor %}
 
