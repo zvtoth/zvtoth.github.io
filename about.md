@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-image: /mockham/public/img/about.jpg
+image: /public/img/about.jpg
 color: '#aa0234'
 ---
 
