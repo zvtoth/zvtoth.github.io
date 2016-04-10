@@ -23,10 +23,10 @@ color:            '#b14633'
 author:
   name:           'Zita V. Tóth'
   email:           ztoth@fordham.edu
-  facebook:     tothzit
+  facebook:     zita.v.toth
   github:         zvtoth
-  linkedin:      tothzit
-  
+  linkedin:      tothzita
+
   photo:          /public/img/zvt.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
