@@ -51,7 +51,9 @@
       {% if site.author.github %}
         {% include icon-github.html username=site.author.github %}
       {% endif %}
-      {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+      {% if author.email %}
+      {% include icon-email.html username=site.author.email %}
+        {% endif %}
 
       {% if site.author.facebook %}
         {% include icon-facebook.html username=site.author.facebook %}
