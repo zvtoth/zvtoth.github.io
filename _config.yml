@@ -17,14 +17,14 @@ description:      PhD Candidate in Philosophy (Fordham University)
 sidebar_tags:     [Research, Teaching, Latin]
 
 # Fallback image and color if not overwritten for tag or post
-image:           /mockham/public/img/tree.jpg
+image:           mockham.github.io/public/img/tree.jpg
 color:            '#b14633'
 
 author:
   name:           'Zita V. Tóth'
   facebook:     tothzit
   github:         mockham
-  photo:          /mockham.github.io/public/img/zvt.jpg
+  photo:          mockham.github.io/public/img/zvt.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:
