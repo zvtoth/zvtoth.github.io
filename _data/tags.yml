@@ -27,7 +27,7 @@ Teaching:
   image: /public/img/teach.jpg
   color: '#d06706'
   description: >
-    I am an instructor of record at Fordham's Rose Hill campus, teaching usually Ethics or Philosophy of Human Nature. If you would like to reserve a slot for office hours, please click here.
+    I am an instructor of record at Fordham's Rose Hill campus, teaching usually Ethics or Philosophy of Human Nature. If you would like to reserve a slot for office hours, please click <a href="http://ztoth.youcanbook.me" target="_blank">here</a>.
 
 
 Latin:
