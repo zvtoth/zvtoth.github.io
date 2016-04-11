@@ -225,6 +225,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.4rem;
   margin-right: 1rem;
 }
+.sidebar-social a:hover{
+  line-height: 1.8rem;
+}
 .sidebar-social > a:last-child {
   margin-right: 0;
 }
