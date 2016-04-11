@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1.25rem;
 }
 
-.sidebar-nav-item a:hover, sidebar a:focus {
+.sidebar-nav-item a:hover, .sidebar-nav-item a:focus {
   text-decoration: none;
   margin-left:1rem;
 }
