@@ -35,7 +35,7 @@
  */
 
 html {
-  font-family: "PT Serif", Georgia, serif;
+  font-family: "Droid Serif", Georgia, serif;
 }
 @media (min-width: 48em) {
   html {
@@ -49,7 +49,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto Slab", "PT Serif", Georgia, serif;
+  font-family: "Roboto Slab", "Droid Serif", Georgia, serif;
 }
 
 /*
