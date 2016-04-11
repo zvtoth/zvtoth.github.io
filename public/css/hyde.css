@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
-  letter-spacing: 1.5px
+  letter-spacing: 1px
 }
 
 /* About section */
