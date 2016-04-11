@@ -1,6 +1,6 @@
 ---
 layout: page
-title:Office Hours
+title: Office Hours
 tags: Teaching
 ---
 
