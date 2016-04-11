@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
-  text-shadow: 3px 1px #000000;
+  text-shadow: 3px 1px #ffffff;
 }
 
 /* About section */
