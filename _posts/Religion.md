@@ -1,0 +1,21 @@
+---
+layout: pics
+title: Philosophy of Religion Workshop Series
+tags: Research
+---
+
+In the academic year 2015/16, I am organizing a Philosophy of Religion Workshop series.
+
+<a href="/public/img/marilyn.jpg" rel="lightbox-rel">Marilyn McCord Adams</a>
+<a href="/public/img/sam.jpg" rel="lightbox-rel">Sam Lebens</a>
+<a href="/public/img/pittard.jpg" rel="lightbox-rel">John Pittard</a>
+<a href="/public/img/eleonore.jpg" rel="lightbox-rel">Eleonore Stump</a>
+<a href="/public/img/hare.jpg" rel="lightbox-rel">John Hare</a>
+<a href="/public/img/group1.jpg" rel="lightbox-rel"></a>
+<a href="/public/img/dean.jpg" rel="lightbox-rel"></a>
+<a href="/public/img/gp.jpg" rel="lightbox-rel"></a>
+<a href="/public/img/amy.jpg" rel="lightbox-rel"></a>
+<a href="/public/img/group2.jpg" rel="lightbox-rel"></a>
+<a href="/public/img/group3.jpg" rel="lightbox-rel"></a>
+<a href="/public/img/group4.jpg" rel="lightbox-rel"></a>
+<a href="/public/img/group5.jpg" rel="lightbox-rel"></a>
