@@ -172,7 +172,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
-  margin-left:1rem;
 }
 
 /* About section */
@@ -187,6 +186,13 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-nav {
   margin-bottom: 1.25rem;
 }
+
+.sidebar-nav-item a:hover {
+  text-decoration: none;
+  margin-left:1rem;
+}
+
+
 .sidebar-nav-item {
   font-family: "Roboto Slab", "PT Serif", Georgia, serif;
   font-weight: bold;
