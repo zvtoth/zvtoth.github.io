@@ -169,9 +169,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-/*.sidebar a:hover, .sidebar a:focus {
+
+.sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
-}*/
+}
 
 /* About section */
 .sidebar-about > h1 {
