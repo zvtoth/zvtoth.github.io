@@ -298,13 +298,9 @@ img {
   border-radius: 5px;
 }
 
-a:hover img {
+a img:hover {
   border-bottom: 0px dashed !important;
-
-}
-
-img:hover {
-  border-bottom: 0px dashed !important;
+  opacity:0.8;
 }
 
 @media (min-width: 48em) {
