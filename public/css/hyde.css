@@ -299,9 +299,9 @@ img {
 }
 
 <style>
-a img
+a img:hover
 {
-border:0px;
+border-bottom:0px;
 }
 </style>
 
