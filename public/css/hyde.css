@@ -298,9 +298,13 @@ img {
   border-radius: 5px;
 }
 
-a img {
-  vertical-align: middle;
+<style>
+a img
+{
+border:0px;
 }
+</style>
+
 a img:hover {
   opacity:0.8;
 }
