@@ -179,7 +179,7 @@ a:hover{
 
 .sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
-  text-shadow: 1.5px 1px #c4c4c4;
+  text-shadow: 1.5px 1px #6f6f6f;
   background-color: none !important;
 }
 
