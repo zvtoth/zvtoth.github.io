@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a:hover{
   text-decoration:none;
-  text-shadow: 1.2px 1px #474747;
+  text-background: #dfd9cc;
 }
 
 
