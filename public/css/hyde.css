@@ -56,6 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 a:hover{
   text-decoration:none;
  text-shadow: 1.5px 1px #6f6f6f;
+ border-bottom: 0.75px dashed;
 }
 
 
