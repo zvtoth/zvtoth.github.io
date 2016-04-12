@@ -179,7 +179,7 @@ a:hover{
 
 .sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
-  text-shadow: 1.5px 1px #6f6f6f;
+  text-shadow: 1.5px 1px #b4b4b4;
 }
 
 /* About section */
@@ -195,14 +195,14 @@ a:hover{
   margin-bottom: 1.25rem;
 }
 
-.sidebar-nav a:hover, .sidebar-nav a:active {
+/*.sidebar-nav a:hover, .sidebar-nav a:active {
   border-top: 1px solid #ffffff;
   border-bottom: 1px solid #ffffff;
   border-left: 1px solid #ffffff;
   border-right: 1px solid #ffffff;
 
 }
-
+*/
 
 .sidebar-nav-item {
   font-family: "Roboto Slab", "PT Serif", Georgia, serif;
