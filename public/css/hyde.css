@@ -181,6 +181,7 @@ a:hover{
   text-decoration: none;
   text-shadow: 1.5px 1px #6f6f6f;
   background-color: none !important;
+  border-top: 1px solid #737373
 }
 
 /* About section */
