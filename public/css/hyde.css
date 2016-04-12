@@ -55,6 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a:hover{
   text-decoration:none;
+  background-color: #dfd9cc;
 }
 
 
@@ -179,10 +180,6 @@ a:hover{
 .sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
   text-shadow: 1.5px 1px #6f6f6f;
-  border-top: 2px solid #ffffff;
-  border-bottom: 2px solid #ffffff;
-  border-left: 2px solid #ffffff;
-  border-right: 2px solid #ffffff;
 }
 
 /* About section */
