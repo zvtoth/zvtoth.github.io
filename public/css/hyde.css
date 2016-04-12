@@ -297,12 +297,7 @@ img {
 
 a img:hover {
   opacity:0.8;
-  border-bottom:1.5px solid #fff;
 
-}
-
-.thumbnail:hover {
-  border-bottom: none !important;
 }
 
 
