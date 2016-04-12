@@ -298,9 +298,10 @@ img {
   border-radius: 5px;
 }
 
+a img {
+  vertical-align: middle;
+}
 a img:hover {
-  border-bottom: none !important;
-
   opacity:0.8;
 }
 
