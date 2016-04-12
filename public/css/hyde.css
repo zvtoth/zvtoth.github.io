@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a:hover{
   text-decoration:none;
-  background-color: #dfd9cc;
+
 }
 
 
@@ -195,7 +195,10 @@ a:hover{
   margin-bottom: 1.25rem;
 }
 
+.sidebar-nav-item a:hover {
+  background-color: #dfd9cc;  
 
+}
 
 
 .sidebar-nav-item {
