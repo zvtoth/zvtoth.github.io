@@ -301,7 +301,8 @@ img {
 <style>
 a img:hover
 {
-border-bottom:0px;
+border-bottom:1px #fff;
+opacity:0.8;
 }
 </style>
 
