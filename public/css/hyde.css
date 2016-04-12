@@ -300,9 +300,14 @@ img {
 
 a img:hover {
   border-bottom: none !important;
-  
+
   opacity:0.8;
 }
+
+.thumbnail:hover {
+  border-bottom: none !important;
+}
+
 
 @media (min-width: 48em) {
   .content {
