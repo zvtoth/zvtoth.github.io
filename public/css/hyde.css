@@ -300,6 +300,11 @@ img {
 
 a:hover img {
   border-bottom: 0px dashed !important;
+
+}
+
+img:hover {
+  border-bottom: 0px dashed !important;
 }
 
 @media (min-width: 48em) {
