@@ -298,16 +298,11 @@ img {
   border-radius: 5px;
 }
 
-<style>
-a img:hover
-{
-border-bottom:1px #fff;
-opacity:0.8;
-}
-</style>
 
 a img:hover {
   opacity:0.8;
+  border-bottom:1.5px solid #fff;
+
 }
 
 .thumbnail:hover {
