@@ -53,7 +53,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
+a:hover{
+  textdecoration: none;
+  text-shadow: 1.2px 1px #737373;
+}
 
 
 /*
@@ -196,6 +199,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-nav a:hover, .sidebar-nav a:active {
 
   border-bottom: 0px solid #ffffff;
+ background-color: rgba(208, 194, 162, 0.23);
 
 
 }
