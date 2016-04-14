@@ -55,7 +55,8 @@ h1, h2, h3, h4, h5, h6 {
 
 a:hover{
   text-decoration: none;
-  text-shadow: 1.2px 1px #737373;
+
+  text-shadow:1px 0.75px #868686;
 }
 
 
@@ -295,7 +296,7 @@ img {
   display: block;
   max-width: 100%;
   margin: 1 1 1rem;
-  border-radius: 5px;
+  border-radius: 0px;
 }
 
 
