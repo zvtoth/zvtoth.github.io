@@ -30,7 +30,7 @@ Bronx, NY 10458, USA
 
 <img class="img-single" align="left" src="/public/img/quick.png" width="55">
 
-<form name="htmlform" method="post" action="html_form_send.php">
+<form name="htmlform" method="post" action="/my-handling-form-page">
 <div>
         <label for="name">Name:</label>
         <input type="text" id="name" />
