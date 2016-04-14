@@ -293,15 +293,15 @@ a:hover{
 
 
 img {
-  display: block;
+  display: inline;
   max-width: 100%;
-  margin: 1 1 1rem;
-  border-radius: 0px;
+
 }
 
 
+
 a img:hover {
-  opacity:0.8;
+  opacity:0.8 !important;
 
 }
 
