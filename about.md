@@ -33,29 +33,28 @@ Bronx, NY 10458, USA
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d1DYO3lq0JufCmMGR1KjXlYvwEM9s9Tu28I7M3G1F8LkA/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
 <div>
-        <label for="name">Name:</label>
+        <label for="entry.1516034235">Name:</label>
         <input type="text" name= "entry.1516034235" id="entry.1516034235" />
     </div>
     <div>
-        <label for="email">E-mail:</label>
-        <input type="text" name= "1516034235" id="1516034235" />
+        <label for="entry.390583077">E-mail:</label>
+        <input type="text" name= "entry.390583077" id="entry.390583077" />
     </div>
     <div>
-        <label for="message">Message:</label>
+        <label for="entry.281360632">Message:</label>
         <textarea id="entry.281360632" name="entry.281360632"></textarea>
     </div>
 
-    <div class="button">
-        <input type="submit" value="Send Message">
+    <div>
+        <input type="submit" value="Submit">
     </div>
 
-
-
-
-
-
 </form>
+
+
+
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
 <script src="/public/js/jquery.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
