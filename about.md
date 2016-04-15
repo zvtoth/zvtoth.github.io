@@ -31,7 +31,7 @@ Bronx, NY 10458, USA
 
 <img class="img-single" align="left" src="/public/img/quick.png" width="55">
 
-<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d1DYO3lq0JufCmMGR1KjXlYvwEM9s9Tu28I7M3G1F8LkA/viewform" target="hidden_iframe" onsubmit="submitted=true;">
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d1DYO3lq0JufCmMGR1KjXlYvwEM9s9Tu28I7M3G1F8LkA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
 
 <div>
         <label for="entry.1516034235">Name:</label>
@@ -47,7 +47,7 @@ Bronx, NY 10458, USA
     </div>
 
     <div class="button">
-        <input type="submit" value="Submit">
+        <input type="submit" name="submit" value="Submit">
     </div>
 
 </form>
