@@ -30,4 +30,13 @@ Bronx, NY 10458, USA
 <br>
 
 
-<iframe src="https://docs.google.com/forms/d/1DYO3lq0JufCmMGR1KjXlYvwEM9s9Tu28I7M3G1F8LkA/viewform?embedded=true#responses" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<style>
+#wrap { width: 600px; height: 390px; padding: 0; overflow: hidden; }
+#frame { width: 800px; height: 520px; border: 1px solid black; }
+#frame { zoom: 0.75; -moz-transform: scale(0.75); -moz-transform-origin: 0 0; }
+</style>
+
+<div id="wrap">
+
+<iframe id="frame" src="https://docs.google.com/forms/d/1DYO3lq0JufCmMGR1KjXlYvwEM9s9Tu28I7M3G1F8LkA/viewform?embedded=true#responses" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</div>
