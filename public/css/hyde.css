@@ -181,7 +181,6 @@ a:hover{
 .sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
   text-shadow: 1.5px 1px #b4b4b4;
-  border-bottom: 0px dashed !important;
 }
 
 /* About section */
@@ -199,7 +198,6 @@ a:hover{
 
 .sidebar-nav a:hover, .sidebar-nav a:active {
 
-  border-bottom: 0px solid #ffffff;
  background-color: rgba(208, 194, 162, 0.23);
 
 
