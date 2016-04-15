@@ -22,7 +22,8 @@ When I am not doing philosophy, I like hiking,  taking photos, and listening to 
 ### Contact
 
 
-<img class="img-single" align="left" src="/public/img/snail.gif" width="100"> Fordham University, Philosophy Department <br>
+<img class="img-single" align="left" src="/public/img/snail.gif" width="100"> Zita Tóth <br>
+Fordham University, Philosophy Department <br>
 441 E Fordham rd., Collins Hall <br>
 Bronx, NY 10458, USA
 <br>
@@ -30,18 +31,18 @@ Bronx, NY 10458, USA
 
 <img class="img-single" align="left" src="/public/img/quick.png" width="55">
 
-<form name="htmlform" method="get" action="">
+<form name="htmlform" method="post" action="/form-to-email.php">
 <div>
         <label for="name">Name:</label>
-        <input type="text" id="name" />
+        <input type="text" name= "name" id="name" />
     </div>
     <div>
-        <label for="mail">E-mail:</label>
-        <input type="email" id="mail" />
+        <label for="email">E-mail:</label>
+        <input type="email" name= "email" id="email" />
     </div>
     <div>
-        <label for="msg">Message:</label>
-        <textarea id="msg"></textarea>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message"></textarea>
     </div>
 
     <div class="button">
