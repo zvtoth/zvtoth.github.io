@@ -45,7 +45,7 @@ Bronx, NY 10458, USA
         <textarea id="entry.281360632" name="entry.281360632"></textarea>
     </div>
 
-    <div>
+    <div class="button">
         <input type="submit" value="Submit">
     </div>
 
