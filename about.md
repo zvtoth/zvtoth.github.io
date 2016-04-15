@@ -38,7 +38,7 @@ Bronx, NY 10458, USA
     </div>
     <div>
         <label for="email">E-mail:</label>
-        <input type="email" name= "email" id="email" />
+        <input type="text" name= "email" id="email" />
     </div>
     <div>
         <label for="message">Message:</label>
@@ -46,7 +46,7 @@ Bronx, NY 10458, USA
     </div>
 
     <div class="button">
-      <input type="submit" value="Send Form">
+        <input type="submit" value="Send Form">
     </div>
 
 
