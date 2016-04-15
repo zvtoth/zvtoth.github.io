@@ -28,3 +28,31 @@ Fordham University, Philosophy Department <br>
 Bronx, NY 10458, USA
 <br>
 <br>
+
+
+<img class="img-single" align="left" src="/public/img/quick.png" width="55">
+
+<form name="myemailform" method="get" action="form-to-email.php">
+<div>
+        <label for="name">Name:</label>
+        <input type="text" name= "name" id="name" />
+    </div>
+    <div>
+        <label for="email">E-mail:</label>
+        <input type="text" name= "email" id="email" />
+    </div>
+    <div>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message"></textarea>
+    </div>
+
+    <div class="button">
+        <input type="submit" value="Send Form">
+    </div>---!>
+
+
+
+
+
+
+</form>
