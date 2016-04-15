@@ -46,7 +46,7 @@ Bronx, NY 10458, USA
     </div>
 
     <div class="button">
-        <button type="submit">Send your message</button>
+      <input type="submit" value="Send Form">
     </div>
 
 
