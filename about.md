@@ -29,7 +29,7 @@ Bronx, NY 10458, USA
 <br>
 <br>
 
-<!--><img class="img-single" align="left" src="/public/img/quick.png" width="55">
+<!---<img class="img-single" align="left" src="/public/img/quick.png" width="55">
 
 <form name="myemailform" method="post" action="form-to-email.php">
 <div>
@@ -47,11 +47,11 @@ Bronx, NY 10458, USA
 
     <div class="button">
         <input type="submit" value="Send Form">
-    </div>
+    </div>---!>
 
 
 
 
 
 
-</form>
+</form> <--!>
