@@ -21,3 +21,10 @@ In the academic year 2015/16, I am organizing a Philosophy of Religion Workshop 
 <a href="/public/img/rel/group5.jpg" data-lightbox="religion">image #13</a>
 
 <script src="{{ site.baseurl }}/public/js/lightbox-plus-jquery.js"></script>
+
+
+
+
+    <!--><center>
+    <img class="img-single" align="center" src="{{ site.baseurl }}/public/img/footer.jpg" height="60px">
+  </center><!-->
