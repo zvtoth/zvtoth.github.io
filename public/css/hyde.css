@@ -249,7 +249,11 @@ a:hover{
 .color-box {float:left; background-color:#e4ecff; width:98%; height:auto; padding-top:2%; padding-bottom:0%; margin-bottom:32px; border:0.5px solid #959393}
 
 
-
+.scale {
+  -ms-transform: scale(0.8); /* IE 9 */
+  -webkit-transform: scale(0.8); /* Safari */
+  transform: scale(0.8); /* Standard syntax */
+}
 
 /* Enable z-index (derived from DOM structure) for the sidbar content. */
 .container {
