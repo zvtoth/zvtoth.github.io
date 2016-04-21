@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 image: /public/img/about.jpg
 color: '#aa0234'
 ---
