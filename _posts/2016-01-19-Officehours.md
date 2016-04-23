@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-map-pin"></i> Office Hours
+title: <i class="fa fa-bookmark"></i> Office Hours
 tags: Teaching
 ---
 
