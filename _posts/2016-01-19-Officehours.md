@@ -1,7 +1,8 @@
 ---
-layout: page
-title: <i class="fa fa-bookmark"></i> Office Hours
+layout: bookmark
+title: Office Hours
 tags: Teaching
+color: '#d06706'
 ---
 
 My office is in Collins Hall, B11 (basement).
