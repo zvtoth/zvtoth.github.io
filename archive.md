@@ -7,5 +7,5 @@ color: '#bfb48e'
 
 #### Research
 <h4>
- <li> <a href="{{ site.baseurl }}/public/archive/Religion">Religion</a></li>
+ <li> <a href="{{ site.baseurl }}/public/archive/Religion">Philosophy of Religion Workshop Series, 2015/16</a></li>
 </h4>
