@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: archive
 title: Philosophy of Religion Workshop Series, 2015/16
 tags: Research
+image: /public/img/archive.jpg
+color: '#bfb48e'
 ---
 
 In the 2015/16 academic year, Amy Seymour and me are organizing a Philosophy of Religion Workshop series at Fordham.
