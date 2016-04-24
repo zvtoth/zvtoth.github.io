@@ -17,7 +17,7 @@ My main interest is later medieval philosophy, especially questions connected to
 
 When I am not doing philosophy, I like hiking,  taking photos, and listening to and playing 14-18th-century music.
 
-[Download CV](/public/texts/CV.pdf)
+[<small>Download CV</small>](/public/texts/CV.pdf)
 ---
 
 ### Contact
