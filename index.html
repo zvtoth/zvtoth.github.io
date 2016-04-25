@@ -8,11 +8,11 @@ title: Recent  & Bookmarked
 {% for post in site.posts %}
 
 
-    <h4>
+
       <a href="{{ site.baseurl }}{{ post.url }}">
         <span>{{ post.title }}</span></a>
-        <small><font color="#b8b8b8">({{ post.date | date: "%m/%d/%y" }})</font></small>
-    </h4>
+        <small><font color="#b8b8b8">({{ post.date | date: "%m/%d/%y" }})</font></small><br>
+
 
   {% if forloop.last %}</ul><hr/>{% endif %}
 {% endfor %}
