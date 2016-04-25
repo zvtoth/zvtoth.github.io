@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 image: /public/img/archive.jpg
-color: '#bfb48e'
+color: '#af854d'
 ---
 
 #### Research
