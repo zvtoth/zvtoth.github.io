@@ -6,7 +6,7 @@ image: /public/img/research.jpg
 color: '#5e704b'
 ---
 
-<i> Peter of Palude was a Dominican theologian in the early 14th century, perhaps most known by being involved in the controversy around Durand of St.-Pourçain, another Dominican theologian and critique of Aquinas, This text, where Peter defends Aquinas's position on divine concurrence (or something close enough) against Durand's criticism, is based on the collation of 4 mss. For their description, stemma, and the critical apparatus, see <a href="{{site.baseurl}}/public/texts/Palude.pdf">here</a>. </i>
+<small><i> Peter of Palude was a Dominican theologian in the early 14th century, perhaps most known by being involved in the controversy around Durand of St.-Pourçain, another Dominican theologian and critique of Aquinas, This text, where Peter defends Aquinas's position on divine concurrence (or something close enough) against Durand's criticism, is based on the collation of 4 mss. For their description, stemma, and the critical apparatus, see <a href="{{site.baseurl}}/public/texts/Palude.pdf">here</a>. </i></small>
 
 ---
 

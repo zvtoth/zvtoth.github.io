@@ -28,3 +28,30 @@ In the academic year 2015/16, I am organizing a Philosophy of Religion Workshop 
     <!--><center>
     <img class="img-single" align="center" src="{{ site.baseurl }}/public/img/footer.jpg" height="60px">
   </center><!-->
+
+
+  Perseus: works of ancient authors in Greek and Latin, with online dictionary.
+
+  The Bible page: searchable Bible in various languages, including the Vulgate.
+
+  Early Church documents: Church Fathers, creeds, various Patristic texts.
+
+  New Advent: translated works of the Church Fathers, the Summa, and the Catholic Encyclopedia.
+
+  Franciscan Archive: a great amount of sources and links mainly connected to Franciscan authors (13th--18th century), and some papal acts.
+
+  The Internet Medieval Sourcebook: various materials related mainly to medieval history.
+
+  ORB: online reference book for Medieval studies. Various bibliographies, and a good collection of links, with unfortunately not too much philosophy.
+
+  Labyrinth: a collection of materials related to medieval studies, managed by Georgetown University.
+
+  Medieval Logic and Philosophy: a very useful collection of downloadable texts (English) mostly in logic, as well as some other links.
+
+  Renaissance magic: a catalogue of Renaissance magic books available in English. Unfortunately the books are not available online, but there is a quite detailed description of each of them.
+
+  Gallica: a library database with immense material; mostly but not exclusively French authors. (The books are scanned, not searchable.)
+
+  Liberliber: an Italian database with thousands of downloadable books in .pdf, mostly medieval and early modern authors.
+
+  Capelli online: the basic tool for medieval paleography.
