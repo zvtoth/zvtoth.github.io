@@ -64,6 +64,7 @@ a:link{
 
 a:hover{
   text-decoration: none;
+  font-weight: normal;
 
   text-shadow:1px 0.75px #868686;
 }
