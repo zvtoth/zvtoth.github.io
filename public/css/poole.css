@@ -36,8 +36,8 @@ body {
 
 html {
   font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.2;
+  font-size: 15px;
+  line-height: 1.3;
 }
 @media (min-width: 38em) {
   html {
@@ -98,6 +98,9 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 15px;
+  font-family: "Raleway", sans-serif;
+  line-height: 1.5;
 }
 
 strong {
@@ -109,6 +112,8 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
 }
 
 dt {
