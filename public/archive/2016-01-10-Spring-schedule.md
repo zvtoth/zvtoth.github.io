@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: archive
 title: Latin, 2016 Spring
 tag: Latin
+image: /public/img/archive.jpg
+color: '#bfb48e'
 ---
 
 <img class="img-single" align="right" src="/public/img/hg.gif" width="200"> In the spring semester, 2016, we are meeting at Rose Hill, in the little conference room of the Philosophy Department, on Tuesdays from 11 a.m. We started out the semester with finishing [Peter Auriol](http://plato.stanford.edu/entries/auriol/)'s question concerning *ens apparens* from his *Sentences* commentary; now we are reading [Henry of Ghent](http://plato.stanford.edu/entries/henry-ghent/)'s treatment of cognition.
