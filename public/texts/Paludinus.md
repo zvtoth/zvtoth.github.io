@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Peter of Palude, <i>In II Sententiarum</i>, d.1, q.4
+title: Peter of Palude, In II Sententiarum, d.1, q.4
 tags: Research
 image: /public/img/research.jpg
 color: '#5e704b'

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Peter of Ailly, <i>In IV Sententiarum</i>
+title: Peter of Ailly, In IV Sententiarum
 tags: Research
 image: /public/img/research.jpg
 color: '#5e704b'
