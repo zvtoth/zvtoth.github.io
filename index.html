@@ -6,22 +6,24 @@ title: Recent  & Bookmarked
 <hr/>
 
 {% for post in site.posts %}
+{% if post.title="Some" %}
+<a href="{{ site.baseurl }}{{ post.url }}">
+  <span>aaa</span></a>
+
+  {%else%}
+
       <a href="{{ site.baseurl }}{{ post.url }}">
         <span>{{ post.title }}</span></a>
         <small><font color="#b8b8b8">({{ post.date | date: "%m/%d/%y" }})</font></small><br>
   <!-- {% if forloop.last %}</ul><hr/>{% endif %} !-->
+  {%endif%}
 
 {% endfor %}
 
 
 
-
-
-
-
-
 {% if false %}
-<!-- <div class="posts">
+ <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
