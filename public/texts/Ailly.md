@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Peter of Ailly, In IV Sententiarum
 tags: Research
 image: /public/img/research.jpg

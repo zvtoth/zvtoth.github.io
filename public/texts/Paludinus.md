@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Peter of Palude, In II Sententiarum, d.1, q.4
 tags: Research
 image: /public/img/research.jpg
