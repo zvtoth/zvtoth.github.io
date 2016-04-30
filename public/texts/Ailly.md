@@ -6,7 +6,7 @@ image: /public/img/research.jpg
 color: '#5e704b'
 ---
 
-<small><i> The transcription is based on the Strasbourg 1409 edition (reprint: Minerva). For the various textual traditions of the text, as well as a detailed tabula quaestionum, see Monica Calma, "Pierre d'Ailly: Le commentaire sur les Sentences de Pierre Lombard," Bulletin de philosophie médiévale 49 (2007):139–194. </i></small>
+<i> The transcription is based on the Strasbourg 1409 edition (reprint: Minerva). For the various textual traditions of the text, as well as a detailed tabula quaestionum, see Monica Calma, "Pierre d'Ailly: Le commentaire sur les Sentences de Pierre Lombard," Bulletin de philosophie médiévale 49 (2007):139–194. </i>
 
 ---
 
