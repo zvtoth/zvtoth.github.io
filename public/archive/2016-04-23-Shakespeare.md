@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Eloquent Insults (Shakespeare) <a href="http://www.telegraph.co.uk/news/2016/04/23/15-great-william-shakespeare-insults-which-are-better-than-swear/" target="_blank"><i class="fa fa-link"></i></a>
+title: Eloquent Insults (Shakespeare)
 image: /public/img/archive.jpg
 color: '#bfb48e'
 ---
