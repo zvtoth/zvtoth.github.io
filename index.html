@@ -6,17 +6,12 @@ title: Recent  & Bookmarked
 <hr/>
 
 {% for post in site.posts %}
-{% if page.tag="Research" %}
-<a href="{{ site.baseurl }}{{ post.url }}">
-  <span>{{post.date}}</span></a>
-
-  {%else%}
 
       <a href="{{ site.baseurl }}{{ post.url }}">
           <small><span>{{ post.title }}</span></a>
       <font color="#b8b8b8">({{ post.date | date: "%m/%d/%y" }})</font></small><br>
   <!-- {% if forloop.last %}</ul><hr/>{% endif %} !-->
-  {%endif%}
+
 
 {% endfor %}
 

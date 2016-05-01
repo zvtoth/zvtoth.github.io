@@ -5,7 +5,8 @@
   <title>
     {% if page.title == "Recent  & Bookmarked" %}
           {{ site.title }}
-        {% else %}
+        
+          {% else %}
           {% if page.tag %} {{ site.data.tags[page.tag].name }} {% else %} {{ page.title }} {% endif %} &middot; {{ site.title }}
         {% endif %}  </title>
 
