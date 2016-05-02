@@ -64,9 +64,9 @@ a:link{
 
 a:hover{
   text-decoration: none;
-  color:black;
+  color:#5b5b5b !important;
 
-  text-shadow:1px 0.75px #868686;
+
 }
 
 
@@ -190,7 +190,8 @@ a:hover{
 
 .sidebar a:hover, .sidebar a:focus {
   text-decoration: none;
-  text-shadow: 1.5px 1px #b4b4b4;
+  /* text-shadow: 1.5px 1px #b4b4b4;*/
+  color: #ffffff !important;
 }
 
 /* About section */
