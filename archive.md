@@ -11,6 +11,14 @@ color: '#b6874f'
 
  <ul><li> <a href="{{ site.baseurl }}/public/archive/Religion">Philosophy of Religion Workshop Series, 2015/16</a></li></ul>
 
+
+#### Teaching
+<ul>
+<li> <a href="{{ site.baseurl }}/public/archive/2016-01-19-Ethics">Ethics, 2016 spring </li>
+
+</ul>
+
+
 #### Latin Reading Group
 <ul><li> <a href="{{ site.baseurl }}/public/archive/2016-01-10-Spring-schedule">Latin Reading Group, 2016 spring</a></li></ul>
 
