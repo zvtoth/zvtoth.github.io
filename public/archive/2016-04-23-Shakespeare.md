@@ -2,7 +2,7 @@
 layout: archive
 title: Eloquent Insults (Shakespeare)
 image: /public/img/archive.jpg
-color: '#bfb48e'
+color: '#b6874f'
 ---
 
 > <i> It's now the 400th anniversary of The Bard's death. He's best known for enriching English Literature with his fantastic plays and sonnets, which are still relevant and poignant today.
