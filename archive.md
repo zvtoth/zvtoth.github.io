@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 image: /public/img/archive.jpg
-color: '#af854d'
+color: '#b6874f'
 ---
 
 
@@ -16,4 +16,6 @@ color: '#af854d'
 
 
 #### Varia
-<ul><li> <a href="{{ site.baseurl }}/public/archive/2016-04-23-Shakespeare">Collection of Insults (Shakespeare) <i class="fa fa-link"></i></a></li></ul>
+<ul><li> <a href="{{ site.baseurl }}/public/archive/2016-04-28-Boethius">Songs from Boethius's <i>Consolation of Philosophy</i><i class="fa fa-link"></i></a></li>
+<li> <a href="{{ site.baseurl }}/public/archive/2016-04-23-Shakespeare">Collection of Insults (Shakespeare) <i class="fa fa-link"></i></a></li>
+</ul>
