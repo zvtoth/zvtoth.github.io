@@ -27,7 +27,7 @@ Teaching:
   image: /public/img/teach.jpg
   color: '#d06706'
   description: >
-    I am an instructor of record at Fordham's Rose Hill campus, teaching usually Ethics or Philosophy of Human Nature.
+    I am an instructor of record at Fordham's Rose Hill campus, teaching usually Ethics or Philosophy of Human Nature. For past syllabi, see the <a href="{{ site.baseurl }}/archive/">Archive</a>.
 
 
 Latin:
