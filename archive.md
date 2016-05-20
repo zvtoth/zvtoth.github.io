@@ -14,9 +14,9 @@ color: '#b6874f'
 
 #### Teaching
 <ul>
-<li> <a href="{{ site.baseurl }}/public/archive/2016-01-19-Ethics">Ethics, 2016 spring </li>
-
+<li> <a href="{{ site.baseurl }}/public/archive/2016-01-19-Ethics">Ethics, 2016 spring </a></li>
 </ul>
+
 
 
 #### Latin Reading Group
