@@ -2,7 +2,7 @@
 layout: page
 title: About
 image: /public/img/about.jpg
-color: '#047d4a'
+color: '#466e2e'
 ---
 
 {% if site.author.photo %}
