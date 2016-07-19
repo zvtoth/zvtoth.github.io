@@ -15,7 +15,7 @@ Before coming to NYC, I did some medieval studies at <a href="http://www.ceu.hu"
 
 My main interest is later medieval philosophy, especially questions connected to metaphysics, philosophy of religion, and epistemology. I am also interested in the history of science, mainly in the connection between late medieval and early modern scientific practice and theory. My dissertation is on later medieval problems of secondary causality and divine concurrence (broadly between Aquinas and Gabriel Biel).
 
-When I am not doing philosophy, I like hiking,  taking photos, and listening to and playing 14-18th-century music.<br><br>
+When I am not doing philosophy, I like hiking, rock climbing, taking photos, and listening to and playing 14-18th-century music.<br><br>
 [CV](/public/texts/CV.pdf)
 
 ---
