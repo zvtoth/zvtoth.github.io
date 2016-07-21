@@ -6,7 +6,7 @@ image: /public/img/archive.jpg
 color: '#b6874f'
 ---
 
-In the 2015/16 academic year, Amy Seymour and me are organizing a Philosophy of Religion Workshop series at Fordham.
+In the 2015/16 academic year, Amy Seymour and I were organizing a Philosophy of Religion Workshop series at Fordham.
 
 ### General Information
 
