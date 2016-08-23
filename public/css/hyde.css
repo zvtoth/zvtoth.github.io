@@ -35,7 +35,7 @@
  */
 
 html {
-  font-family: "Roboto", "Droid Sans";
+  font-family: 'Open Sans', sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -54,7 +54,7 @@ h1, h2, h3 {
 }
 
 .body{
-  font-family: "Helvetica" !important;
+  font-family: 'Open Sans', sans-serif !important;
 }
 
 h4, h5, h6{
