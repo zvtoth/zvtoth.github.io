@@ -48,8 +48,8 @@ html {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Yesteryear', cursive !important;
+h1, h2, h3 {
+  font-family: 'Arizonia', cursive !important;
 
 }
 
@@ -57,6 +57,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica" !important;
 }
 
+h4, h5, h6{
+  font-family: "Helvetica" !important;
+}
 
 
 a:hover{
