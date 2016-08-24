@@ -1,6 +1,6 @@
 ---
 layout: bookmark
-title: Some transcriptions
+title: Some Transcriptions
 tags: Research
 color: '#5e704b'
 ---
