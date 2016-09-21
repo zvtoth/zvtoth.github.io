@@ -8,7 +8,7 @@ color: '#b6874f'
 
 In the 2015/16 academic year, Amy Seymour and I were organizing a Philosophy of Religion Workshop series at Fordham.
 
-### General Information
+#### General Information
 
 Mostly composed of graduate students and faculty at Fordham and nearby universities, our group brings together scholars in the NYC area and beyond working in the philosophy of religion broadly conceived. We welcome recent works or works in progress, which we read in advance so that the majority of time can be devoted to discussion.
 
@@ -17,7 +17,7 @@ We meet at Fordham University's Lincoln Center campus (Columbus ave. at W 60th s
 All are welcome. If you would like to attend, please [send me an e-mail](mailto:ztoth@fordham.edu) so I can put you on the list.
 
 
-### Schedule
+#### Schedule
 
 <div class="color-box">
 
@@ -36,7 +36,7 @@ All are welcome. If you would like to attend, please [send me an e-mail](mailto:
 
 ***
 
-### Gallery
+#### Gallery
 
 <script>
     lightbox.option({
