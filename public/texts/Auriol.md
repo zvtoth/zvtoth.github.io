@@ -1,6 +1,6 @@
 ---
 layout: text
-title: Peter Auriol, In II Sententiarum, d.38, q. un.
+title: Peter Auriol, In II Sent., d.38, q.1
 tags: Research
 image: /public/img/research.jpg
 color: '#5e704b'
