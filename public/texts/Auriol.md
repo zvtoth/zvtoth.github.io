@@ -6,6 +6,9 @@ image: /public/img/research.jpg
 color: '#5e704b'
 ---
 
+*The transcription is based primarily on the (not very reliable) Paris 1605 edition, corrected against a Florence ms. (Firenze, Conv. Soppr. A.3.120)*
+
+---
 
 In ista Distinctione 38, Magister specialiter inquirit de opinione quorundam, qui dixerunt, actum peccati non esse a Deo. Quaero ergo hic unam quaestionem.
 
