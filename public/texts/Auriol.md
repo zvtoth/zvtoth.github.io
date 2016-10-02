@@ -6,9 +6,9 @@ image: /public/img/research.jpg
 color: '#5e704b'
 ---
 
-### Petrus Aureoli: *Liber II Sententiarum*
+##### Petrus Aureoli: *Liber II Sententiarum*
 
-#### Distinctio 38, quaestio unica, articulus unicus: Utrum actus malus sit a Deus
+##### Distinctio 38, quaestio unica, articulus unicus: Utrum actus malus sit a Deus
 
 In ista Distinctione 38, Magister specialiter inquirit de opinione quorundam, qui dixerunt, actum peccati non esse a Deo. Quaero ergo hic unam quaestionem.
 
@@ -48,4 +48,4 @@ Ad primum respondeo per interemptionem assumpti: conservatio enim vel est direct
 
 Ad secundum dubium dico quod omnes creaturae dependent a Deo, tamquam a creante et[^](creante et] *om.* F) conservante; non autem tamquam a producente immediate, quia generat et producit per causas secundas.[^](immediate. . . secundas] *om.* F)
 
-Ad tertium concedo, quod conservando[^](conservando] considerando P) ignem et ignitionem ignis, non posset Deus facere quin ignis ageret[^](ageret] igniret F) naturaliter loquendo, sive de potentia ordinaria; posset tamen suspendere actum et effectum ignis secundum potentiam suam.[^](naturaliter. . . suam] quia productum dandur? in subiecto F)
+Ad tertium concedo, quod conservando[^](conservando considerando P) ignem et ignitionem ignis, non posset Deus facere quin ignis ageret[^](ageret] igniret F) naturaliter loquendo, sive de potentia ordinaria; posset tamen suspendere actum et effectum ignis secundum potentiam suam.[^](naturaliter. . . suam] quia productum dandur? in subiecto F)
