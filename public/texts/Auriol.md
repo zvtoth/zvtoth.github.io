@@ -10,6 +10,8 @@ color: '#5e704b'
 
 ##### Distinctio 38, quaestio unica, articulus unicus: Utrum actus malus sit a Deus
 
+---
+
 In ista Distinctione 38, Magister specialiter inquirit de opinione quorundam, qui dixerunt, actum peccati non esse a Deo. Quaero ergo hic unam quaestionem.
 
 __Arguo, quod sic:__ quia omnia natura positva est a Deo; sed actus malus, quantum saltem ad substratum, est quid positivum; ergo.
