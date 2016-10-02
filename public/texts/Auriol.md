@@ -6,11 +6,10 @@ image: /public/img/research.jpg
 color: '#5e704b'
 ---
 
-##### Petrus Aureoli: *Liber II Sententiarum*
+%##### Petrus Aureoli: *Liber II Sententiarum*
 
-##### Distinctio 38, quaestio unica, articulus unicus: Utrum actus malus sit a Deus
+%##### Distinctio 38, quaestio unica, articulus unicus: Utrum actus malus sit a Deus
 
----
 
 In ista Distinctione 38, Magister specialiter inquirit de opinione quorundam, qui dixerunt, actum peccati non esse a Deo. Quaero ergo hic unam quaestionem.
 
@@ -30,7 +29,7 @@ Nunc pono __propositiones aliquas__.
 
 __Prima__ est, videtur mihi quod opinio secunda sit magis rationabilis: nec ergo video quod auctoritates secundorum cogant ad oppositum non enim video quod dicunt, quod omnis actus sit a Deo, dato quod sit positivus, nisi forte conservando potentiam, quae elicit et naturam actus eliciti, et ita dico quod Deus non agit immediate in actum voluntatis deformem per peccatum, nec oportet quod agat immediate in omnem creaturam. Hanc conclusionem probo, quia si ageret in actum positivum substratum, necessario ageret ad deformitatem, cuius oppositum dicunt Sancti, et ipsimet de alia opinione. Probo consequentiam, quoniam aliquando aliqua sic se habent, quod unum est privatio in alio inseparabilis ab illo, quidquid agens in unum necessario agit in reliquum: sed ita se habet deformitas ad actum, ergo. Maior patet, quia enim privatio albedinis et nigredo est annexa inseparabiliter nigredini, ideo producens nigredinem necessario producit non albedinem. Minorem probo: capio istud actum quod est odire Deum, ego dico quod ita concomitata deformitas istum actum, quod impossibile est eium separari et tolli; nec hoc est, quod dicunt Doctores, quod non potest Deus dispensare in praeceptis primae tabulae, quia ex se habent annexam deformitatem.
 
-Secundo, quia quae sunt mala ex obiecto, non possunt fieri sine deformitate; ratio est, quia sunt de se convoluta cum malo. Confirmo hoc per Aristotelem 3o  Ethicorum, ipse ibi quaerit utrum habitus insit nobis voluntarie, et dicit quod sic, quia voluntarie elicimus actus ex quibus necessario generatur, quia [^](quia] quod P.)
+Secundo, quia quae sunt mala ex obiecto, non possunt fieri sine deformitate; ratio est, quia sunt de se convoluta cum malo. Confirmo hoc per Aristotelem 3o  Ethicorum, ipse ibi quaerit utrum habitus insit nobis voluntarie, et dicit quod sic, quia voluntarie elicimus actus ex quibus necessario generatur, quia[^1]
 quicquid est causa causae est causa necessario causati ab illa secunda causa: sed deformitas in actu sequitur necessario naturam actus non minus quam habitus; ergo si Deus causat actum quoad substratum, necessario causabit deformitatem.
 
 Item, agens quantum dat de forma, tantum dat de consequentibus formam (8 Physicorum). Et si hoc est verum in positivis, magis erit verum in privativis. Confirmo quoa quando Deus prohibet deformitatem aliquam, ne fiat, non tantum[^](tantum] actum *add.* P) prohibet deformitatem, immo cum hoc prohibet actum quoad substratum sicut concupiscere.
@@ -51,3 +50,5 @@ Ad primum respondeo per interemptionem assumpti: conservatio enim vel est direct
 Ad secundum dubium dico quod omnes creaturae dependent a Deo, tamquam a creante et[^](creante et] *om.* F) conservante; non autem tamquam a producente immediate, quia generat et producit per causas secundas.[^](immediate. . . secundas] *om.* F)
 
 Ad tertium concedo, quod conservando[^](conservando considerando P) ignem et ignitionem ignis, non posset Deus facere quin ignis ageret[^](ageret] igniret F) naturaliter loquendo, sive de potentia ordinaria; posset tamen suspendere actum et effectum ignis secundum potentiam suam.[^](naturaliter. . . suam] quia productum dandur? in subiecto F)
+
+[^1]: quod P
