@@ -1,3 +1,11 @@
+---
+layout: text
+title: Peter Auriol, In II Sententiarum, d.38, q. un.
+tags: Research
+image: /public/img/research.jpg
+color: '#5e704b'
+---
+
 ### Petrus Aureoli: *Liber II Sententiarum*
 
 #### Distinctio 38, quaestio unica, articulus unicus: Utrum actus malus sit a Deus
