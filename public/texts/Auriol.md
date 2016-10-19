@@ -44,9 +44,9 @@ Item, secundum hoc non omnis creatura aequaliter dependeret a Deo.
 
 Item, videtur quod supposita Dei conservatione ad ipsum ignum, Deus non posset prohibere ignem ad activitate sua; ergo non potuit facere quod ignis non combureret pueros in camino ignis. Si ergo potuit, hoc fuit quia non coegit[^24].
 
-Ad primum respondeo per interemptionem assumpti: conservatio enim vel est directe continuatio rei, vel actionis, vel productionis[^25]. Unde Doctores, qui dicunt[^26] oppositum, dicunt quod conservatio est productio continuata; ergo super actionem non dicit nisi continuationem; sed continuatio differt a productione[^27], probo, quia[^28] productio rei in instanti, in quo est, non est continuatio[^29], sed in toto tempore sequenti. Secundo, quia productio ex vi productionis non habet, quod manet[^30] per subiejctum, excepta productione divina, quia tunc[^31] essent aeternae productiones, sicut est divina productio[^32] aut[^33] creaturae non habet de se, quid sit continuatio. Contradictio enim est, quod aliquid de se fit continuatio, et ````[304a]```` quod ipsum possit non continuari: ergo si productio seipsa esset continuatio, illa[^34] esset aeterna seipsa; consequens est falsum; ergo seipsa non est continuatio sed[^35] productio; ergo productio et continuatio non sunt idem. Ad idem facit[^36], quia Deus communicat actiones creaturis[^37] et non communicat eis conservationem, quaelibet enim res creatur[^38] immediate et totaliter conservatur a Deo, sed non quaelibet res totaliter et immediate producitur[^39] a Deo sed per causas secundas; ergo non est idem creatio et conservatio.
+Ad primum respondeo per interemptionem assumpti. Conservatio enim vel est directe continuatio rei, vel actionis, vel productionis[^25]. Unde Doctores, qui dicunt[^26] oppositum, dicunt quod conservatio est productio continuata; ergo super actionem non dicit nisi continuationem; sed continuatio differt a productione[^27]. Probo, quia[^28] productio rei in instanti, in quo est, non est continuatio[^29], sed in toto tempore sequenti. Secundo, quia productio ex vi productionis non habet, quod manet[^30] per subiejctum, excepta productione divina, quia tunc[^31] essent aeternae productiones, sicut est divina productio[^32] aut[^33] creaturae non habet de se, quid sit continuatio. Contradictio enim est quod aliquid de se fit continuatio, et ````[304a]```` quod ipsum possit non continuari: ergo si productio seipsa esset continuatio, illa[^34] esset aeterna seipsa. Consequens est falsum; ergo seipsa non est continuatio sed[^35] productio; ergo productio et continuatio non sunt idem. Ad idem facit[^36], quia Deus communicat actiones creaturis[^37] et non communicat eis conservationem, quaelibet enim res creatur[^38] immediate et totaliter conservatur a Deo, sed non quaelibet res totaliter et immediate producitur[^39] a Deo sed per causas secundas; ergo non est idem creatio et conservatio.
 
-Ad secundum dubium dico quod omnes creaturae dependent a Deo, tamquam a creante et[^40] conservante; non autem tamquam a producente immediate, quia generat et producit per causas secundas.[^41]
+Ad secundum dubium dico quod omnes creaturae dependent a Deo, tamquam a[^40] conservante. Non autem tamquam a producente immediate, quia generat et producit per causas secundas.[^41]
 
 Ad tertium concedo, quod conservando[^42] ignem et ignitionem ignis, non posset Deus facere quin ignis ageret[^43] naturaliter loquendo, sive de potentia ordinaria; posset tamen suspendere actum et effectum ignis secundum potentiam suam.[^44]
 
@@ -130,7 +130,7 @@ Ad tertium concedo, quod conservando[^42] ignem et ignitionem ignis, non posset 
 
 [^39]: producitur] *om.* F
 
-[^40]: creante et] *om.* F
+[^40]: tamquam a] creante et *add.* P
 
 [^41]: immediate. . . secundas] *om.* F
 
