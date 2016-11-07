@@ -53,9 +53,6 @@
       {% if site.author.email %}
       {% include icon-email.html username=site.author.email class="sidebar-social"%}
         {% endif %}
-        {% if site.author.facebook %}
-          {% include icon-facebook.html username=site.author.facebook class="sidebar-social"%}
-        {% endif %}
         {% if site.author.linkedin %}
         {% include icon-linkedin.html username=site.author.linkedin class="sidebar-social"%}
       {% endif %}
@@ -65,6 +62,13 @@
       {% if site.author.github %}
         {% include icon-github.html username=site.author.github class="sidebar-social"%}
       {% endif %}
+        {% if site.author.facebook %}
+          {% include icon-facebook.html username=site.author.facebook class="sidebar-social"%}
+        {% endif %}
+        {% if site.author.instagram %}
+          {% include icon-instagram.html username=site.author.instagram class="sidebar-social"%}
+        {% endif %}
+
 </center>
 
 
