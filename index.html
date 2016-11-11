@@ -3,22 +3,6 @@ layout: default
 title: Recent  & Bookmarked
 ---
 
-{% if site.author.about %}
-<aside class="author">
-
-
-  {% if site.author.photo %}
-  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
-  {% endif %}
-
-  {{ site.author.about | markdownify }}
-</aside>
-{% endif %}
-
-
-  <h1 class="page-title">{{ page.title }}</h1>
-<hr/>
-
 {% for post in site.posts %}
 <font face = 'IM Fell DW Pica'>
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -28,8 +12,6 @@ title: Recent  & Bookmarked
 
 
 {% endfor %}
-
-<hr>
 
 {% if false %}
  <div class="posts">
@@ -69,3 +51,21 @@ title: Recent  & Bookmarked
 {% endif %}
 
 <hr>
+
+<h2 class="aside-title">About</h2>
+
+{% if site.author.about %}
+<aside class="author">
+
+
+  {% if site.author.photo %}
+  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
+  {% endif %}
+
+  {{ site.author.about | markdownify }}
+</aside>
+{% endif %}
+
+
+  <h1 class="page-title">{{ page.title }}</h1>
+<hr/>
