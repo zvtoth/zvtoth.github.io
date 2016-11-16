@@ -10,7 +10,7 @@ color: '#5e704b'
 
 ---
 
-<h3> Liber I, q.3, a.3</h3>
+<h4> Liber I, q.3, a.3</h4>
 
 ```<63ra>``` Circa secundam distinctionem huius primi in qua Magister ostendit unitatem dei formo istam questionem: *Utrum nobis sit evidenter notum in universitate entium unum esse deum.*
 
@@ -91,10 +91,10 @@ __Ad tertiam__ rationem dico quod non valet, unde ipsa habet multas instantias. 
 __Ad quartam__ dico quod licet illa sit bona ratio naturalis et probabiliter concludens quod non possunt esse plures dii, non tamen evidenter probat. Quod patet quia non potest demonstrari quod species plurificabilis in individuis non terminet se ad certum numerum individuorum. Non enim potest demonstrari quin aliqua astra sint eiusdem speciei et tamen illa secundum philosophos sibi determinant certum numerum individuorum sub qualibet specie ita quod non possunt plura esse sub eadem specie. Similiter, sol est eiusdem speciei cum suis medietatibus et tamen determinat sibi certum numerum medietatum. Similiter secundum catholicos tres persone divine sunt eiusdem speciei et tamen determinant sibi certum numerum. Et ita dicere posset protervus quod species divina determinat sibi certum numerum ita quod sunt duo vel tres dii eiusdem speciei; nec possunt plures esse nec oppositum possit evidenter probari plusquam possit evidenter probari quod tres persone eiusdem speciei et equalis perfectionis quarum qualitas est deus non possunt esse immo apparentius posset probari quod sunt tres tales persone quamque non sint tres dii quia ad salvandum primum oportet ponere quod una res est tres res et quelibet illarum. Et propter hoc negare consequentias valde apparentes, s.c. sillogismum expositorium barbara et cetera ut post patebit non autem propter secundum. Et similiter valde difficile est salvare quod sint tres tales persone absque hoc quod ponantur tres dii, ut magis post apparebit. Et per hec que dicta sunt patet quomodo potest responderi ad omnes rationes que possunt fieri ad probandum unitatem dei ostendendo quod non demonstrant sed semper aliquod assumunt dubium vel eque aut magis inevidens sicut illud quod probant et sic petunt principium ut ostendit Ockham contra Scotum primo quolibet questione prima. Et hec de tertio articulo.
 
 ---
-<h3> Liber I, q.13 </h3>
+<h4> Liber I, q.13 </h4>
 
 ---
-<h3>  Liber IV, q.1, a.1 </h3>
+<h4>  Liber IV, q.1, a.1 </h4>
 
 ```<31ra>``` Circa quartum Sententiarum in cuius prima et secunda distinctionibus Magister tractat in generali de sacramentis et de differentia sacramentorum legis Christi et Legis Moysi, quero primo istam questionem: *Utrum ex lege Christi recepta sit summa perfectio sacramentorum.*
 
