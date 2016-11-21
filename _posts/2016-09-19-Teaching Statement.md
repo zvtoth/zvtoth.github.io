@@ -5,7 +5,7 @@ tags: Teaching
 color: '#d06706'
 ---
 
-``It is not enough that my devotion to you has not helped me at all, but you are now made the victim of the hatred'' --- complains Boethius, with the barbarians standing at the gates of Rome and himself sentenced to death. My students often formulate the very same complaint about studying philosophy! With no jobs around, the economy in crisis, they feel rather in need of some practical skills that would help them in these circumstances.
+''It is not enough that my devotion to you has not helped me at all, but you are now made the victim of the hatred'' --- complains Boethius, with the barbarians standing at the gates of Rome and himself sentenced to death. My students often formulate the very same complaint about studying philosophy! With no jobs around, the economy in crisis, they feel rather in need of some practical skills that would help them in these circumstances.
 My primary aim when teaching is to help students see why philosophy is both instrumentally and intrinsically valuable, be it wartime or economic crisis.
 
 I help students to recognize three things: first, that certain intellectual skills that philosophy develops in us will be able to serve them in many professions; second, that thinkers long dead are interesting in their own right because they show that our current way of thinking has not always been taken for granted; and third, that philosophy points us towards questions that are of utmost importance to us all.
