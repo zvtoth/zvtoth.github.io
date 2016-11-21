@@ -2,6 +2,7 @@
 layout: bookmark
 title: Statement of Teaching Philosophy
 tags: Teaching
+color: '#d06706'
 ---
 
 ``It is not enough that my devotion to you has not helped me at all, but you are now made the victim of the hatred'' --- complains Boethius, with the barbarians standing at the gates of Rome and himself sentenced to death. My students often formulate the very same complaint about studying philosophy! With no jobs around, the economy in crisis, they feel rather in need of some practical skills that would help them in these circumstances.
