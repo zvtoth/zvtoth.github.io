@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: Latin, 2016 Spring
-tag: Latin
 image: /public/img/archive.jpg
 color: '#b6874f'
 ---
