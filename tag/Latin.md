@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: Latin
+tag: Life
 permalink: /tag/Latin/
 ---
