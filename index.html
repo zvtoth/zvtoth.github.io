@@ -3,6 +3,25 @@ layout: default
 title: Recent  & Bookmarked
 ---
 
+<h1 class="aside-title">About</h2>
+
+{% if site.author.about %}
+<aside class="author">
+
+
+  {% if site.author.photo %}
+  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
+  {% endif %}
+
+  {{ site.author.about | markdownify }}
+</aside>
+{% endif %}
+
+
+
+
+
+
   <h1 class="page-title">{{ page.title }}</h1>
 <hr/>
 
@@ -55,17 +74,3 @@ title: Recent  & Bookmarked
 
 
 <hr>
-
-<h2 class="aside-title">About</h2>
-
-{% if site.author.about %}
-<aside class="author">
-
-
-  {% if site.author.photo %}
-  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
-  {% endif %}
-
-  {{ site.author.about | markdownify }}
-</aside>
-{% endif %}
