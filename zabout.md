@@ -10,7 +10,7 @@ color: '#466e2e'
 {% endif %}
 
 
-I am an Assistant Professor in philosophy at <a href = "http://www.conception.edu" target="_blank">Conception Seminary College</a>, Missouri. I received my PhD from <a href = "http://www.fordham.edu" target="_blank">Fordham University</a>, New York.
+I am an Assistant Professor of philosophy at <a href = "http://www.conception.edu" target="_blank">Conception Seminary College</a>, Missouri. I received my PhD from <a href = "http://www.fordham.edu" target="_blank">Fordham University</a>, in New York.
 Before coming to the US, I did some medieval studies at <a href="http://www.ceu.hu" target="_blank">Central European University</a>, and even before that, studied philosophy and mathematics at <a href="http://www.elte.hu/en" target="_blank">Eötvös Loránd University</a> --- both in Budapest, Hungary.
 
 My main interest is later medieval philosophy, especially questions connected to metaphysics, philosophy of religion, and epistemology. I am also interested in the history of science, mainly in the connection between late medieval and early modern scientific practice and theory. My dissertation was on later medieval problems of secondary causality and divine concurrence (broadly between Aquinas and Gabriel Biel; [see the abstract](/2016/04/24/Diss/)).

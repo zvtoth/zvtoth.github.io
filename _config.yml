@@ -11,7 +11,7 @@ baseurl:        ''
 title:            Zita V. Tóth
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:      Assistant Professor in Philosophy (Conception Seminary College)
+description:      Assistant Professor of Philosophy (Conception Seminary College)
 
 
 # The tags listed as entries in the sidebar
@@ -32,4 +32,4 @@ author:
 
   photo:          /public/img/zvt.jpg
 
-  about: I am an Assistant Professor in philosophy at <a href = "http://www.conception.edu" target="_blank">Conception Seminary College</a>, Missouri. My main interests are later medieval philosophy, philosophy of religion, and metaphysics. <a href="zabout/">See more...</a>
+  about: I am an Assistant Professor of philosophy at <a href = "http://www.conception.edu" target="_blank">Conception Seminary College</a>, Missouri. My main interests are later medieval philosophy, philosophy of religion, and metaphysics. <a href="zabout/">See more...</a>
