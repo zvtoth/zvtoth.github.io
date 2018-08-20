@@ -37,6 +37,15 @@ Please reserve a slot before coming to office hours to make sure I am here. You 
 
 ---
 
+### Some General Resources for Students
+
+- <a href="http://philpapers.org">Philpapers:</a> an excellent catalog of reliable philosophy papers and books, with great searching abilities.
+- <a href="http://plato.stanford.edu">The Stanford Encyclopedia of Philosophy:</a> please use this instead of wikipedia.
+- <a href="https://historyofphilosophy.net">History of Philosophy without any Gaps:</a> precisely as the name indicates. A podcast series by Peter Adamson and guests.
+
+
+
+
 ### Other things
 
 - <a href="https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.a63fa0z6h" target="_blank">How to Email Your Professor <i class="fa fa-link"></i></a>
