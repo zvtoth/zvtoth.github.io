@@ -20,6 +20,9 @@ My primary aim when teaching is to help students see why philosophy is both inst
 <br>
 <br>
 <br>
+<br>
+<br>
+
 - <a href="{{ site.baseurl }}/public/classes/Ethics">Ethics</a>
 - <a href="{{ site.baseurl }}/public/classes/Medieval">Medieval Philosophy</a>
 - <a href="{{ site.baseurl }}/public/classes/Metaphysics">Metaphysics</a>
