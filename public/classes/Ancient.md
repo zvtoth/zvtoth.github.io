@@ -2,7 +2,7 @@
 layout: text
 title: Ancient Philosophy
 tags: Teaching
-image: /public/img/teaching.jpg
+image: /public/img/teach.jpg
 color: '#5e704b'
 ---
 
