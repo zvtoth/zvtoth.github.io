@@ -1,79 +1,43 @@
 ---
 layout: default
-title: Recent  & Bookmarked
+title: Home
 ---
 
-<h2 class="aside-title">Welcome</h2>
-
-{% if site.author.about %}
-<aside class="author">
-
-
-  {% if site.author.photo %}
-  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
-  {% endif %}
-
-  {{ site.author.about | markdownify }}
-</aside>
+{% if site.author.photo %}
+  ![{{ site.author.name }}]({{ site.author.photo }}){:.me}
 {% endif %}
 
+
+I am an Assistant Professor of philosophy at <a href = "http://www.conception.edu" target="_blank">Conception Seminary College</a>, Missouri. I received my PhD from <a href = "http://www.fordham.edu" target="_blank">Fordham University</a>, in New York.
+Before coming to the US, I did some medieval studies at <a href="http://www.ceu.hu" target="_blank">Central European University</a>, and even before that, studied philosophy and mathematics at <a href="http://www.elte.hu/en" target="_blank">Eötvös Loránd University</a> --- both in Budapest, Hungary.
+
+My main interest is later medieval philosophy, especially questions connected to metaphysics, philosophy of religion, and epistemology. I am also interested in the history of science, mainly in the connection between late medieval and early modern scientific practice and theory. My dissertation was on later medieval problems of secondary causality and divine concurrence (broadly between Aquinas and Gabriel Biel; [see the abstract](/2016/04/24/Diss/)).
+
+When I am not doing philosophy, I enjoy hiking, rock climbing, taking photos, and listening to and playing 14--18th-century music.<br><br>
+[Download full CV](/public/texts/CV.pdf)
+
+---
+
+### Contact
+
+
+<img class="img-single" align="left" src="/public/img/snail.gif" width="100"> Zita V. Tóth <br>
+Conception Seminary College <br>
+37174 State Highway VV <br>
+Conception, MO 64433, USA
 <br>
-<hr>
-<br>
 <br>
 
 
+<style>
+#wrap { width: 600px; height: 390px; padding: 0; overflow: hidden; }
+#frame { width: 800px; height: 520px; border: 1px solid black; }
+#frame { zoom: 0.75; -moz-transform: scale(0.75); -moz-transform-origin: 0 0; }
+</style>
 
+<div id="wrap">
 
-  <h1 class="page-title">{{ page.title }}</h1>
-<hr/>
-
-{% for post in site.posts %}
-<font face = 'IM Fell DW Pica'>
-      <a href="{{ site.baseurl }}{{ post.url }}">
-          <span>{{ post.title }}</span></a></font>
-      <font face =  'IM Fell DW Pica' color="#b8b8b8" size='small'>{{ post.date | date: "%m/%d/%y" }}</font></small><br>
-  <!-- {% if forloop.last %}</ul><hr/>{% endif %} !-->
-
-
-{% endfor %}
-
-{% if false %}
- <div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
+<iframe id="frame" src="https://docs.google.com/forms/d/1DYO3lq0JufCmMGR1KjXlYvwEM9s9Tu28I7M3G1F8LkA/viewform?embedded=true#responses" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
-
-
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div> -->
-{% endif %}
-
 
 <hr>
