@@ -39,12 +39,12 @@ Please reserve a slot before coming to office hours to make sure I am here. You 
 
 ### Some General Resources for Students
 
-- <a href="http://philpapers.org">Philpapers:</a> an excellent catalog of reliable philosophy papers and books, with great searching abilities.
-- <a href="http://plato.stanford.edu">The Stanford Encyclopedia of Philosophy:</a> please use this instead of wikipedia.
-- <a href="https://historyofphilosophy.net">History of Philosophy without any Gaps:</a> precisely as the name indicates. A podcast series by Peter Adamson and guests.
+- <a href="http://philpapers.org" target="_blank">Philpapers:</a> an excellent catalog of reliable philosophy papers and books, with great searching abilities.
+- <a href="http://plato.stanford.edu" target="_blank">The Stanford Encyclopedia of Philosophy:</a> please use this instead of wikipedia.
+- <a href="https://historyofphilosophy.net" target="_blank">History of Philosophy without any Gaps:</a> precisely as the name indicates. A podcast series by Peter Adamson and guests.
 
 
-
+---
 
 ### Other things
 
