@@ -12,7 +12,8 @@ My primary aim when teaching is to help students see why philosophy is both inst
 
 ### Current and Recent Courses
 
-- <a href="{{ site.baseurl }}/public/classes/Ancient ">Ancient Philosophy</a>
+<a href="{{ site.baseurl }}/public/classes/Ancient "><img class="img-single" align="left" src="/public/img/greek.jpg" width="150"></a>
+
 - <a href="{{ site.baseurl }}/public/classes/Ethics">Ethics</a>
 - <a href="{{ site.baseurl }}/public/classes/Medieval">Medieval Philosophy</a>
 - <a href="{{ site.baseurl }}/public/classes/Metaphysics">Metaphysics</a>
