@@ -1,7 +1,7 @@
 ---
 layout: bookmark
 title: Office Hours
-tags: Teaching
+#tags: Teaching
 color: '#d06706'
 ---
 

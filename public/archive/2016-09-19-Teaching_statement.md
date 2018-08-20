@@ -1,7 +1,7 @@
 ---
   layout: archive
   title: Teaching Statement
-  tag: Teaching
+  #tag: Teaching
   image: /public/img/archive.jpg
   color: '#b6874f'
 ---
