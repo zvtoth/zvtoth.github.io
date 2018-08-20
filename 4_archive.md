@@ -18,7 +18,7 @@ color: '#b6874f'
 Past schedules and resources.
 
 <ul><li> <a href="{{ site.baseurl }}/public/archive/2016-09-19-Teaching_statement">Statement of Teaching Philosophy</a></li></ul>
-<ul><li> <a href="{{ site.baseurl }}/public/archive/2016-09-02-Ethics_2016fall">Ethics, 2016 spring </a></li></ul>
+<ul><li> <a href="{{ site.baseurl }}/public/archive/2016-09-02-Ethics_2016fall">Ethics, 2016 fall </a></li></ul>
 <ul><li> <a href="{{ site.baseurl }}/public/archive/2016-01-19-Ethics">Ethics, 2016 spring </a></li></ul>
 
 
