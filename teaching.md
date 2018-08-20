@@ -5,6 +5,9 @@ image: /public/img/teaching.jpg
 color: '#466e2e'
 ---
 
+
+### Current and Recent Courses
+
 - <a href="{{ site.baseurl }}/public/classes/Ancient ">Ancient Philosophy</a>
 - <a href="{{ site.baseurl }}/public/classes/Ethics">Ethics</a>
 - <a href="{{ site.baseurl }}/public/classes/Medieval">Medieval Philosophy</a>
