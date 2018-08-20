@@ -22,3 +22,9 @@ August 24, The Milesians
 
 ### Bibliography
 (updated: 8/20/2018)
+
+G. S. Kirk. *The Presocratic Philosophers*. Cambridge: Cambridge University Press, 1983. Call #: 182 K59 1983
+
+Jonathan Barnes. *The Presocratic Philosophers*. London: Routledge, 1982. Call #: 182 B261
+
+Catherine Rowett. *Presocratic Philosophy: A Very Short Introduction.* Oxford: Oxford University Press, 2004. Call #: 182 O81p 
