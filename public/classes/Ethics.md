@@ -1,6 +1,6 @@
 ---
 layout: text
-title: Ancient Philosophy
+title: Ethics
 tags: Teaching
 image: /public/img/teach.jpg
 color: '#5e704b'
