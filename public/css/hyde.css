@@ -48,7 +48,7 @@ html {
   }
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-family: 'Arizonia', cursive !important;
 
 }
@@ -57,7 +57,7 @@ h1, h2, h3 {
   font-family: 'Jaldi', sans-serif !important;
 }
 
-h4, h5, h6{
+h3, h4, h5, h6{
   font-family: 'IM Fell DW Pica', serif !important;
  font-weight: normal !important;
 }
