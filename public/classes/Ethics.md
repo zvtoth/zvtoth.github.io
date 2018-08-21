@@ -12,7 +12,6 @@ The Greek word ‘ethos’ originally meant ‘custom’ or ‘habit.’ We huma
 
 __[2018 Fall Syllabus](/public/classes/Ethics2018.pdf)__
 
-<br>
 
 ### Class Schedule
 (updated: 8/20/2018)
@@ -21,7 +20,6 @@ __[2018 Fall Syllabus](/public/classes/Ethics2018.pdf)__
 
 
 
-<br>
 
 
 
