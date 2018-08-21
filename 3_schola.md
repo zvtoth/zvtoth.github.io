@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schola
+title: St. Gregory Schola
 image: /public/img/schola.jpg
 color: '#466e2e'
 ---
