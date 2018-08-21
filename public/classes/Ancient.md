@@ -14,7 +14,7 @@ In this course, we look at ancient Greek and Roman philosophy from the pre-Socra
 __[2018 Fall Syllabus](/public/classes/Ancient2018.pdf)__
 
 
-### Class Schedule
+#### Class Schedule
 (updated: 8/20/2018)
 
 August 20, Introduction
@@ -25,7 +25,7 @@ August 24, The Milesians
 
 
 
-### Bibliography
+#### Bibliography
 A list of books, related to the course material, available in the library. These are by no means mandatory readings, but might help with a deeper understanding of the thinkers we discuss in class.
 
 (updated: 8/20/2018)
