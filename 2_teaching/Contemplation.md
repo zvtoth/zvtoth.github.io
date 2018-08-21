@@ -17,11 +17,37 @@ In book X of the Nicomachean Ethics, Aristotle describes the contemplative life 
 ### Class Schedule
 (updated: 8/20/2018)
 
+Aug. 21, Introduction
 
+Aug. 28, The Greek background
+
+Sep. 4, Aristotle, *Nicomachean Ethics*
 
 
 
 ### Bibliography
 A list of books, related to the course material, available in the library. These are by no means mandatory readings, but might help with a deeper understanding of the thinkers we discuss in class.
 
-(updated: 8/20/2018)
+(updated: 8/21/2018)
+
+D. Z. Phillips. _Religion and the Hermeneutics of Contemplation_. Cambridge: Cambridge University Press, 2001.
+
+Thomas Benatouil and Mauro Bonazzi (eds.). _Theoria, Praxis, and the Contemplative Life after Plato and Aristotle_. Leiden: Brill, 2012.
+
+Kevin Hart. "Contemplation: Beyond and behind." _Sophia_ 48 (2009):435-459.
+
+Suzanne Obdrzalek. "Contemplation and self-mastery in Plato's Phaedrus." In Brad Inwood (ed.), _Oxford Studies in Ancient Philosophy_. Oxford: Oxford University Press, 2012.
+
+Michael Wiitala. "Contemplation and Action within the Context of the Kalon: A Reading of the Nicomachean Ethics." _Proceedings of the American Catholic Philosophical Association_ 83 (2009):173-182.
+
+Matthew D. Walker. _Aristotle on the Uses of Contemplation_. Cambridge: Cambridge University Press, 2018.
+
+John M. Cooper. "Contemplation and happiness: A reconsideration." _Synthese_ 72 (1987):187-216.
+
+John Peter Kenney. "Mysticism and Contemplation in the Enneads." _American Catholic Philosophical Quarterly_ 71 (1997):315-337.
+
+John Peter Kenney. _Contemplation and Classical Christianity: A Study in Augustine_. Oxford: Oxford University Press, 2013.
+
+Suzanne LaVere. "From Contemplation to Action: The Role of the Active Life in the "Glossa ordinaria" on the Song of Songs." _Speculum_ 82 (2007):54-69.
+
+Gerald Cresta. "Bonaventure: Intellectual Contemplation, Sapiential Contemplation and beatitudo." _Quaestio_ 15 (2015):507-515.
