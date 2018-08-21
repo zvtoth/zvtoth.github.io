@@ -16,11 +16,11 @@ My primary aim when teaching is to help students see why philosophy is both inst
 <br>
 <br>
 
-<a href="{{ site.baseurl }}/public/classes/Ancient "><img src="{{ site.baseurl }}/public/img/greek.jpg" width="150" height="150" title="Ancient Philosophy" hspace="40" /></a>
-<a href="{{ site.baseurl }}/public/classes/Medieval "><img src="{{ site.baseurl }}/public/img/medieval.jpg" width="150" height="150" title="Medieval Philosophy" hspace="40" /></a>
-<a href="{{ site.baseurl }}/public/classes/Ethics "><img src="{{ site.baseurl }}/public/img/ethics.jpg" width="150" height="150" title="Ethics" hspace="40" /></a>
-<a href="{{ site.baseurl }}/public/classes/Metaphysics "><img src="{{ site.baseurl }}/public/img/meta.jpg" width="150" height="150" title="Metaphysics" hspace="40" /></a>
-<a href="{{ site.baseurl }}/public/classes/Contemplation"><img src="{{ site.baseurl }}/public/img/cont.jpg" width="150" height="150" title="Contemplative Life" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Ancient "><img src="{{ site.baseurl }}/public/img/greek.jpg" width="150" height="150" title="Ancient Philosophy" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Medieval "><img src="{{ site.baseurl }}/public/img/medieval.jpg" width="150" height="150" title="Medieval Philosophy" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Ethics "><img src="{{ site.baseurl }}/public/img/ethics.jpg" width="150" height="150" title="Ethics" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Metaphysics "><img src="{{ site.baseurl }}/public/img/meta.jpg" width="150" height="150" title="Metaphysics" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Contemplation"><img src="{{ site.baseurl }}/public/img/cont.jpg" width="150" height="150" title="Contemplative Life" hspace="40" /></a>
 
 </div>
 
