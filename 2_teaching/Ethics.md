@@ -10,7 +10,7 @@ color: '#5e704b'
 
 The Greek word ‘ethos’ originally meant ‘custom’ or ‘habit.’ We humans are rather obsessed with observing, explaining, and, most of all, judging our own habits and those of others. Ethical judgments are about the quality or worthiness of choices, customs, habits, or ways of life. In philosophical ethics, we ask how these judgments are justified. For instance, is the best life just the one that adds the most happiness to the world? Or is the goodness of a life independent of its actual consequences? Are these evaluations made true in different ways in different cultures? In this class we will look more closely at these suggestions and see where they lead.
 
-__[2018 Fall Syllabus](/public/classes/Ethics2018.pdf)__
+<a href="http://zitavtoth.com/2_teaching/Ethics2018.pdf/">2018 Fall syllabus</a>
 
 
 ### Class Schedule

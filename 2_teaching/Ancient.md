@@ -11,7 +11,7 @@ color: '#5e704b'
 In this course, we look at ancient Greek and Roman philosophy from the pre-Socratics to the early Christian era. Representative figures include the Pre-Socratics, Sophists, Plato, Aristotle, the Stoics, Epicureans, Skeptics, Plotinus, and St. Augustine.
 
 
-__[2018 Fall Syllabus](/public/classes/Ancient2018.pdf)__
+<a href="http://zitavtoth.com/2_teaching/Ancient2018.pdf/">2018 Fall syllabus</a>
 
 
 
