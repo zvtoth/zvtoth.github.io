@@ -10,7 +10,7 @@ My primary aim when teaching is to help students see why philosophy is both inst
 
 ---
 
-#### Current and Recent Courses
+### Current and Recent Courses
 
 <div>
 <br>
@@ -28,7 +28,7 @@ My primary aim when teaching is to help students see why philosophy is both inst
 
 ---
 
-#### Office Hours
+### Office Hours
 
 My office is in St. Maur Hall, A002 (lower level).
 Please reserve a slot before coming to office hours to make sure I am here. You can make a reservation by clicking on the preferred time below.
@@ -37,7 +37,7 @@ Please reserve a slot before coming to office hours to make sure I am here. You 
 
 ---
 
-#### Some General Resources for Students
+### Some General Resources for Students
 
 - <a href="http://philpapers.org" target="_blank">Philpapers:</a> an excellent catalog of reliable philosophy papers and books, with great searching abilities.
 - <a href="http://plato.stanford.edu" target="_blank">The Stanford Encyclopedia of Philosophy:</a> please use this instead of wikipedia.
@@ -46,7 +46,7 @@ Please reserve a slot before coming to office hours to make sure I am here. You 
 
 ---
 
-#### Other things
+### Other things
 
 - <a href="https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.a63fa0z6h" target="_blank">How to Email Your Professor <i class="fa fa-link"></i></a>
 - <a href="http://www.slate.com/articles/life/education/2016/08/the_one_thing_college_students_should_never_say_to_a_professor.html" target="_blank">Need an A? <i class="fa fa-link"></i></a>
