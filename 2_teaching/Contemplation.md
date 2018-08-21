@@ -36,28 +36,28 @@ Gerd van Riel. _Pleasure and the Good Life: Plato, Aristotle, and the Neoplatoni
 
 Thomas Benatouil and Mauro Bonazzi (eds.). _Theoria, Praxis, and the Contemplative Life after Plato and Aristotle_. Leiden: Brill, 2012.
 
-Kevin Hart. "Contemplation: Beyond and behind." _Sophia_ 48 (2009):435-459.
+Kevin Hart. "Contemplation: Beyond and behind." _Sophia_ 48 (2009):435–459.
 
 Suzanne Obdrzalek. "Contemplation and self-mastery in Plato's Phaedrus." In Brad Inwood (ed.), _Oxford Studies in Ancient Philosophy_. Oxford: Oxford University Press, 2012.
 
 Matthew D. Walker. _Aristotle on the Uses of Contemplation_. Cambridge: Cambridge University Press, 2018.
 
-Michael Wiitala. "Contemplation and Action within the Context of the Kalon: A Reading of the Nicomachean Ethics." _Proceedings of the American Catholic Philosophical Association_ 83 (2009):173-182.
+Michael Wiitala. "Contemplation and Action within the Context of the Kalon: A Reading of the Nicomachean Ethics." _Proceedings of the American Catholic Philosophical Association_ 83 (2009):173–182.
 
 Wei Liu. "An all-inclusive Interpretation of Aristotle's Contemplative Life." _Sophia_ 50 (2011):57–71.
 
-John M. Cooper. "Contemplation and happiness: A reconsideration." _Synthese_ 72 (1987):187-216.
+John M. Cooper. "Contemplation and happiness: A reconsideration." _Synthese_ 72 (1987):187–216.
 
-John Peter Kenney. "Mysticism and Contemplation in the Enneads." _American Catholic Philosophical Quarterly_ 71 (1997):315-337.
+John Peter Kenney. "Mysticism and Contemplation in the Enneads." _American Catholic Philosophical Quarterly_ 71 (1997):315–337.
 
 John Peter Kenney. _Contemplation and Classical Christianity: A Study in Augustine_. Oxford: Oxford University Press, 2013.
 
 Luisa Valente. "Happiness, Contemplative Life, and the _tria genera hominum_ in Twelfth-century Philosophy: Peter Abelard and John of Salisbury." _Quaestio_ 15 (2015):73–98.
 
-Suzanne LaVere. "From Contemplation to Action: The Role of the Active Life in the "Glossa ordinaria" on the Song of Songs." _Speculum_ 82 (2007):54-69.
+Suzanne LaVere. "From Contemplation to Action: The Role of the Active Life in the "Glossa ordinaria" on the Song of Songs." _Speculum_ 82 (2007):54–69.
 
-Gerald Cresta. "Bonaventure: Intellectual Contemplation, Sapiential Contemplation and beatitudo." _Quaestio_ 15 (2015):507-515.
+Gerald Cresta. "Bonaventure: Intellectual Contemplation, Sapiential Contemplation and beatitudo." _Quaestio_ 15 (2015):507–515.
 
-Mary Catherine Sommers. "Imaging the Contemplative Life in Thomas Aquinas." _Semiotics_ 2000: 40-53.
+Mary Catherine Sommers. "Imaging the Contemplative Life in Thomas Aquinas." _Semiotics_ 2000: 40–53.
 
 Bede McGreggor. "Thomas Merton on the Contemplative Life." _New Blackfriars_ 53 (1972):470–476.
