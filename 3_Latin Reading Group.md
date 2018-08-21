@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Latin Reading Group
-image: /public/img/schola.jpg
+image: /public/img/latin.jpg
 color: '#466e2e'
 ---
 
