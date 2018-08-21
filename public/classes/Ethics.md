@@ -13,9 +13,8 @@ The Greek word ‘ethos’ originally meant ‘custom’ or ‘habit.’ We huma
 __[2018 Fall Syllabus](/public/classes/Ethics2018.pdf)__
 
 <br>
-<br>
 
-#### Class Schedule
+### Class Schedule
 (updated: 8/20/2018)
 
 
@@ -23,13 +22,12 @@ __[2018 Fall Syllabus](/public/classes/Ethics2018.pdf)__
 
 
 <br>
-<br>
 
 
 
 
 
-#### Bibliography
+### Bibliography
 A list of books, related to the course material, available in the library. These are by no means mandatory readings, but might help with a deeper understanding of the thinkers we discuss in class.
 
 (updated: 8/20/2018)
