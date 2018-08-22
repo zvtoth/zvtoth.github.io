@@ -12,6 +12,7 @@ What do we mean precisely when we say that the fire is cracking in the fireplace
 ### Recent Presentations
 
 in progress . . .
+
 ---
 
 ### Some Transcriptions
