@@ -44,3 +44,6 @@ Charles H. Kahn and Joe McCoy, eds. _Early Greek Philosophy_. Washington, DC: Ca
 Charles H. Kahn. _The Art and Thought of Heraclitus: An Edition of the Fragments with Translation and Commentary_. Cambridge: Cambridge University Press, 1979. Call #: 182.4 K12.
 
 Charles H. Kahn. _Anaximander and the Origins of Greek Cosmology_. New York: Columbia University Press, 1960. Call #: 113 K12.
+
+
+<img class="img-single" align="left" src="/public/img/greece.jpg" width="600">
