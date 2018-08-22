@@ -3,7 +3,7 @@ layout: text
 title: Ethics
 tags: Teaching
 image: /public/img/teach.jpg
-color: '#5e704b'
+color: '#d58000'
 ---
 
 <img class="img-single" align="right" src="/public/img/ethics.jpg" width="200">

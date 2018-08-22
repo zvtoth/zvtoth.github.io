@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 image: /public/img/teach.jpg
-color: '#466e2e'
+color: '#d58000'
 ---
 
 "It is not enough that my devotion to you has not helped me at all, but you are now made the victim of the hatred,'' complains Boethius to Philosophy personalized, with the barbarians standing at the gates of Rome and himself sentenced to death. It seems that college students often formulate the very same complaint about studying philosophy; with no jobs around, the economy in crisis, they feel rather in need of some practical skills that would help them in these circumstances, or, in a seminary, of some training that would specifically prepare them for the path they are to undertake.

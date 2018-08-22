@@ -3,7 +3,7 @@ layout: text
 title: Contemplative Life in Aristotle, Aquinas, and Josef Pieper
 tags: Teaching
 image: /public/img/teach.jpg
-color: '#5e704b'
+color: '#d58000'
 ---
 
 <img class="img-single" align="right" src="/public/img/cont.jpg" width="200">
