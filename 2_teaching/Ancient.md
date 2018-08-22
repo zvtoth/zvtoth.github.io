@@ -39,7 +39,7 @@ Jonathan Barnes. *The Presocratic Philosophers*. London: Routledge, 1982. Call #
 
 Catherine Rowett. *Presocratic Philosophy: A Very Short Introduction.* Oxford: Oxford University Press, 2004. Call #: 182 O81p.
 
-Charles H. Kahn and Joe McCoy, eds. _Early Greek Philosophy_. Washington, DC: Catholic University of America Press, 2013. (e-book access.)
+Charles H. Kahn and Joe McCoy, eds. _Early Greek Philosophy_. Washington, DC: Catholic University of America Press, 2013. (<a href="https://kc-towers.searchmobius.org/search~S16?/Xvorsokratiker&searchscope=16&SORT=DZ/Xvorsokratiker&searchscope=16&SORT=DZ&extended=0&SUBKEY=vorsokratiker/1%2C5%2C5%2CB/frameset&FF=Xvorsokratiker&searchscope=16&SORT=DZ&3%2C3%2C" target=_"blank">e-book access</a>.)
 
 Charles H. Kahn. _The Art and Thought of Heraclitus: An Edition of the Fragments with Translation and Commentary_. Cambridge: Cambridge University Press, 1979. Call #: 182.4 K12.
 
