@@ -16,13 +16,80 @@ In this course, we look at ancient Greek and Roman philosophy from the pre-Socra
 
 
 ### Class Schedule
-(updated: 8/20/2018)
+(updated: 8/22/2018)
 
-August 20, Introduction
+Aug. 20, Introduction
 
-August 22, Introduction to the Presocratics
+Aug. 22, Introduction to the Presocratics
 
-August 24, The Milesians
+Aug. 24, The Milesians
+
+Aug. 27, Heraclitus
+
+Aug. 29, Parmenides
+
+Aug. 31, Anaxagoras
+
+Sep. 5, Atomists
+
+Sep. 7, Sophists
+
+Sep. 10, Euthyphro – *presentation: Hugo Rodriguez*
+
+Sep 12, Apology
+
+Sep 14, Timaeus – *presentation: Jared Ludwig*
+
+Sep 17–21, Phaedo
+
+Sep 24, Republic I
+
+Sep 26, Republic IV
+
+Sep 28, Republic VI, VII
+
+Oct 1, Overview
+
+Oct 3, Aristotle's criticism of Plato
+
+Oct 5, Categories
+
+Oct 8, Matter and form
+
+Oct 10, The four causes
+
+Oct 12, The unmoved mover
+
+Oct 15–17, The soul
+
+Oct 19, Overview
+
+Oct 22, Lucretius – *presentation: Eric Frieb*
+
+Oc 24, Epicureanism
+
+Oct 26–29, Stoicism: Fate
+
+Nov 2, Stoicism: Ethics
+
+Nov 5, Pyrrho
+
+Nov 7, Sextus Empiricus
+
+Nov 12, Philo of Alexandria – *presentation: Johnnatan Ibarra Juarez*
+
+Nov 14–19, Plotinus
+
+Nov 29, Augustine and Plato
+
+Nov 28, Augustine on Skepticism
+
+Nov 30, Augustine on Evil – *presentation: Cesar Gomez*
+
+Dec 3, Augustine on Free Will
+
+
+
 
 
 
