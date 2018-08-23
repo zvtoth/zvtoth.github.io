@@ -15,7 +15,7 @@ description:      Assistant Professor of Philosophy (Conception Seminary College
 
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     
+sidebar_tags:
 
 # Fallback image and color if not overwritten for tag or post
 image:           /public/img/tree.jpg
@@ -23,7 +23,7 @@ color:            '#b14633'
 
 author:
   name:           'Zita V. Tóth'
-  email:           ztoth@fordham.edu
+  email:           ztoth@conception.edu
   facebook:     zita.v.toth
   github:         zvtoth
   linkedin:      tothzita

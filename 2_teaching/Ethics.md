@@ -25,7 +25,7 @@ The Greek word ‘ethos’ originally meant ‘custom’ or ‘habit.’ We huma
 
 
 
-### Bibliography
-A list of books, related to the course material, available in the library. These are by no means mandatory readings, but might help with a deeper understanding of the thinkers we discuss in class.
+### Others
 
-(updated: 8/20/2018)
+- A (somewhat silly) quiz to determine where you stand in terms of the main ethical theories: <a href="http://www.open.edu/openlearn/history-the-arts/culture/philosophy/lie-or-not-lie" target="_blank">to lie or not to lie?</a>
+- On smartphones and their dangers <a href="https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/" target="_blank">in the Atlantic</a>
