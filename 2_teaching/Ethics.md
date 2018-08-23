@@ -14,10 +14,49 @@ The Greek word ‘ethos’ originally meant ‘custom’ or ‘habit.’ We huma
 
 
 ### Class Schedule
-(updated: 8/20/2018)
+(updated: 8/23/2018)
 
+Aug 21, Introduction
 
+Aug 23, Why be moral?
 
+Aug 28, Moral relativism
+
+Aug 30, Introduction to normative ethics
+
+Sep 4, Mill's utilitarianism
+
+Sep 6, Social contract
+
+Sep 11, Utilitarianism: applications
+
+Sep 13, Utilitarianism: critique
+
+Sep 18, Hume
+
+Sep 20–27, Kant's deontology
+
+Oct 2, Divine command theory
+
+Oct 3, Deontology: applications
+
+Oct 9, Deontology: critique
+
+Oct 16–18, Aristotle on virtues
+
+Oct 23, Augustine on virtues
+
+Oct 25, McIntyre on virtues
+
+Oct 30, Aquinas on natural law
+
+Nov 6–15, Virtue ethics: applications
+
+Nov 20, Virtue ethics: critique
+
+Nov 27–Dec 4, Abolition of Man
+
+Dec 6, Review
 
 
 
