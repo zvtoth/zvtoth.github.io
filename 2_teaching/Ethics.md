@@ -64,7 +64,7 @@ Dec 6, Review
 
 
 
-### Others
+### Other things
 
 - A (somewhat silly) quiz to determine where you stand in terms of the main ethical theories: <a href="http://www.open.edu/openlearn/history-the-arts/culture/philosophy/lie-or-not-lie" target="_blank">to lie or not to lie?</a>
 - On smartphones and their dangers <a href="https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/" target="_blank">in the Atlantic</a>

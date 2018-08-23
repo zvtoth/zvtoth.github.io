@@ -50,3 +50,4 @@ Please reserve a slot before coming to office hours to make sure I am here. You 
 
 - <a href="https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.a63fa0z6h" target="_blank">How to Email Your Professor <i class="fa fa-link"></i></a>
 - <a href="http://www.slate.com/articles/life/education/2016/08/the_one_thing_college_students_should_never_say_to_a_professor.html" target="_blank">Need an A? <i class="fa fa-link"></i></a>
+- The unforgettable <a href="https://www.youtube.com/watch?v=wxrbOVeRonQ" target="_blank">argument clinic</a> by Monty Python.
