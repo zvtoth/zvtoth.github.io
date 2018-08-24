@@ -60,13 +60,21 @@ A list of books, related to the course material, available in the library. These
 
 (updated: 8/22/2018)
 
+#### General
+
+William Guthrie. _A History of Greek Philosophy._ Cambridge: Cambridge University Press, 1962–81. 6 vols., from the Presocratics to Aristotle.
+
+Terence Irwin. _Classical Thought._ Oxford: Oxford University Press, 1989.
+
+Christopher Shields. *Ancient Philosophy: A Contemporary Introduction.* London: Routledge, 2012. A general introduction to Ancient Greek philosophy, focusing on arguments. It also contains a very good bibliography.
+
 #### Presocratic texts
 
 Hermann Diels and Walther Kranz, eds. _Die Fragmente der Vorsokratiker_. Weidmannsche Buchhandlung, 1903. Not very user-friendly (Greek/German bilingual), but it is the standard edition of the Presocratics. <a href="https://archive.org/details/diefragmenteder00krangoog" target="_blank">Available online</a>.
 
-G. S. Kirk. *The Presocratic Philosophers*. Cambridge: Cambridge University Press, 1983. Call #: 182 K59 1983.
+G. S. Kirk, J. E. Raven, and M. Schofield. *The Presocratic Philosophers*. Cambridge: Cambridge University Press, 1983. Call #: 182 K59 1983.
 
-#### General introductions to the Presocratics
+#### Introduction to the Presocratics
 
 Jonathan Barnes. *The Presocratic Philosophers*. London: Routledge, 1982. Call #: 182 B261.
 
@@ -76,7 +84,6 @@ Charles H. Kahn and Joe McCoy, eds. _Early Greek Philosophy_. Washington, DC: Ca
 
 Catherine Rowett. *Presocratic Philosophy: A Very Short Introduction.* Oxford: Oxford University Press, 2004. Call #: 182 O81p.
 
-Christopher Shields. *Ancient Philosophy: A Contemporary Introduction.* London: Routledge, 2012. A general introduction to Ancient Greek philosophy, not just the Presocratics, focusing on arguments.
 
 #### Works on specific Presocratic authors
 
