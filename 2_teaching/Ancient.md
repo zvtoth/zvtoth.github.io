@@ -39,7 +39,6 @@ Sep. 10, Euthyphro – *presentation: Hugo Rodriguez*
 Sep 12, Apology
 
 Sep 14, Timaeus – *presentation: Jared Ludwig*
-
 Sep 17–21, Phaedo
 
 Sep 24, Republic I
