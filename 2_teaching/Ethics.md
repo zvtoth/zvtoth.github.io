@@ -17,51 +17,26 @@ The Greek word ‘ethos’ originally meant ‘custom’ or ‘habit.’ We huma
 (updated: 8/23/2018)
 
 Aug 21, Introduction
-
-Aug 23, Why be moral?
-
-Aug 28, Moral relativism
-
-Aug 30, Introduction to normative ethics
-
-Sep 4, Mill's utilitarianism
-
-Sep 6, Social contract
-
-Sep 11, Utilitarianism: applications
-
-Sep 13, Utilitarianism: critique
-
-Sep 18, Hume
-
-Sep 20–27, Kant's deontology
-
-Oct 2, Divine command theory
-
-Oct 3, Deontology: applications
-
-Oct 9, Deontology: critique
-
-Oct 16–18, Aristotle on virtues
-
-Oct 23, Augustine on virtues
-
-Oct 25, McIntyre on virtues
-
-Oct 30, Aquinas on natural law
-
-Nov 6–15, Virtue ethics: applications
-
-Nov 20, Virtue ethics: critique
-
-Nov 27–Dec 4, Abolition of Man
-
-Dec 6, Review
-
-
-
-
-
+<br> Aug 23, Why be moral?
+<br> Aug 28, Moral relativism
+<br> Aug 30, Introduction to normative ethics
+<br> Sep 4, Mill's utilitarianism
+<br> Sep 6, Social contract
+<br> Sep 11, Utilitarianism: applications
+<br> Sep 13, Utilitarianism: critique
+<br> Sep 18, Hume
+<br> Sep 20–27, Kant's deontology
+<br> Oct 2, Divine command theory
+<br> Oct 3, Deontology: applications
+<br> Oct 9, Deontology: critique
+<br> Oct 16–18, Aristotle on virtues
+<br> Oct 23, Augustine on virtues
+<br> Oct 25, McIntyre on virtues
+<br> Oct 30, Aquinas on natural law
+<br> Nov 6–15, Virtue ethics: applications
+<br> Nov 20, Virtue ethics: critique
+<br> Nov 27–Dec 4, Abolition of Man
+<br> Dec 6, Review
 
 
 ### Other things
