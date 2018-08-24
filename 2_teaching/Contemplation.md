@@ -60,4 +60,6 @@ Gerald Cresta. "Bonaventure: Intellectual Contemplation, Sapiential Contemplatio
 
 Mary Catherine Sommers. "Imaging the Contemplative Life in Thomas Aquinas." _Semiotics_ 2000: 40–53.
 
+Adriano Oliva. "La contemplation des philosophers selon Thomas d'Aquin." _Revue des Sciences Philosophiques et Théologiques_ 96 (2012):585–662.
+
 Bede McGreggor. "Thomas Merton on the Contemplative Life." _New Blackfriars_ 53 (1972):470–476.
