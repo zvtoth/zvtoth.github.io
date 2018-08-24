@@ -19,77 +19,40 @@ In this course, we look at ancient Greek and Roman philosophy from the pre-Socra
 (updated: 8/22/2018)
 
 Aug. 20, Introduction
-
-Aug. 22, Introduction to the Presocratics
-
-Aug. 24, The Milesians
-
-Aug. 27, Heraclitus
-
-Aug. 29, Parmenides
-
-Aug. 31, Anaxagoras
-
-Sep. 5, Atomists
-
-Sep. 7, Sophists
-
-Sep. 10, Euthyphro – *presentation: Hugo Rodriguez*
-
-Sep 12, Apology
-
-Sep 14, Timaeus – *presentation: Jared Ludwig*
+<br> Aug. 22, Introduction to the Presocratics
+<br> Aug. 24, The Milesians
+<br> Aug. 27, Heraclitus
+<br> Aug. 29, Parmenides
+<br> Aug. 31, Anaxagoras
+<br> Sep. 5, Atomists
+<br> Sep. 7, Sophists
+<br> Sep. 10, Euthyphro – *presentation: Hugo Rodriguez*
+<br> Sep 12, Apology
+<br> Sep 14, Timaeus – *presentation: Jared Ludwig*
 <br> Sep 17–21, Phaedo
-
-Sep 24, Republic I
-
-Sep 26, Republic IV
-
-Sep 28, Republic VI, VII
-
-Oct 1, Overview
-
-Oct 3, Aristotle's criticism of Plato
-
-Oct 5, Categories
-
-Oct 8, Matter and form
-
-Oct 10, The four causes
-
-Oct 12, The unmoved mover
-
-Oct 15–17, The soul
-
-Oct 19, Overview
-
-Oct 22, Lucretius – *presentation: Eric Frieb*
-
-Oc 24, Epicureanism
-
-Oct 26–29, Stoicism: Fate
-
-Nov 2, Stoicism: Ethics
-
-Nov 5, Pyrrho
-
-Nov 7, Sextus Empiricus
-
-Nov 12, Philo of Alexandria – *presentation: Johnnatan Ibarra Juarez*
-
-Nov 14–19, Plotinus
-
-Nov 29, Augustine and Plato
-
-Nov 28, Augustine on Skepticism
-
-Nov 30, Augustine on Evil – *presentation: Cesar Gomez*
-
-Dec 3, Augustine on Free Will
-
-
-
-
+<br> Sep 24, Republic I
+<br> Sep 26, Republic IV
+<br> Sep 28, Republic VI, VII
+<br> Oct 1, Overview
+<br> Oct 3, Aristotle's criticism of Plato
+<br> Oct 5, Categories
+<br> Oct 8, Matter and form
+<br> Oct 10, The four causes
+<br> Oct 12, The unmoved mover
+<br> Oct 15–17, The soul
+<br> Oct 19, Overview
+<br> Oct 22, Lucretius – *presentation: Eric Frieb*
+<br> Oc 24, Epicureanism
+<br> Oct 26–29, Stoicism: Fate
+<br> Nov 2, Stoicism: Ethics
+<br> Nov 5, Pyrrho
+<br> Nov 7, Sextus Empiricus
+<br> Nov 12, Philo of Alexandria – *presentation: Johnnatan Ibarra Juarez*
+<br> Nov 14–19, Plotinus
+<br> Nov 29, Augustine and Plato
+<br> Nov 28, Augustine on Skepticism
+<br> Nov 30, Augustine on Evil – *presentation: Cesar Gomez*
+<br> Dec 3, Augustine on Free Will
 
 
 ### Bibliography
