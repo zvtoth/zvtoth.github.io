@@ -21,7 +21,7 @@ Aug. 21, Introduction
 
 Aug. 28, The Greek background
 
-Sep. 4, Aristotle, *Nicomachean Ethics*
+Sep. 4, Plato: _Phaedo_ 63e–69e, _Phaedrus_ 245c–250c, _Timaeus_ 89a–92c; Aristotle: _Metaphysics_ XII.7–9, _De Anima_ 3.4–5, _Nicomachean Ethics_ VI.
 
 
 
@@ -37,6 +37,8 @@ Gerd van Riel. _Pleasure and the Good Life: Plato, Aristotle, and the Neoplatoni
 Thomas Benatouil and Mauro Bonazzi (eds.). _Theoria, Praxis, and the Contemplative Life after Plato and Aristotle_. Leiden: Brill, 2012.
 
 Kevin Hart. "Contemplation: Beyond and behind." _Sophia_ 48 (2009):435–459.
+
+F Rosen. "Contemplation and Virtue in Plato." _Religious Studies_ 16 (1980):85–95.
 
 Suzanne Obdrzalek. "Contemplation and self-mastery in Plato's Phaedrus." In Brad Inwood (ed.), _Oxford Studies in Ancient Philosophy_. Oxford: Oxford University Press, 2012.
 
