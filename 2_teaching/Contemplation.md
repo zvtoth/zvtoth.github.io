@@ -15,20 +15,19 @@ In book X of the Nicomachean Ethics, Aristotle describes the contemplative life 
 
 
 ### Class Schedule
-(updated: 8/20/2018)
+(updated: 9/4/2018)
 
-Aug. 21, Introduction
-
-Aug. 28, The Greek background
-
-Sep. 4, Plato: _Phaedo_ 63e–69e, _Phaedrus_ 245c–250c, _Timaeus_ 89a–92c; Aristotle: _Metaphysics_ XII.7–9, _De Anima_ 3.4–5, _Nicomachean Ethics_ VI.
+Aug. 21, Introduction <br>
+Aug. 28, The Greek background <br>
+Sep. 4, Plato: _Phaedo_ 63e–69e, _Phaedrus_ 245c–250c, _Timaeus_ 89a–92c; Aristotle: _Metaphysics_ XII.7–9, _De Anima_ 3.4–5, _Nicomachean Ethics_ VI. <br>
+Sep. 11, Aristotle, _Nicomachean Ethics_ X. <br>
 
 
 
 ### Bibliography
 A list of books, related to the course material, available in the library. These are by no means mandatory readings, but might help with a deeper understanding of the thinkers we discuss in class.
 
-(updated: 8/21/2018)
+(updated: 9/4/2018)
 
 D. Z. Phillips. _Religion and the Hermeneutics of Contemplation_. Cambridge: Cambridge University Press, 2001.
 
@@ -41,6 +40,8 @@ Kevin Hart. "Contemplation: Beyond and behind." _Sophia_ 48 (2009):435–459.
 F Rosen. "Contemplation and Virtue in Plato." _Religious Studies_ 16 (1980):85–95.
 
 Suzanne Obdrzalek. "Contemplation and self-mastery in Plato's Phaedrus." In Brad Inwood (ed.), _Oxford Studies in Ancient Philosophy_. Oxford: Oxford University Press, 2012.
+
+W. F. R. Hardie. "The Final Good in Aristotle's Ethics." _Philosophy_ 40 (1965):277–295.
 
 Matthew D. Walker. _Aristotle on the Uses of Contemplation_. Cambridge: Cambridge University Press, 2018.
 
