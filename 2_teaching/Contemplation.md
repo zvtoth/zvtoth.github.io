@@ -42,6 +42,8 @@ Thomas Benatouil and Mauro Bonazzi (eds.). _Theoria, Praxis, and the Contemplati
 
 F Rosen. "Contemplation and Virtue in Plato." _Religious Studies_ 16 (1980):85–95.
 
+Martha Nussbaum. "'This story isn't true': Madness, Reason, and Recantation in the _Phaedrus_." In: Nussbaum, _The Fragility of Goodness_. Cambridge: Cambridge University Presss (1986), 200--233.
+
 Suzanne Obdrzalek. "Contemplation and self-mastery in Plato's Phaedrus." In Brad Inwood (ed.), _Oxford Studies in Ancient Philosophy_. Oxford: Oxford University Press, 2012.
 
 Kevin Hart. "Contemplation: Beyond and behind." _Sophia_ 48 (2009):435–459.
