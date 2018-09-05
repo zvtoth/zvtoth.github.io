@@ -14,4 +14,4 @@ Everyone is welcome to the group; proficiency in Latin is not required. <a href=
 
 <br>
 
-<img class="img-single" align="center" src="/public/img/Egeria.jpg" width="550">
+<a href="https://docs.google.com/document/d/1Pri49f4LbqmYOFItRv-4fD0lWVUIHKT_zsiWg58txKQ/edit" target="_blank"><img class="img-single" align="center" src="/public/img/Egeria.jpg" width="550"></a>
