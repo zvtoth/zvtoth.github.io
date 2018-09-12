@@ -91,5 +91,9 @@ Charles H. Kahn. _Anaximander and the Origins of Greek Cosmology_. New York: Col
 
 Charles H. Kahn. _The Art and Thought of Heraclitus: An Edition of the Fragments with Translation and Commentary_. Cambridge: Cambridge University Press, 1979. Call #: 182.4 K12.
 
+#### Plato
+
+A. E. Taylor, _Plato: The Man and His Works._ Dover Books, 2011 (reprint)
+
 
 <img class="img-single" align="left" src="/public/img/greece.jpg" width="600">
