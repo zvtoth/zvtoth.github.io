@@ -55,6 +55,11 @@ Aug. 20, Introduction
 <br> Dec 3, Augustine on Free Will
 
 
+### Assignments
+
+<a href="http://zitavtoth.com/2_teaching/Ancient_1stpaper.pdf">First paper prompt</a> (due: September 12)
+
+
 ### Bibliography
 A list of books, related to the course material, available in the library. These are by no means mandatory readings, but might help with a deeper understanding of the thinkers we discuss in class.
 

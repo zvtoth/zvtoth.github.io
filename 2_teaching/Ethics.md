@@ -38,6 +38,10 @@ Aug 21, Introduction
 <br> Nov 27–Dec 4, Abolition of Man
 <br> Dec 6, Review
 
+### Assignments
+
+<a href="http://zitavtoth.com/2_teaching/Ethics_1stpaper.pdf">First paper prompt</a> (due: September 25)
+
 
 ### Other things
 
