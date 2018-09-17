@@ -59,6 +59,8 @@ Michael Wiitala. "Contemplation and Action within the Context of the Kalon: A Re
 
 Richard Kraut. _Aristotle on the Human Good._ Princeton: Princeton University Press, 1989.
 
+Gabriel Richardson Lear. _Happy Lives and the Highest Good: An Essay on Aristotle's Nicomachean Ethics._ Princeton: Princeton University Press, 2004.
+
 Wei Liu. "An all-inclusive Interpretation of Aristotle's Contemplative Life." _Sophia_ 50 (2011):57–71.
 
 John M. Cooper. "Contemplation and happiness: A reconsideration." _Synthese_ 72 (1987):187–216.
