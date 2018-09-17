@@ -57,6 +57,8 @@ Matthew D. Walker. _Aristotle on the Uses of Contemplation_. Cambridge: Cambridg
 
 Michael Wiitala. "Contemplation and Action within the Context of the Kalon: A Reading of the Nicomachean Ethics." _Proceedings of the American Catholic Philosophical Association_ 83 (2009):173–182.
 
+Richard Kraut. _Aristotle on the Human Good._ Princeton: Princeton University Press, 1989.
+
 Wei Liu. "An all-inclusive Interpretation of Aristotle's Contemplative Life." _Sophia_ 50 (2011):57–71.
 
 John M. Cooper. "Contemplation and happiness: A reconsideration." _Synthese_ 72 (1987):187–216.
