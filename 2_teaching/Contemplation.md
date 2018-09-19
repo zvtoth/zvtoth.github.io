@@ -21,6 +21,7 @@ Aug. 21, Introduction <br>
 Aug. 28, The Greek background <br>
 Sep. 4, Plato: _Phaedo_ 63e–69e, _Phaedrus_ 245c–250c, _Timaeus_ 89a–92c; Aristotle: _Metaphysics_ XII.7–9, _De Anima_ 3.4–5, _Nicomachean Ethics_ VI. <br>
 Sep. 11, Aristotle, _Nicomachean Ethics_ X. <br>
+Sep. 18--25, Inclusive and dominant-end interpretations of Aristotle <br>
 
 
 
