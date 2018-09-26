@@ -22,6 +22,7 @@ Aug. 28, The Greek background <br>
 Sep. 4, Some excerpts from <a href="http://zitavtoth.com/2_teaching/Plato_excerpts.pdf">Plato</a> and <a href="http://zitavtoth.com/2_teaching/Aristotle_excerpts.pdf">Aristotle</a> <br>
 Sep. 11, Aristotle, _Nicomachean Ethics_ X. <br>
 Sep. 18--25, Inclusive and dominant-end interpretations of Aristotle <br>
+Oct. 2, Augustine <br>
 
 
 
