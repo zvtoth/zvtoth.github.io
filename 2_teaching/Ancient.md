@@ -57,7 +57,8 @@ Aug. 20, Introduction
 
 ### Assignments
 
-<a href="http://zitavtoth.com/2_teaching/Ancient_1stpaper.pdf">First paper prompt</a> (due: September 12)
+<a href="http://zitavtoth.com/2_teaching/Ancient_1stpaper.pdf">First paper prompt</a> (due: September 12)</br>
+<a href="http://zitavtoth.com/2_teaching/Ancient_2ndpaper.pdf">Second paper prompt</a> (due: September 12)
 
 
 ### Bibliography
