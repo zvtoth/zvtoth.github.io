@@ -23,7 +23,8 @@ Sep. 4, Some excerpts from <a href="http://zitavtoth.com/2_teaching/Plato_excerp
 Sep. 11, Aristotle, _Nicomachean Ethics_ X. <br>
 Sep. 18--25, Inclusive and dominant-end interpretations of Aristotle <br>
 Oct. 2, Augustine <br>
-
+Oct. 9, Aquinas, <a href="http://zitavtoth.com/2_teaching/Aquinas_excerpts.pdf">selections</a> from the *Summa theologiae*  <br>
+Oct. 16, Aquinas's commentary on Aristotle's Ethics <br>
 
 
 ### Bibliography
