@@ -41,6 +41,7 @@ Aug 21, Introduction
 ### Assignments
 
 <a href="http://zitavtoth.com/2_teaching/Ethics_1stpaper.pdf">First paper prompt</a> (due: September 25)
+<a href="http://zitavtoth.com/2_teaching/Ethics_2ndpaper.pdf">Second paper prompt</a> (due: October 23)
 
 
 ### Other things
