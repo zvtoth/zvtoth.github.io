@@ -90,16 +90,26 @@ Charles H. Kahn and Joe McCoy, eds. _Early Greek Philosophy_. Washington, DC: Ca
 
 Catherine Rowett. *Presocratic Philosophy: A Very Short Introduction.* Oxford: Oxford University Press, 2004. Call #: 182 O81p.
 
-
-#### Works on specific Presocratic authors
-
 Charles H. Kahn. _Anaximander and the Origins of Greek Cosmology_. New York: Columbia University Press, 1960. Call #: 113 K12.
 
 Charles H. Kahn. _The Art and Thought of Heraclitus: An Edition of the Fragments with Translation and Commentary_. Cambridge: Cambridge University Press, 1979. Call #: 182.4 K12.
 
 #### Plato
 
-A. E. Taylor, _Plato: The Man and His Works._ Dover Books, 2011 (reprint)
+A. E. Taylor. _Plato: The Man and His Works._ Dover Books, 2011 (reprint)
 
+Gail Fine, ed. _The Oxford Handbook of Plato_. Oxford: Oxford University Press, 2011.
+
+#### Aristotle
+
+Christopher Shields. _Aristotle_.  London: Routledge, 2014.
+
+Sir David Ross. _Aristotle_. Oxford: Oxford University Press, 1984.
+
+Christopher Shields, ed. _The Oxford Handbook of Aristotle_. Oxford: Oxford University Press, 2012.
+
+#### Hellenistic Philosophy
+
+A. A. Long and David Sedley. _The Hellenistic Philosophers_. Cambridge: Cambridge University Press, 1987.
 
 <img class="img-single" align="left" src="/public/img/greece.jpg" width="600">
