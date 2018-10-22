@@ -59,6 +59,7 @@ Aug. 20, Introduction
 
 <a href="http://zitavtoth.com/2_teaching/Ancient_1stpaper.pdf">First paper prompt</a> (due: September 12)
 <br> <a href="http://zitavtoth.com/2_teaching/Ancient_2ndpaper.pdf">Second paper prompt</a> (due: October 5)
+<br> <a href="http://zitavtoth.com/2_teaching/Ancient_3rdpaper.pdf">Third paper prompt</a> (due: October 24)
 
 
 ### Bibliography
@@ -74,13 +75,11 @@ Terence Irwin. _Classical Thought._ Oxford: Oxford University Press, 1989.
 
 Christopher Shields. *Ancient Philosophy: A Contemporary Introduction.* London: Routledge, 2012. A general introduction to Ancient Greek philosophy, focusing on arguments. It also contains a very good bibliography.
 
-#### Presocratic texts
+#### Presocratics
 
 Hermann Diels and Walther Kranz, eds. _Die Fragmente der Vorsokratiker_. Weidmannsche Buchhandlung, 1903. Not very user-friendly (Greek/German bilingual), but it is the standard edition of the Presocratics. <a href="https://archive.org/details/diefragmenteder00krangoog" target="_blank">Available online</a>.
 
 G. S. Kirk, J. E. Raven, and M. Schofield. *The Presocratic Philosophers*. Cambridge: Cambridge University Press, 1983. Call #: 182 K59 1983.
-
-#### Introduction to the Presocratics
 
 Jonathan Barnes. *The Presocratic Philosophers*. London: Routledge, 1982. Call #: 182 B261.
 
