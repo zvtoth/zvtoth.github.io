@@ -109,6 +109,8 @@ Christopher Shields, ed. _The Oxford Handbook of Aristotle_. Oxford: Oxford Univ
 
 #### Hellenistic Philosophy
 
-A. A. Long and David Sedley. _The Hellenistic Philosophers_. Cambridge: Cambridge University Press, 1987.
+A. A. Long and David Sedley. _The Hellenistic Philosophers_. Vol.\ 1: Translations of the Principal Sources, with Philosophical Commentary. Cambridge: Cambridge University Press, 1987.
+
+A. A. Long. _Hellenistic Philosophy_. Second Edition. Berkeley, CA: University of California Press, 1986.
 
 <img class="img-single" align="left" src="/public/img/greece.jpg" width="600">
