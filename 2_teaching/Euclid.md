@@ -22,4 +22,9 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 
 
 
+### Other things
+
+- <a href="https://thomasaquinas.edu/a-liberating-education/why-we-study-mathematics" target="_blank">Why study math, even at a seminary?</a>
+
+
 <img class="img-single" align="left" src="/public/img/greece.jpg" width="600">
