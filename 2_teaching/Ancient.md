@@ -60,6 +60,7 @@ Aug. 20, Introduction
 <a href="http://zitavtoth.com/2_teaching/Ancient_1stpaper.pdf">First paper prompt</a> (due: September 12)
 <br> <a href="http://zitavtoth.com/2_teaching/Ancient_2ndpaper.pdf">Second paper prompt</a> (due: October 5)
 <br> <a href="http://zitavtoth.com/2_teaching/Ancient_3rdpaper.pdf">Third paper prompt</a> (due: October 24)
+<br> <a href="http://zitavtoth.com/2_teaching/Ancient_4thpaper.pdf">Third paper prompt</a> (due: December 3)
 
 
 ### Bibliography

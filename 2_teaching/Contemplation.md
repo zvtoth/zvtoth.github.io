@@ -25,6 +25,14 @@ Sep. 18--25, Inclusive and dominant-end interpretations of Aristotle <br>
 Oct. 2, Augustine <br>
 Oct. 9, Aquinas, <a href="http://zitavtoth.com/2_teaching/Aquinas_excerpts.pdf">selections</a> from the *Summa theologiae*  <br>
 Oct. 16, Aquinas's commentary on Aristotle's Ethics <br>
+Oct. 23, Aquinas on the contemplative and teaching orders <br>
+Oct. 30, Aquinas: some interpretative questions <br>
+Nov. 6, Pieper, *Happiness and Contemplation*, chs. 1--4 <br>
+Nov. 13, Pieper, continued <br>
+Nov. 20, Pieper, continued <br>
+Nov. 27, Pieper, *Leisure* <br>
+Dec. 4, Review <br>
+
 
 
 ### Bibliography
