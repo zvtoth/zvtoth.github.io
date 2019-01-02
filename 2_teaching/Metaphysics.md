@@ -12,3 +12,8 @@ Aristotle defines metaphysics as the study of being as being. Although there has
 
 <a href="http://zitavtoth.com/2_teaching/Metaphysics2018.pdf">2018 Spring syllabus</a><br>
 <a href="http://zitavtoth.com/2_teaching/Metaphysics2019.pdf">2019 Spring syllabus</a>
+
+
+
+### Class Schedule, 2019 Spring
+(updated: 1/2/2019)
