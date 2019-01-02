@@ -13,7 +13,7 @@ The Greek word ‘ethos’ originally meant ‘custom’ or ‘habit.’ We huma
 <a href="http://zitavtoth.com/2_teaching/Ethics2018.pdf">2018 Fall syllabus</a>
 
 
-### Class Schedule
+### Class Schedule, 2018 Fall
 (updated: 8/23/2018)
 
 Aug 21, Introduction

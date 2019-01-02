@@ -14,7 +14,7 @@ In book X of the Nicomachean Ethics, Aristotle describes the contemplative life 
 
 
 
-### Class Schedule
+### Class Schedule, 2018 Fall
 (updated: 9/4/2018)
 
 Aug. 21, Introduction <br>
