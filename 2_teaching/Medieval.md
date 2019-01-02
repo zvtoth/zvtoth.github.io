@@ -12,3 +12,8 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 
 <a href="http://zitavtoth.com/2_teaching/Medieval2018.pdf">2018 Spring syllabus</a><br>
 <a href="http://zitavtoth.com/2_teaching/Medieval2019.pdf">2019 Spring syllabus</a>
+
+
+
+### Class Schedule, 2019 Spring
+(updated: 1/2/2019)
