@@ -17,8 +17,23 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 
 
 ### Class Schedule, 2019 Spring
-(updated: 1/2/2019)
+(updated: 1/9/2019)
 
+<table>
+  <tr>
+    <th>MWF section</th>
+    <th>TR section</th>
+  </tr>
+  <tr>
+    <td>Jan 9, Introduction</td>
+    <td>Jan 8, Introduction</td>
+  </tr>
+  <tr>
+    <td>Jan 11, Definitions, Postulates, Common notions</td>
+		<td>Jan 10, Definitions, Postulates, Common notions</td>
+  </tr>
+  
+</table>
 
 
 
