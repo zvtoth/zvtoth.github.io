@@ -77,6 +77,9 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 
 ### Other things
 
+
+- <a href="https://mathcs.clarku.edu/~djoyce/java/elements/bookI/bookI.html" target="_blank"> An interactive online version of the *Elements* </a>
+- <a href="https://www.claymath.org/library/historical/euclid/" target="_blank"> The *Elements* in manuscript </a>
 - <a href="https://thomasaquinas.edu/a-liberating-education/why-we-study-mathematics" target="_blank">Why study math, even at a seminary?</a>
 
 
