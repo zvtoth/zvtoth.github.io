@@ -32,7 +32,45 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
     <td>Jan 11, Definitions, Postulates, Common notions</td>
 		<td>Jan 10, Definitions, Postulates, Common notions</td>
   </tr>
-  
+	<tr>
+		<td>Jan 14 </td>
+		<td>Jan 15</td>
+	</tr>
+	<tr>
+    <td>Jan 18</td>
+		<td>Jan 17</td>
+  </tr>
+	<tr>
+    <td>Jan 21</td>
+		<td>Jan 22</td>
+  </tr>
+	<tr>
+    <td>Jan 23</td>
+		<td>Jan 24</td>
+  </tr>
+	<tr>
+    <td>Jan 29 </td>
+		<td>Jan 31 </td>
+  </tr>
+	<tr>
+    <td>Jan 28 </td>
+		<td>Feb 5 </td>
+  </tr>
+	<tr>
+		<td>Jan 30 </td>
+		<td>Feb 7 </td>
+	</tr>
+	<tr>
+		<td>Feb 1 </td>
+		<td>Feb 12 </td>
+	</tr>
+	<tr>
+		<td>Feb 4 </td>
+		<td>Feb 19 </td>
+	</tr>
+
+
+
 </table>
 
 
