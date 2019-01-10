@@ -27,16 +27,24 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
   </tr>
   <tr>
     <td>Jan 8, Introduction; Lewis, *Discarded Image*</td>
+		<td></td>
+		<td></td>
   </tr>
   <tr>
     <td>Jan 10, Augustine on philosophy and religion</td>
+		<td></td>
+		<td></td>
   </tr>
 	<tr>
 		<td>Jan 15, Al-Ghazali on philosophy and religion</td>
-	</tr>
+		<td></td>
+		<td></td>
+</tr>
 	<tr>
     <td>Jan 17, Al-Ghazali cont.</td>
-  </tr>
+		<td></td>
+		<td></td>
+</tr>
 	<tr>
     <td>Jan 22, Avicenna on the soul</td>
   </tr>
