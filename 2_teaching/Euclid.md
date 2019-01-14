@@ -29,15 +29,15 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
     <td>Jan 8, Introduction</td>
   </tr>
   <tr>
-    <td>Jan 11, Definitions, Postulates, Common notions</td>
-		<td>Jan 10, Definitions, Postulates, Common notions</td>
+    <td>Jan 11, Definitions</td>
+		<td>Jan 10, Definitions, Postulates</td>
   </tr>
 	<tr>
-		<td>Jan 14 </td>
-		<td>Jan 15</td>
+		<td>Jan 14, Postulates, Common notions, Prop. I.1</td>
+		<td>Jan 15, Common notions, Prop. I.1--I.3</td>
 	</tr>
 	<tr>
-    <td>Jan 18</td>
+    <td>Jan 18, I.2--I.5 </td>
 		<td>Jan 17</td>
   </tr>
 	<tr>
