@@ -37,11 +37,11 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 		<td>Jan 15, Common notions, Prop. I.1–I.3</td>
 	</tr>
 	<tr>
-    <td>Jan 18, I.2–I.5 </td>
+    <td>Jan 18, I.2–3 </td>
 		<td>Jan 17, I.2–I.5</td>
   </tr>
 	<tr>
-    <td>Jan 21, I.4--6</td>
+    <td>Jan 21, I.4–6</td>
 		<td>Jan 22, I.6–10</td>
   </tr>
 	<tr>
