@@ -17,7 +17,7 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 
 
 ### Class Schedule, 2019 Spring
-(updated: 1/9/2019)
+(updated: 1/21/2019)
 
 <table>
   <tr>
@@ -81,6 +81,7 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 - <a href="https://mathcs.clarku.edu/~djoyce/java/elements/bookI/bookI.html" target="_blank"> An interactive online version of the *Elements* </a>
 - <a href="https://www.claymath.org/library/historical/euclid/" target="_blank"> The *Elements* in manuscript </a>
 - <a href="https://thomasaquinas.edu/a-liberating-education/why-we-study-mathematics" target="_blank">Why study math, even at a seminary?</a>
+- <a href="https://mathcs.clarku.edu/~djoyce/java/elements/bookI/propI9.html" target="_blank"> Please don't waste your time trying to trisect an angle </a>
 
 
 <img class="img-single" align="left" src="/public/img/greece.jpg" width="600">
