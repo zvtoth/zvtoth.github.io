@@ -41,11 +41,11 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 		<td>Jan 17, I.2–5</td>
   </tr>
 	<tr>
-    <td>Jan 21, I.4–6</td>
+    <td>Jan 21, I.4–5</td>
 		<td>Jan 22, I.6–10</td>
   </tr>
 	<tr>
-    <td>Jan 23</td>
+    <td>Jan 23, I.5--8</td>
 		<td>Jan 24</td>
   </tr>
 	<tr>
