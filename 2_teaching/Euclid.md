@@ -45,28 +45,28 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 		<td>Jan 22, I.5–6</td>
   </tr>
 	<tr>
-    <td>Jan 23, I.5--8</td>
+    <td>Jan 23, I.5--6</td>
 		<td>Jan 24, I.7–10</td>
   </tr>
 	<tr>
-    <td>Jan 29 </td>
-		<td>Jan 31 </td>
+    <td>Jan 25, I.7--8 </td>
+		<td>Jan 29 </td>
   </tr>
 	<tr>
     <td>Jan 28 </td>
-		<td>Feb 5 </td>
+		<td>Jan 31 </td>
   </tr>
 	<tr>
 		<td>Jan 30 </td>
-		<td>Feb 7 </td>
+		<td>Feb 5 </td>
 	</tr>
 	<tr>
 		<td>Feb 1 </td>
-		<td>Feb 12 </td>
+		<td>Feb 7 </td>
 	</tr>
 	<tr>
 		<td>Feb 4 </td>
-		<td>Feb 19 </td>
+		<td>Feb 12 </td>
 	</tr>
 
 
@@ -79,6 +79,7 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 
 
 - <a href="https://mathcs.clarku.edu/~djoyce/java/elements/bookI/bookI.html" target="_blank"> An interactive online version of the *Elements* </a>
+- <a href="https://www.youtube.com/playlist?list=PLrkQ3hzZrc4j9gT0z--_CiFzQLeVb32hQ" target="_blank"> Some Youtube demonstrations of the propositions </a>
 - <a href="https://www.claymath.org/library/historical/euclid/" target="_blank"> The *Elements* in manuscript </a>
 - <a href="https://thomasaquinas.edu/a-liberating-education/why-we-study-mathematics" target="_blank">Why study math, even at a seminary?</a>
 - <a href="https://mathcs.clarku.edu/~djoyce/java/elements/bookI/propI9.html" target="_blank"> Please don't waste your time trying to trisect an angle </a>
