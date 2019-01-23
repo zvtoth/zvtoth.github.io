@@ -38,15 +38,15 @@ Plato inscribed above the portal to his Academy the following words: "Let no one
 	</tr>
 	<tr>
     <td>Jan 18, I.2–3 </td>
-		<td>Jan 17, I.2–5</td>
+		<td>Jan 17, I.2–4</td>
   </tr>
 	<tr>
     <td>Jan 21, I.4–5</td>
-		<td>Jan 22, I.6–10</td>
+		<td>Jan 22, I.5–6</td>
   </tr>
 	<tr>
     <td>Jan 23, I.5--8</td>
-		<td>Jan 24</td>
+		<td>Jan 24, I.7–10</td>
   </tr>
 	<tr>
     <td>Jan 29 </td>
