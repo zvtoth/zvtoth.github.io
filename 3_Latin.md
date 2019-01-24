@@ -14,4 +14,4 @@ Everyone is welcome to the group; proficiency in Latin is not required. <a href=
 
 <br>
 
-<a href="https://docs.google.com/document/d/13lSfb6d7SiSKyt9hDT4QEmDJVNge3hXHkhdatekSdMw/edit" target="_blank"><img class="img-single" align="center" src="/public/img/augustine.png" width="550"></a>
+<a href="https://docs.google.com/document/d/13lSfb6d7SiSKyt9hDT4QEmDJVNge3hXHkhdatekSdMw/edit" target="_blank"><img class="img-single" align="center" src="/public/img/augustine.png" width="400"></a>
