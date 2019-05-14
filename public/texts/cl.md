@@ -8,7 +8,7 @@ color: '#d58000'
 
 
 
-# What is Wrong with Communion and Liberation: How Not to Run a Catholic Community
+# OR, How Not to Run a Catholic Community
 
 
 ### What is Communion and Liberation?
