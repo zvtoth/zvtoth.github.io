@@ -1,6 +1,6 @@
 ---
 layout: text
-title: Aristotle
+title: 17th Century Philosophy
 tags: Teaching
 image: /public/img/teach.jpg
 color: '#d58000'
