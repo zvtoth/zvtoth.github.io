@@ -11,7 +11,7 @@ baseurl:        ''
 title:            Zita V. Tóth
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:      Assistant Professor of Philosophy (Conception Seminary College)
+description:      Postdoctoral Research Associate (University of Virginia)
 
 
 # The tags listed as entries in the sidebar
@@ -23,7 +23,7 @@ color:            '#b14633'
 
 author:
   name:           'Zita V. Tóth'
-  email:           ztoth@conception.edu
+  email:           zvt5f@virginia.edu
   facebook:     zita.v.toth
   github:         zvtoth
   linkedin:      tothzita
@@ -32,4 +32,4 @@ author:
 
   photo:          /public/img/zvt.jpg
 
-  about: I am an Assistant Professor of philosophy at <a href = "http://www.conception.edu" target="_blank">Conception Seminary College</a>, Missouri. My main interests are later medieval philosophy, philosophy of religion, and metaphysics. <a href="zabout/">See more...</a>
+  about: I am a postdoctoral research associate and lecturer of philosophy at the University of Virginia. My main interests are later medieval philosophy, philosophy of religion, and metaphysics. <a href="zabout/">See more...</a>
