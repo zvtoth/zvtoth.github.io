@@ -10,7 +10,7 @@ My primary aim when teaching is to help students see why philosophy is both inst
 
 ---
 
-### Current and Recent Courses
+### <u>Current</u> and Recent Courses
 
 <div>
 <br>
