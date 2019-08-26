@@ -45,7 +45,7 @@ Aug 27, Introduction (*Protrepticus*)
 <br> Nov 21, Friendship (EN IX (452--459))
 <br> Nov 26, The contemplative life (EN X.6--9 (468--478))
 <br> Dec 3, Peer review day
-<br> 5, Review (Shields)
+<br> Dec 5, Review (Shields)
 
 
 ### Assignments
@@ -55,11 +55,11 @@ Final paper (due: Dec. 3)
 
 ### Other things
 
-Aristotle's *Protrepticus*
+<a href="http://zitavtoth.com/2_teaching/Arist/Protrepticus.pdf">Fragments from Aristotle's *Protrepticus*</a>
 
 Background: Parmenides, Plato (selections)
 
-
+<a href="http://learning.hccs.edu/faculty/christina.hemati/phil1301/readings/lewis-on-the-reading-of-old-books/view" target="_blank">Why care about reading dead people anyway?</a>
 
 
 ### Bibliography
