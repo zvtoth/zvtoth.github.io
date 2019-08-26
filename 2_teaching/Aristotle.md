@@ -62,7 +62,11 @@ Background: Parmenides, Plato (selections)
 
 (updated: 8/26/2019)
 
-#### General sources on Ancient Philosophy
+There is an immense amount of literature both on Aristotle in general and on practically every one of his major ideas. These books are only meant to give you a start; the best thing to do is to check out their bibliography and see if you find anything that looks relevant to your topic. As always, the SEP is also a good resource.
+
+
+
+#### A couple of general sources on Ancient Philosophy
 
 William Guthrie. _A History of Greek Philosophy._ Cambridge: Cambridge University Press, 1962–81. 6 vols., from the Presocratics to Aristotle.
 
