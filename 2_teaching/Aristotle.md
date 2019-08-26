@@ -10,6 +10,10 @@ color: '#d58000'
 
 This course is a close study of one of the most preeminent philosophers, Aristotle. We will try to understand Aristotle's sometimes puzzling writings, consider his substantial philosophical views, as well as the reasons he proposed to endorse those views.
 
+
+<a href="http://zitavtoth.com/2_teaching/Arist/Arist2019F.pdf">2019 Fall syllabus</a>
+
+
 ### Class Schedule, 2019 Fall
 
 (updated: 8/26/2019)
