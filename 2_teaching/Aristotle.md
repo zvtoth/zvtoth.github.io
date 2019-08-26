@@ -49,6 +49,15 @@ Aug 27, Introduction (*Protrepticus*)
 Final paper (due: Dec. 3)
 
 
+### Other things
+
+Aristotle's *Protrepticus*
+
+Background: Parmenides, Plato (selections)
+
+
+
+
 ### Bibliography
 
 (updated: 8/26/2019)
