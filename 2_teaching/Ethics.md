@@ -14,6 +14,8 @@ The Greek word ‘ethos’ originally meant ‘custom’ or ‘habit.’ We huma
 <br>
 <a href="http://zitavtoth.com/2_teaching/Ethics/Ethics2016.pdf">2016 Fall syllabus</a>
 <br>
+<a href="http://zitavtoth.com/2_teaching/Ethics/Ethics2017.pdf">2017 Fall syllabus</a>
+<br>
 <a href="http://zitavtoth.com/2_teaching/Ethics/Ethics2018.pdf">2018 Fall syllabus</a>
 
 
