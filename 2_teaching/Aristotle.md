@@ -61,7 +61,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Sep 26, Logic and its limits (De int. (12--23)) </td>
-<td> </td>
+<td> Daniel L </td>
 </tr>
 <tr>
 <td> Oct 1, Early ontology (Cat. (5--11)) </td>
