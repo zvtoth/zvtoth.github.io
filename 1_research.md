@@ -30,9 +30,9 @@ Some manuscript and early print transcriptions I have been working on recently. 
 
 ### Other things
 
-<ul><li> <a href="{{ site.baseurl }}/public/archive/2016-04-24-Diss">Dissertation Summary</a></li></ul>
+<ul><li> <a href="{{ site.baseurl }}/public/texts/Dissum.pdf">Dissertation Summary</a></li></ul>
  <ul><li> <a href="{{ site.baseurl }}/public/archive/Religion">Philosophy of Religion Workshop Series, 2015/16</a></li></ul>
- 
+
 
 ### Some Resources on Medieval Philosophers
 
