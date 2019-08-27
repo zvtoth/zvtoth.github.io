@@ -13,16 +13,6 @@ color: '#b6874f'
  <ul><li> <a href="{{ site.baseurl }}/public/archive/Religion">Philosophy of Religion Workshop Series, 2015/16</a></li></ul>
 
 
-#### Teaching
-
-Past schedules and resources.
-
-<ul><li> <a href="{{ site.baseurl }}/public/archive/2016-09-19-Teaching_statement">Statement of Teaching Philosophy</a></li></ul>
-<ul><li> <a href="{{ site.baseurl }}/public/archive/2016-09-02-Ethics_2016fall">Ethics, 2016 fall </a></li></ul>
-<ul><li> <a href="{{ site.baseurl }}/public/archive/2016-01-19-Ethics">Ethics, 2016 spring </a></li></ul>
-
-
-
 #### Latin Reading Group
 
 I used to coordinate the Fordham Philosophy Latin Reading Group, a group of students and faculty whose primary interest is medieval philosophy.
