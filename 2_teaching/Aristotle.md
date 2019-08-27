@@ -16,7 +16,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 
 ### Class Schedule, 2019 Fall
 
-(updated: 8/26/2019)
+(updated: 8/27/2019)
 
 <table>
 <tr>
