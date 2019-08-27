@@ -57,7 +57,7 @@ Final paper (due: Dec. 3)
 
 <a href="http://zitavtoth.com/2_teaching/Arist/Protrepticus.pdf">Fragments from Aristotle's *Protrepticus*</a>
 
-Background: Parmenides, Plato (selections)
+<a href="http://zitavtoth.com/2_teaching/Arist/Background.pdf">Background: Parmenides and Plato</a>
 
 <a href="http://learning.hccs.edu/faculty/christina.hemati/phil1301/readings/lewis-on-the-reading-of-old-books/view" target="_blank">Why care about reading dead people anyway?</a>
 
