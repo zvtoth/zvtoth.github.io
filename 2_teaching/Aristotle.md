@@ -84,7 +84,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Oct 22, Action and passion (Meta. IX (321--335)) </td>
-<td> </td>
+<td> Gibson H </td>
 </tr>
 <tr>
 <td> Oct 24, Back to the unmoved mover (Meta. XII (339--355)) </td>
@@ -116,7 +116,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Nov 19, Akrasia (EN VII (431--452)) </td>
-<td> </td>
+<td> Adam F </td>
 </tr>
 <tr>
 <td> Nov 21, Friendship (EN IX (452--459)) </td>
