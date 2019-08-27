@@ -24,7 +24,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 <th> Presenter </th>
 </tr>
 <tr>
-<td>Aug 27, Introduction (*Protrepticus*)</td>
+<td>Aug 27, Introduction (Protrepticus)</td>
 <td> </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Nov 12, Living well (EN I (363--376)) </td>
-<td> </td>
+<td> Robert W </td>
 </tr>
 <tr>
 <td> Nov 14, Virtues (EN II (376--387)) </td>
