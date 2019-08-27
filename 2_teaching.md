@@ -5,7 +5,7 @@ image: /public/img/teach.jpg
 color: '#d58000'
 ---
 
-"It is not enough that my devotion to you has not helped me at all, but you are now made the victim of the hatred,'' complains Boethius to Philosophy personalized, with the barbarians standing at the gates of Rome and himself sentenced to death. It seems that college students often formulate the very same complaint about studying philosophy; with no jobs around, the economy in crisis, they feel rather in need of some practical skills that would help them in these circumstances.
+"It is not enough that my devotion to you has not helped me at all, but you are now made the victim of the hatred,'' complains Boethius to Philosophy personalized, with the barbarians standing at the gates of Rome and himself sentenced to death. Similar seems to be the case today: why should anyone waste their time studying philosophy, with no jobs around, the economy in crisis, rather than learning some practical skills that would be more useful in these circumstances?
 My primary aim when teaching is to help students see why philosophy is both instrumentally and intrinsically valuable. On a more regular note, I am a Lecturer in Philosophy at the University of Virginia. <a href="{{ site.baseurl }}/2_teaching/teachingstatement.pdf" target="_blank">Here</a> is a longer statement about teaching philosophy.
 
 ---
