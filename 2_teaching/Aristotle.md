@@ -143,12 +143,9 @@ Final paper (due: Dec. 3)
 
 ### Other things
 
-<a href="http://zitavtoth.com/2_teaching/Arist/Protrepticus.pdf">Fragments from Aristotle's *Protrepticus*</a>
-
-<a href="http://zitavtoth.com/2_teaching/Arist/Background.pdf">Background: Parmenides and Plato</a>
-
-<a href="http://zitavtoth.com/2_teaching/Arist/DL_Arist.pdf">Diogenes Laertius on Aristotle</a>
-
+<a href="http://zitavtoth.com/2_teaching/Arist/Protrepticus.pdf">Fragments from Aristotle's *Protrepticus*</a><br>
+<a href="http://zitavtoth.com/2_teaching/Arist/Background.pdf">Background: Parmenides and Plato</a><br>
+<a href="http://zitavtoth.com/2_teaching/Arist/DL_Arist.pdf">Diogenes Laertius on Aristotle</a><br>
 <a href="http://learning.hccs.edu/faculty/christina.hemati/phil1301/readings/lewis-on-the-reading-of-old-books/view" target="_blank">Why care about reading dead people anyway?</a>
 
 
