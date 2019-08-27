@@ -49,7 +49,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Sep 17, Thinking about science (Anal. post. I (39--49)) </td>
-<td> </td>
+<td> Can U </td>
 </tr>
 <tr>
 <td> Sep 19, Scientific explanation (Anal. post. II (50--59)) </td>
