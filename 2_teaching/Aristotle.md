@@ -45,7 +45,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Sep 12, Place and time (Phys. IV (120--127)) </td>
-<td> </td>
+<td> Farrah H</td>
 </tr>
 <tr>
 <td> Sep 17, Thinking about science (Anal. post. I (39--49)) </td>
