@@ -80,7 +80,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Oct 17, Definition and substance (Meta. VII.10--17 (298--313)) </td>
-<td> </td>
+<td> Shunsuke A</td>
 </tr>
 <tr>
 <td> Oct 22, Action and passion (Meta. IX (321--335)) </td>
