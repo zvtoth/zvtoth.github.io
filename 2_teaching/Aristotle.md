@@ -138,6 +138,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 
 ### Assignments
 
+<a href="http://zitavtoth.com/2_teaching/Arist/Arist_shortpaper.pdf">Presentation and short paper</a><br>
 Final paper (due: Dec. 3)
 
 
