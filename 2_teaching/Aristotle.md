@@ -16,7 +16,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 
 ### Class Schedule, 2019 Fall
 
-(updated: 8/27/2019)
+(updated: 8/29/2019)
 
 <table>
 <tr>
@@ -152,7 +152,7 @@ Final paper (due: Dec. 3)
 
 ### Bibliography
 
-(updated: 8/26/2019)
+(updated: 8/29/2019)
 
 There is an immense amount of literature both on Aristotle in general and on practically every one of his major ideas. These books are only meant to give you a start; the best thing to do is to check out their bibliography and see if you find anything that looks relevant to your topic. As always, the SEP is also a good resource.
 
@@ -169,12 +169,18 @@ Christopher Shields. *Ancient Philosophy: A Contemporary Introduction.* London: 
 
 #### Aristotle in particular
 
-Christopher Shields. _Aristotle_.  London: Routledge, 2014.
+Christopher Shields. _Aristotle_.  London: Routledge, 2014. Highly recommended introduction with excellent introductory bibliography.
 
-Sir David Ross. _Aristotle_. Oxford: Oxford University Press, 1984. This is a rather old book but still useful.
+Sir David Ross. _Aristotle_. Oxford: Oxford University Press, 1984. The "standard" book on Aristotle's philosophy, even though very old (1923).
+
+J. Ackrill. _Aristotle the Philosopher_. Oxford: Oxford University Press, 1981.
+
+Jonathan Barnes. _Aristotle: A Very Short Introduction._ Oxford: Oxford University Press, 1982.
+
+Jonathan Lear. _Aristotle: The Desire to Understand_. Cambridge: Cambridge University Press, 1988. Not quite comprehensive but very engaging.
 
 Christopher Shields, ed. _The Oxford Handbook of Aristotle_. Oxford: Oxford University Press, 2012.
 
 Jonathan Barnes, ed. _The Cambridge Companion to Aristotle_. Cambridge: Cambridge University Press, 1995.
 
-Jonathan Lear. _Aristotle: The Desire to Understand_. Cambridge: Cambridge University Press, 1988.
+G. Anagnostopoulos, ed. _A Companion to Aristotle_. Blackwell, 2009.
