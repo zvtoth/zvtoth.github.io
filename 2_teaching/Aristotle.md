@@ -100,7 +100,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Nov 5, Thinking (De an. III (187--205)) </td>
-<td> </td>
+<td> Ivan K</td>
 </tr>
 <tr>
 <td> Nov 7, Memory (De mem. (206--213)) </td>
