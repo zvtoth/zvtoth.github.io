@@ -41,7 +41,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Sep 10, Explaining change (Phys. II (93--111)) </td>
-<td>Selinie W </td>
+<td></td>
 </tr>
 <tr>
 <td> Sep 12, Place and time (Phys. IV (120--127)) </td>
