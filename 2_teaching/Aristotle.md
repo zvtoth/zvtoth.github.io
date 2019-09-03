@@ -96,7 +96,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Oct 31, Perception (De an. II.5--12 (174--187)) </td>
-<td> </td>
+<td> Morgan H </td>
 </tr>
 <tr>
 <td> Nov 5, Thinking (De an. III (187--205)) </td>
