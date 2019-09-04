@@ -44,7 +44,7 @@ Some manuscript and early print transcriptions I have been working on recently. 
 - The first book of his <a href = "http://filosofia.dipafilo.unimi.it/~mparodi/mirecourt/home.htm">Sentences commentary</a> is available online. The editing project seems to be inactive now, but they do keep the site alive.
 
 #### Peter Auriol
-- The <a href="http://www.peterauriol.net">Peter Auriol Homepage</a>, with status updates of the current editing project, bio, comprehensive bibliography, and links.
+- The <a href="http://www.peterauriol.net" target="_blank">Peter Auriol Homepage</a>, with status updates of the current editing project, bio, comprehensive bibliography, and links.
 
 #### René Descartes
 - The Adam-Tannery *Ouvres* is available on <a href="http://gallica.bnf.fr/" target="_blank">Gallica</a>.
