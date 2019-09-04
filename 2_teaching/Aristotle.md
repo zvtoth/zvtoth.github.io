@@ -53,7 +53,7 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 </tr>
 <tr>
 <td> Sep 19, Scientific explanation (Anal. post. II (50--59)) </td>
-<td> </td>
+<td>Matt M </td>
 </tr>
 <tr>
 <td> Sep 24, Further characteristics  (Topics I (60--78)) </td>
