@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: text
 title: Some Transcriptions
 image: /public/img/research.jpg
 color: '#5e704b'
