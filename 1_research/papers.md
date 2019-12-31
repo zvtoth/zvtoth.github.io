@@ -2,7 +2,7 @@
 layout: text
 title: Papers and Such
 image: /public/img/research.jpg
-color: '#5e704b'
+color: '#346500'
 ---
 
 
