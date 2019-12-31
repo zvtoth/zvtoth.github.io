@@ -2,7 +2,7 @@
 layout: text
 title: Other Philosophers
 image: /public/img/research.jpg
-color: '#346500'
+color: '#5db400'
 ---
 
 ### Some Resources on Medieval Philosophers

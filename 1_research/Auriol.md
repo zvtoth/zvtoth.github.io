@@ -3,7 +3,7 @@ layout: text
 title: Peter Auriol, In II Sent., d.38, q.1
 tags: Research
 image: /public/img/research.jpg
-color: '#346500'
+color: '#5db400'
 ---
 
 *The transcription is based primarily on the (not very reliable) Paris 1605 edition (=P), corrected against a Florence ms. (Firenze, Conv. Soppr. A.3.120, =F).*

@@ -2,7 +2,7 @@
 layout: page
 title: Research Wunderkammer
 image: /public/img/research.jpg
-color: '#346500'
+color: '#5db400'
 ---
 
 What do we mean precisely when we say that the fire is cracking in the fireplace *because* I lit it? Or what is happening when the fire *ignites* the newspaper I threw in it? Is this merely a way of everyday talking, to be abandoned after some philosophical reflection, or are there really things acting on each other? Would our answer be different if there were some higher agent (God) who is responsible for every being at every moment of their existence? In the last few decades' emerging neo-Aristotelian metaphysics, some of these questions have received revived attention --- but surprisingly, these treatments leave  the richest tradition devoted to them unmentioned. Perhaps this is due to the fact that there is no comprehensive study on medieval theories of causation and divine concurrence, nor on their heritage in early modern philosophy. With my research on medieval accounts of causation and divine concurrence I aim to fill this gap. My underlying conviction is that these medieval accounts are both intrinsically interesting, as well as enable us to learn a great deal about metaphysics, philosophy of religion, and some problems of early modern philosophy and science.

@@ -2,7 +2,7 @@
 layout: text
 title: Some Transcriptions
 image: /public/img/research.jpg
-color: '#346500'
+color: '#5db400'
 ---
 
 Some manuscript and early print transcriptions I have been working on recently. These are drafts, not proper editions, and may contain (a lot of) grammatical errors as well as typos. As a general principle, I kept as close to the original as I could, although punctuation has been added throughout.
