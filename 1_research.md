@@ -19,12 +19,11 @@ Beside medieval philosophy, I am much interested in some contemporary issues in 
 
 <div>
 <br>
-<br>
-
-<a href="{{ site.baseurl }}/1_research/papers "><img src="{{ site.baseurl }}/public/img/papers2.jpg" class="center" width="450" height="150" title="Some papers" hspace="40" /></a><br>
-<a href="{{ site.baseurl }}/1_research/transcriptions "><img src="{{ site.baseurl }}/public/img/transcriptions.jpg" class="center" width="450" height="150" title="Some transcriptions" hspace="40" /></a><br>
-<a href="{{ site.baseurl }}/1_research/links "><img src="{{ site.baseurl }}/public/img/links.jpg" class="center" width="450" height="150" title="Philosophers on the web" hspace="40" /></a>
-
+<center>
+<a href="{{ site.baseurl }}/1_research/papers "><img src="{{ site.baseurl }}/public/img/papers2.jpg" width="450" height="150" title="Some papers" hspace="40" /></a><br>
+<a href="{{ site.baseurl }}/1_research/transcriptions "><img src="{{ site.baseurl }}/public/img/transcriptions.jpg" width="450" height="150" title="Some transcriptions" hspace="40" /></a><br>
+<a href="{{ site.baseurl }}/1_research/links "><img src="{{ site.baseurl }}/public/img/links.jpg" width="450" height="150" title="Philosophers on the web" hspace="40" /></a>
+</center>
 </div>
 
 ---
