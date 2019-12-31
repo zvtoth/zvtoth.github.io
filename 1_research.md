@@ -16,7 +16,6 @@ Beside medieval philosophy, I am much interested in some contemporary issues in 
 
 ---
 
-
 <div>
 <br>
 <center>
