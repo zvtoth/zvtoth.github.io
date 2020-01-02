@@ -12,8 +12,8 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 
 
 
-<a href="http://zitavtoth.com/2_teaching/Medieval/Medieval2020.pdf">2020 Spring syllabus</a>
-<a href="http://zitavtoth.com/2_teaching/Medieval/Medieval2019.pdf">2019 Spring syllabus</a>
+<a href="http://zitavtoth.com/2_teaching/Medieval/Medieval2020.pdf">2020 Spring syllabus</a><br>
+<a href="http://zitavtoth.com/2_teaching/Medieval/Medieval2019.pdf">2019 Spring syllabus</a><br>
 <a href="http://zitavtoth.com/2_teaching/Medieval/Medieval2018.pdf">2018 Spring syllabus</a><br>
 
 
@@ -30,18 +30,18 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
   </tr>
   <tr>
     <td>Jan 14</td>
-		<td>, Introduction</td>
-		<td>Lewis, *Discarded Image*</td>
+		<td>Introduction</td>
+		<td>Lewis, <i>Discarded Image</i></td>
   </tr>
   <tr>
     <td>Jan 16</td>
 		<td>Augustine on Christian Doctrine</td>
-		<td>*De doctrina Christiana* I--II</td>
+		<td><i>De doctrina Christiana</i> I--II</td>
   </tr>
 	<tr>
 		<td>Jan 21</td>
 		<td>Al-Ghazali against the philosophers</td>
-		<td>*The Rescuer from Error* (sel.)</td>
+		<td><i>The Rescuer from Error</i> (sel.)</td>
 </tr>
 	<tr>
     <td>Jan 23</td>
@@ -56,12 +56,12 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 	<tr>
     <td>Jan 30</td>
 		<td>Writing class</td>
-		<td></td>
+		<td>DUE: first short paper</td>
 </tr>
 	<tr>
     <td>Feb 4</td>
 		<td>Avicenna's Flying Man</td>
-		<td>*The Soul* (sel.)</td>
+		<td><i>The Soul</i> (sel.)</td>
 </tr>
 	<tr>
     <td>Feb 6</td>
@@ -96,32 +96,32 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 	<tr>
 		<td>Feb 27</td>
 		<td>Writing class </td>
-		<td></td>
+		<td>DUE: second short paper</td>
 </tr>
 	<tr>
 		<td>Mar 3</td>
 		<td>Scotus on the will</td>
-		<td>*In Met.* IX, q. 15</td>
+		<td><i>In Met.</i> IX, q. 15</td>
 </tr>
 	<tr>
 		<td>Mar 5</td>
 		<td>Boethius on Foreknowledge</td>
-		<td>*Consolations* V</td>
+		<td><i>Consolations</i> V</td>
 </tr>
 	<tr>
 		<td>Mar 17</td>
 		<td> Gersonides on Foreknowledge</td>
-		<td>*The Wars of the Lord* III</td>
+		<td><i>The Wars of the Lord</i> III</td>
 	</tr>
 	<tr>
 		<td>Mar 19</td>
 		<td>Crescas on Foreknowledge</td>
-		<td>*The Light of the Lord* II</td>
+		<td><i>The Light of the Lord</i> II</td>
 </tr>
 	<tr>
 		<td>Mar 24</td>
 		<td> Scotus on Foreknowledge </td>
-		<td> *Reportatio* I, dd. 39--40, qq. 1--3</td>
+		<td><i>Reportatio</i> I, dd. 39--40, qq. 1--3</td>
 	</tr>
 	<tr>
     <td>Mar 26</td>
@@ -131,7 +131,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 	<tr>
 		<td>Mar 31</td>
 		<td> Essence and existence are distinct</td>
-		<td>Aquinas, *De ente et essentia*</td>
+		<td>Aquinas, <i>De ente et essentia</i></td>
 	</tr>
 	<tr>
 		<td>Apr 2</td>
@@ -141,7 +141,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 	<tr>
 		<td>Apr 7</td>
 		<td>Anselm on God's existence</td>
-		<td>*Proslogion*</td>
+		<td><i>Proslogion</i></td>
 	</tr>
 	<tr>
 		<td>Apr 9</td>
@@ -151,7 +151,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 	<tr>
 		<td>Apr 14</td>
 		<td>Maimonides's negative theology</td>
-		<td>*Guide of the Perplexed* I.51</td>
+		<td><i>Guide of the Perplexed</i> I.51</td>
 </tr>
 	<tr>
 		<td>Apr 16</td>
@@ -161,12 +161,12 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 	<tr>
 		<td>Apr 21</td>
 		<td>Scotus on talking about God</td>
-		<td>*Ordinatio* I.31</td>
+		<td><i>Ordinatio</i> I.31</td>
 </tr>
 	<tr>
 		<td>Apr 23</td>
 		<td> Writing class</td>
-		<td></td>
+		<td>DUE: final paper</td>
 </tr>
 	<tr>
 		<td>Apr 28</td>
