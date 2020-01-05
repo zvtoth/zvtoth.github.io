@@ -100,8 +100,8 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 </tr>
 	<tr>
 		<td>Mar 3</td>
-		<td>Scotus on the will</td>
-		<td><i>In Met.</i> IX, q. 15</td>
+		<td>Augustine on free will</td>
+		<td><i>De lib. arb.</i> (sel.)</td>
 </tr>
 	<tr>
 		<td>Mar 5</td>
