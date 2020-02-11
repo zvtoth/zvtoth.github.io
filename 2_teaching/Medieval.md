@@ -18,6 +18,12 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 
 
 
+### Assignments, 2020 Spring
+
+<a href="http://zitavtoth.com/2_teaching/Medieval/1stpaper.pdf">Argument reconstruction paper</a>, Due Jan 30 <br>
+<a href="http://zitavtoth.com/2_teaching/Medieval/2ndpaper.pdf">Response paper</a>, Due Feb 27<br>
+
+
 ### Class Schedule, 2020 Spring
 (updated: 1/2/2020)
 
