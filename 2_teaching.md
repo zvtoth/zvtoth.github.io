@@ -33,7 +33,7 @@ Despite all this, I teach philosophy -- right now as a Lecturer in Philosophy at
 
 ### Office Hours
 
-My office is in Levering Hall, room 210.
+My office is in Sycamore Hall, room 109.
 Please reserve a slot before coming to office hours to make sure I am here. You can make a reservation by clicking on the preferred slot below. Or, if you come by and my door is open, that means I am here -- feel free to come in.
 
 <iframe src="https://ztoth.youcanbook.me/?noframe=true&skipHeaderFooter=true" style="width:120%;height:600px;border:1px;border-color:#000000;background-color:transparent;" frameborder="1" allowtransparency="false" onload="keepInView(this);"></iframe>
