@@ -5,16 +5,17 @@ image: /public/img/latin.jpg
 color: '#439feb'
 ---
 
-The CSC Latin Reading Group is a group of students and faculty who develop, exercise, and enjoy their Latin skills at our weekly meetings. In the Spring 2019 semester, we were reading some of <a href="https://www.augustinus.it/latino/commento_lsg/index2.htm" target="_blank"> Augustine's sermons</a>.
+The Latin Reading Group has recently transformed into a Paleography reading group. We meet once every couple of weeks via Zoom, and read and transcribe from a manuscript. Currently (Fall 2020) we are working on a question concerning beatitude, in the anonymous Vat. Lat. 985, which is very nicely and legibly written.
 
-In earlier semesters we were working on the <a href="http://www.thelatinlibrary.com/egeria.html" target="_blank">*Itinerarium Egeriae*</a>, the travel diary of a 4th-century Spanish pilgrim woman traveling to the Holy Land.
-
-Everyone is welcome to the group; proficiency in Latin is not required. <a href="http://logeion.uchicago.edu/index.html" target="_blank">Here</a> is a great Latin dictionary to make things a bit easier.
+The paleography skills of the group participants occupy a big range, and everyone is welcome. It is easier than it looks like, and very easy to get used to it! If interested, please send me an email.
 
 
-<br>
+<img src="folio.jpg" alt="Vat Lat ms 985">
 
-<a href="https://docs.google.com/document/d/13lSfb6d7SiSKyt9hDT4QEmDJVNge3hXHkhdatekSdMw/edit" target="_blank"><img class="img-single" align="center" src="/public/img/augustine.png" width="400"></a>
+
+In earlier semesters I had lead the CSC Latin Reading Group, where we read some of <a href="https://www.augustinus.it/latino/commento_lsg/index2.htm" target="_blank"> Augustine's sermons</a>, and earlier the <a href="http://www.thelatinlibrary.com/egeria.html" target="_blank">*Itinerarium Egeriae*</a>, the travel diary of a 4th-century Spanish pilgrim woman traveling to the Holy Land.
+
+
 
 
 I also used to coordinate the Fordham Philosophy Latin Reading Group, a group of students and faculty whose primary interest is medieval philosophy.
