@@ -8,6 +8,8 @@ color: '#5db400'
 
 ### Published Papers
 
+<a href="{{ site.baseurl }}/1_research/Toth_Rufus.pdf">"They Tend into Nothing by Their Own Nature: Richard Rufus and an Anonymous De Generatione Commentary on the Principles of Corruptibility,"</a> <i>Thirteenth-century Franciscans</i>, ed. Lydia Schumacher, forthcoming.
+
 
 <a href="{{ site.baseurl }}/1_research/Toth_tym.pdf">"Peter of Palude and the Fiery Furnace,"</a> <i>History of Philosophy Quarterly</i>, forthcoming.
 <br>
@@ -47,8 +49,7 @@ In the following, I deal only with the first two, that is, with the possible rec
 
 ### Drafts, Talks, Work in progress
 
-''Richard Rufus on Corruptibility'' (in progress) <br>
-<br>
+
 ''Durand of St.-Pourçain and Some Contemporaries on Whether God Can Recreate Numerically the Same Individual'' (in progress, with Adam Wood)
 
 
