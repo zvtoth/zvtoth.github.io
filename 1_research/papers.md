@@ -49,6 +49,7 @@ In the following, I deal only with the first two, that is, with the possible rec
 
 ### Drafts, Talks, Work in progress
 
+``From Sine qua non to Occasional Causes: Ockham, Pierre d'Ailly, and Gabriel Biel" (in progress)
 
 ''Durand of St.-Pourçain and Some Contemporaries on Whether God Can Recreate Numerically the Same Individual'' (in progress, with Adam Wood)
 
