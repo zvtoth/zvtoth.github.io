@@ -11,6 +11,9 @@ color: '#5db400'
 <a href="{{ site.baseurl }}/1_research/Toth_Rufus.pdf">"They Tend into Nothing by Their Own Nature: Richard Rufus and an Anonymous De Generatione Commentary on the Principles of Corruptibility,"</a> <i>Thirteenth-century Franciscans</i>, ed. Lydia Schumacher, forthcoming.
 
 
+(with Rega Wood) "Nec idem nec aliud: The Powers of the Soul and the Origins of the Formal Distinction," <i>Thirteenth-century Franciscans</i>, ed. Lydia Schumacher, forthcoming.
+
+
 <a href="{{ site.baseurl }}/1_research/Toth_tym.pdf">"Peter of Palude and the Fiery Furnace,"</a> <i>History of Philosophy Quarterly</i>, forthcoming.
 <br>
 <p style="margin-left: 40px; line-height: 0.9"><small>According to most medieval thinkers, whenever something causally acts on another thing, God also acts with it. Durand of St.-Pour\c{c}ain, an early fourteenth-century Dominican philosopher, disagrees. Instead, he maintains what has come to be called a `mere conservationist' view, claiming that created causes alone are sufficient to bring about their effects.
@@ -18,7 +21,7 @@ This paper is about a fourteenth-century objection to mere conservationism, whic
 concurrence against a case that involves a specific kind of miracles, then it turns out that mere conservationism is rather problematic. Although Peter of Palude is not usually regarded as an overwhelmingly original thinker, this paper calls attention to one of his more interesting controversies with his contemporary Dominican confriar, while also clarifies how some medieval thinkers understood the broadly speaking Aristotelian conviction that causes and effects must be necessarily related.</small></p>
 
 
-<a href="{{ site.baseurl }}/1_research/Toth2019a_0.pdf">"Perfect Subjects, Shields, and Retractions: Three Models of Impassibility,"</a> <i>Vivarium</i>, forthcoming.
+<a href="{{ site.baseurl }}/1_research/Toth2019a_0.pdf">"Perfect Subjects, Shields, and Retractions: Three Models of Impassibility,"</a> <i>Vivarium</i> 59 (2021): 79--101.
 <br>
 <p style="margin-left: 40px; line-height: 0.9"><small>According to theological consensus at least from the thirteenth century, at the End of Times our body will be resurrected and reunited with our soul. The resurrected body, although numerically identical to our present one, will be quite different: it will possess clarity, agility, subtility, and the inability to suffer. There are two reasons why impassibility presents a problem in the medieval framework. The first has to do with how to characterize impassibility more precisely; the second arises because at first it may seem that impassiblity is not metaphysically possible at all. I am going to look at three attempts to tackle these problems: those of Aquinas, Durand of St.-Pourçain, and Peter of Palude. As I hope to show, looking at how causal powers work on the New Earth may shed some light on how medieval thinkers thought they worked on the present one.</small></p>
 
