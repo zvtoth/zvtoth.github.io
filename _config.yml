@@ -11,7 +11,7 @@ baseurl:        ''
 title:            Zita V. Tóth
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:      Ruth N. Halls Research Associate (Indiana University)
+description:      Postdoctoral Researcher (KU Leuven)
 
 
 # The tags listed as entries in the sidebar
@@ -23,7 +23,7 @@ color:            '#b14633'
 
 author:
   name:           'Zita V. Tóth'
-  email:           ztoth@iu.edu
+  email:           zita.toth@kuleuven.be
   facebook:     zita.v.toth
   github:         zvtoth
   linkedin:      tothzita
@@ -32,4 +32,4 @@ author:
 
   photo:          /public/img/zvt.jpg
 
-  about: I am a Ruth Norman Halls Research Associate at Indiana University. My main interests are later medieval philosophy, philosophy of religion, and metaphysics. <a href="zabout/">See more...</a>
+  about: I am a Postdoctoral Research Fellow at KU Leuven, in Belgium, working on a project centered on ``Hylomorphism Whole: 1300--1330.'' My main interests are later medieval philosophy, philosophy of religion, and metaphysics. <a href="zabout/">See more...</a>
