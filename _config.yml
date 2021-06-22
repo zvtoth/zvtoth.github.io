@@ -11,7 +11,7 @@ baseurl:        ''
 title:            Zita V. Tóth
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:      Postdoctoral Researcher (KU Leuven)
+description:      Postdoctoral Researcher <br> (KU Leuven)
 
 
 # The tags listed as entries in the sidebar
