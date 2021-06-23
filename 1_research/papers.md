@@ -24,9 +24,8 @@ color: '#5db400'
 
 
 <a href="{{ site.baseurl }}/1_research/Toth_tym.pdf">"Peter of Palude and the Fiery Furnace,"</a> <i>History of Philosophy Quarterly</i> 37 (2020): 121–142.
-
 <br>
-<p style="margin-left: 40px; line-height: 0.9"><small>According to most medieval thinkers, whenever something causally acts on another thing, God also acts with it. Durand of St.-Pour\c{c}ain, an early fourteenth-century Dominican philosopher, disagrees. Instead, he maintains what has come to be called a `mere conservationist' view, claiming that created causes alone are sufficient to bring about their effects.
+<p style="margin-left: 40px; line-height: 0.9"><small>According to most medieval thinkers, whenever something causally acts on another thing, God also acts with it. Durand of St.-Pourçain, an early fourteenth-century Dominican philosopher, disagrees. Instead, he maintains what has come to be called a 'mere conservationist' view, claiming that created causes alone are sufficient to bring about their effects.
 This paper is about a fourteenth-century objection to mere conservationism, which I will call the *Fiery Furnace objection*, as formulated by Durand's contemporary, Peter of Palude.  In short, the Fiery Furnace objection shows that if we test our theories of divine
 concurrence against a case that involves a specific kind of miracles, then it turns out that mere conservationism is rather problematic. Although Peter of Palude is not usually regarded as an overwhelmingly original thinker, this paper calls attention to one of his more interesting controversies with his contemporary Dominican confriar, while also clarifies how some medieval thinkers understood the broadly speaking Aristotelian conviction that causes and effects must be necessarily related.</small></p>
 
