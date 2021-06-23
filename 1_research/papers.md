@@ -16,16 +16,20 @@ color: '#5db400'
 (with Rega Wood) "Nec idem nec aliud: The Powers of the Soul and the Origins of the Formal Distinction," <i>Early Thirteenth-Century English Franciscan Thought</i>, ed. Lydia Schumacher, De Gruyter, forthcoming.
 
 
-<a href="{{ site.baseurl }}/1_research/Toth_tym.pdf">"Peter of Palude and the Fiery Furnace,"</a> <i>History of Philosophy Quarterly</i>, forthcoming.
+
+<a href="{{ site.baseurl }}/1_research/Toth2019a_0.pdf">"Perfect Subjects, Shields, and Retractions: Three Models of Impassibility,"</a> <i>Vivarium</i> 59 (2021): 79--101.
+<br>
+<p style="margin-left: 40px; line-height: 0.9"><small>According to theological consensus at least from the thirteenth century, at the End of Times our body will be resurrected and reunited with our soul. The resurrected body, although numerically identical to our present one, will be quite different: it will possess clarity, agility, subtility, and the inability to suffer. There are two reasons why impassibility presents a problem in the medieval framework. The first has to do with how to characterize impassibility more precisely; the second arises because at first it may seem that impassiblity is not metaphysically possible at all. I am going to look at three attempts to tackle these problems: those of Aquinas, Durand of St.-Pourçain, and Peter of Palude. As I hope to show, looking at how causal powers work on the New Earth may shed some light on how medieval thinkers thought they worked on the present one.</small></p>
+
+
+
+<a href="{{ site.baseurl }}/1_research/Toth_tym.pdf">"Peter of Palude and the Fiery Furnace,"</a> <i>History of Philosophy Quarterly</i> 37 (2020): 121–142.
+
 <br>
 <p style="margin-left: 40px; line-height: 0.9"><small>According to most medieval thinkers, whenever something causally acts on another thing, God also acts with it. Durand of St.-Pour\c{c}ain, an early fourteenth-century Dominican philosopher, disagrees. Instead, he maintains what has come to be called a `mere conservationist' view, claiming that created causes alone are sufficient to bring about their effects.
 This paper is about a fourteenth-century objection to mere conservationism, which I will call the *Fiery Furnace objection*, as formulated by Durand's contemporary, Peter of Palude.  In short, the Fiery Furnace objection shows that if we test our theories of divine
 concurrence against a case that involves a specific kind of miracles, then it turns out that mere conservationism is rather problematic. Although Peter of Palude is not usually regarded as an overwhelmingly original thinker, this paper calls attention to one of his more interesting controversies with his contemporary Dominican confriar, while also clarifies how some medieval thinkers understood the broadly speaking Aristotelian conviction that causes and effects must be necessarily related.</small></p>
 
-
-<a href="{{ site.baseurl }}/1_research/Toth2019a_0.pdf">"Perfect Subjects, Shields, and Retractions: Three Models of Impassibility,"</a> <i>Vivarium</i> 59 (2021): 79--101.
-<br>
-<p style="margin-left: 40px; line-height: 0.9"><small>According to theological consensus at least from the thirteenth century, at the End of Times our body will be resurrected and reunited with our soul. The resurrected body, although numerically identical to our present one, will be quite different: it will possess clarity, agility, subtility, and the inability to suffer. There are two reasons why impassibility presents a problem in the medieval framework. The first has to do with how to characterize impassibility more precisely; the second arises because at first it may seem that impassiblity is not metaphysically possible at all. I am going to look at three attempts to tackle these problems: those of Aquinas, Durand of St.-Pourçain, and Peter of Palude. As I hope to show, looking at how causal powers work on the New Earth may shed some light on how medieval thinkers thought they worked on the present one.</small></p>
 
 <a href="{{ site.baseurl }}/1_research/Toth2019b_0.pdf">“Ockham on Divine Concurrence,”</a> <i>Saint Anselm Journal</i> 15 (2019): 81–105.<br>
   <p style="margin-left: 40px; line-height: 0.9"><small>The focus of this paper is Ockham’s stance on the question of divine concurrence—the question whether God is causally active in the causal happenings of the created world, and if so, what God’s causal activity amounts to and what place that leaves for created causes. As I show, Ockham, at least in this issue, is rather conservative: he agrees with the majority of medieval thinkers (including Aquinas, Giles of Rome, Duns Scotus, and others) that both God and created agents are causally active in the causal happenings of the world. Then I turn to some texts that may suggest otherwise; I argue that reading Ockham as either an occasionalist or a mere conservationist based on these texts originates from a misunderstanding of his main concern.</small></p>
