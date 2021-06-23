@@ -5,9 +5,9 @@ image: /public/img/latin.jpg
 color: '#439feb'
 ---
 
-The Latin Reading Group has recently transformed into a Paleography reading group. We meet once every couple of weeks via Zoom, and read and transcribe from a manuscript. Currently (Fall 2020) we are working on a question concerning beatitude, in the anonymous <a href="https://digi.vatlib.it/view/MSS_Vat.lat.985" target="_blank">Vat. Lat. 985</a>, which is very nicely and legibly written.
+The Latin Reading Group has recently transformed into a Paleography reading group. We meet once every week via Zoom, and read and transcribe from a manuscript. Currently (Spring 2021) we are working on Buridan's commentary on the *De memoria*, as in <a href="https://digi.vatlib.it/mss/detail/Vat.lat.2880" target="_blank">Vat. Lat. 2880</a>, which is quite legibly written.
 
-The paleography skills of the group participants occupy a big range, and everyone is welcome. It is easier than it looks like, and very easy to get used to it! If interested, please <a href="mailto:ztoth@iu.edu">send me an email</a>.
+The paleography skills of the group participants occupy a big range, and everyone is welcome. It is easier than it looks like, and very easy to get used to it! If interested, please <a href="mailto:tothzit@gmail.com">send me an email</a>.
 
 
 <img src="{{ site.baseurl }}/public/img/folio.jpg" alt="Vat Lat ms 985">
