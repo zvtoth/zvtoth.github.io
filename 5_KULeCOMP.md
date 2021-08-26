@@ -14,4 +14,4 @@ The seminar meets once month, in a hybrid format (on Zoom as well as in person a
 
 __<a href = "https://kulecomp.wordpress.com" target = "_blank"> For more information, or to request the Zoom link, please visit our website.</a>__
 
-<img class="img-single" align="center" src="/public/img/puzzle2.png" width="1200">
+<img class="img-single" align="center" src="/public/img/puzzle2.png" width="800px">
