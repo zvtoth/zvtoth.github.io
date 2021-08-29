@@ -9,7 +9,7 @@ color: '#5db400'
 <div>
 <br>
 <center>
-<a href="https://publish.obsidian.md/zvtoth"><img src="{{ site.baseurl }}/public/img/matter.jpg" width="450" height="150" title="Matters of Matter" hspace="40" /></a><br>
+<a href="https://publish.obsidian.md/zvtoth" target="_blank"><img src="{{ site.baseurl }}/public/img/matter2.jpg" width="450" height="150" title="Matters of Matter" hspace="40" /></a><br>
 <a href="{{ site.baseurl }}/1_research/papers "><img src="{{ site.baseurl }}/public/img/papers2.jpg" width="450" height="150" title="Some papers" hspace="40" /></a><br>
 <a href="{{ site.baseurl }}/1_research/transcriptions "><img src="{{ site.baseurl }}/public/img/transcriptions.jpg" width="450" height="150" title="Some transcriptions" hspace="40" /></a><br>
 <a href="{{ site.baseurl }}/1_research/links "><img src="{{ site.baseurl }}/public/img/links.jpg" width="450" height="150" title="Philosophers on the web" hspace="40" /></a>
