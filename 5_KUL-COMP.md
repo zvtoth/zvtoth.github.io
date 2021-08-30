@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KULeCoMP
+title: KUL-CoMP
 image: /public/img/puzzle.jpg
 ---
 
