@@ -11,7 +11,9 @@ color: '#d58000'
 Aristotle defines metaphysics as the study of being as being. Although there has been considerable subsequent disagreement about the meaning of this definition, and even more disagreement about what the subject matter of metaphysics really is, most philosophers would agree that metaphysicians are interested in something very basic; as a contemporary metaphysician puts it, "Metaphysics, at the bottom, is about the fundamental structure of reality" (Sider 2011, p. 1). What _are_ the most fundamental things in the world? Are they universals or particulars? What do particulars consist of, and how can they endure through time? What _is_ time, anyway, and what does it mean to say that they 'can', or that something is 'possible'? These are just a few of the questions metaphysicians have examined, starting at least from the Presocratic period. In this class, we are going to look at how they were tackled by some 20th-century philosophers, mostly belonging to the analytical tradition. Along the way, we will also glance at parts of the long history of the discipline.
 
 <a href="http://zitavtoth.com/2_teaching/Metaphysics2022.pdf">2022 Spring syllabus</a>
+
 <a href="http://zitavtoth.com/2_teaching/Metaphysics2019.pdf">2019 Spring syllabus</a>
+
 <a href="http://zitavtoth.com/2_teaching/Metaphysics2018.pdf">2018 Spring syllabus</a><br>
 
 
