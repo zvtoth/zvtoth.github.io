@@ -5,7 +5,7 @@ image: /public/img/latin.jpg
 color: '#439feb'
 ---
 
-The Latin Reading Group has recently transformed into a Paleography reading group. We meet once every week via Zoom, and read and transcribe from a manuscript. Currently (Spring 2021) we are working on Buridan's commentary on the *De memoria*, as in <a href="https://digi.vatlib.it/mss/detail/Vat.lat.2880" target="_blank">Vat. Lat. 2880</a>, which is quite legibly written.
+The Latin Reading Group has recently transformed into a Paleography reading group. We meet once every week via Zoom, right now on Thursdays at 4:30 p.m. CET, and read and transcribe from a manuscript. Currently (Fall 2022) we are working on De Fonseca's commentary on the *De sensu*, in an early modern cursive script (but this is somewhat unusual as our focus is mostly gothic book hand).
 
 The paleography skills of the group participants occupy a big range, and everyone is welcome. It is easier than it looks like, and very easy to get used to it! If interested, please <a href="mailto:tothzit@gmail.com">send me an email</a>.
 
