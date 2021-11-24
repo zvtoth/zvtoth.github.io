@@ -70,6 +70,9 @@ In the following, I deal only with the first two, that is, with the possible rec
 
 ### Book Reviews
 
+
+*Free Will and the Rebel Angels in Medieval Philosophy*, by Tobias Hoffmann, CUP, 2020, *Faith and Philosophy*, forthcoming.
+
 <a href="https://scholarworks.iu.edu/journals/index.php/tmr/article/view/31316" target="_blank">Pére Dagui, *Tractatus de differentia*.</a> *The Medieval Review*, 2020.
 
 <a href="{{ site.baseurl }}/1_research/Toth2018a_0.pdf">*On Evil, Providence, and Freedom: A New Reading of Molina*,</a> by Mark B. Wiebe, Northern Illinois University Press, 2017, *Journal of Analytic Theology* 6 (2018): 799–805.
