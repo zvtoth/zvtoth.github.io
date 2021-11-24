@@ -122,10 +122,5 @@ First short paper (due: Oct. 16)
 <br>
 Final paper (due: Dec. 4)
 
-### Other things
-
-
-
-### Bibliography
 
 (updated: 8/26/2019)

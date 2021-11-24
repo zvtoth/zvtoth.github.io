@@ -12,6 +12,8 @@ In this course, we look at ancient Greek and Roman philosophy from the pre-Socra
 
 
 <a href="http://zitavtoth.com/2_teaching/Ancient2018.pdf">2018 Fall syllabus</a>
+<br>
+<a href="http://zitavtoth.com/2_teaching/Ancient2017.pdf">2017 Fall syllabus</a>
 
 
 

@@ -8,7 +8,7 @@ color: '#d58000'
 
 <img class="img-single" align="right" src="/public/img/elements.jpg" width="200">
 
-Plato inscribed above the portal to his Academy the following words: "Let no one ignorant of geometry enter here." Following this tradition, Thomas Aquinas insists that a study of mathematics must precede the study of natural philosophy and metaphysics. Thus, this  course examines Euclid's *Elements* both as a fine example of a system of geometry (with definitions, postulates, propositions, and proofs), and as an instance of Greek thought taken more broadly. Topics include triangles, circles, abstract proportions, geomet- ric similarity, number theory, the notion of incommensurability, and solid geometry.
+Plato inscribed above the portal to his Academy the following words: "Let no one ignorant of geometry enter here." Following this tradition, Thomas Aquinas insists that a study of mathematics must precede the study of natural philosophy and metaphysics. Thus, this  course examines Euclid's *Elements* both as a fine example of a system of geometry (with definitions, postulates, propositions, and proofs), and as an instance of Greek thought taken more broadly. Topics include triangles, circles, abstract proportions, geometric similarity, number theory, the notion of incommensurability, and solid geometry.
 
 
 
