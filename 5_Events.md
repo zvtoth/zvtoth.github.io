@@ -16,7 +16,7 @@ A conference that brings together scholars working various issues of hylomorphis
 
 
 
-### KUL-CoMP OR, the KU Leuven Colloquia in Medieval Philosophy
+### KUL-CoMP: the KU Leuven Colloquia in Medieval Philosophy
 
 In the footsteps of the highly successful <a href = "https://meloseminar.wordpress.com" target="_blank"> MeLO seminar series</a>, the KU Leuven Colloquia in Medieval Philosophy is a hybrid forum that aims to foster networking and collaboration especially among early-career scholars in medieval philosophy.
 
