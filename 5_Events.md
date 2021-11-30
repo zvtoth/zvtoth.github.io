@@ -12,7 +12,7 @@ Some events I am involved in organizing.
 A conference that brings together scholars working various issues of hylomorphism from the early fourteenth to the early seventeenth century.
 
 - <a href="{{ site.baseurl }}/3_events/CFP_hylomorphism.pdf" > read the Call for Abstracts </a>
-- <a href = "https://hiw.kuleuven.be/dwmc/conferences-lectures/hylomorphism" taget="_blank"> visit our website </a> for more info.
+- <a href = "https://hiw.kuleuven.be/dwmc/conferences-lectures/hylomorphism" target="_blank"> visit our website </a> for more info.
 
 
 
