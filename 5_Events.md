@@ -7,7 +7,7 @@ image: /public/img/events.jpg
 Some events I am involved in organizing.
 
 
-### Conference: Late Medieval Hylomorphism – Hylomorphic Theory, 1300–1600.
+### Conference: Late Medieval Hylomorphism – Matter and Form, 1300–1600.
 
 A conference that brings together scholars working various issues of hylomorphism from the early fourteenth to the early seventeenth century.
 
