@@ -7,7 +7,7 @@ image: /public/img/puzzle.jpg
 Some events I am involved in organizing.
 
 
-## Conference: Late Medieval Hylomorphism – Hylomorphic Theory, 1300–1600.
+### Conference: Late Medieval Hylomorphism – Hylomorphic Theory, 1300–1600.
 
 A conference that brings together scholars working various issues of hylomorphism from the early fourteenth to the early seventeenth century.
 
@@ -16,7 +16,7 @@ A conference that brings together scholars working various issues of hylomorphis
 
 
 
-## KUL-CoMP OR, the KU Leuven Colloquia in Medieval Philosophy
+### KUL-CoMP OR, the KU Leuven Colloquia in Medieval Philosophy
 
 In the footsteps of the highly successful <a href = "https://meloseminar.wordpress.com" target="_blank"> MeLO seminar series</a>, the KU Leuven Colloquia in Medieval Philosophy is a hybrid forum that aims to foster networking and collaboration especially among early-career scholars in medieval philosophy.
 
