@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-image: /public/img/puzzle.jpg
+image: /public/img/events.jpg
 ---
 
 Some events I am involved in organizing.
