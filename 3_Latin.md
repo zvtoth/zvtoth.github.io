@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Latin Reading Group
+title: Virtual Paleography Group
 image: /public/img/latin.jpg
 color: '#439feb'
 ---
