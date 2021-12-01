@@ -27,7 +27,44 @@ The seminar meets once month, in a hybrid format (on Zoom as well as in person a
 - <a href="{{ site.baseurl }}/3_events/kulcomp.pdf" > download our poster </a>
 
 
-<img align="center" shadow = "0" src="/public/img/puzzle2.png" width="800" padding="0">
+<!-- <img align="center" shadow = "0" src="/public/img/puzzle2.png" width="800" padding="0"> -->
+
+---
+
+## Past Events
+
+### Knowability and the Limits of Knowledge
+
+A closing workshop for the MeLO seminar series.
+
+- <a href="https://meloseminar.wordpress.com/knowability-seminar/" target="_blank">visit our website</a>
+
+
+---
+
+### Women On Medieval Philosophy
+
+A conference for especially early carrier women working in medieval philosophy.
+
+- <a href="https://hiw.kuleuven.be/dwmc/conferences-lectures/womedieval" target="_blank">visit our website</a>
+
+
+---
+
+### Workshop in Medieval and Renaissance Philosophy
+
+A one-day workshop at Fordham University, NYC, intended  to provide academic and networking opportunities for early career women working in Medieval and Renaissance Philosophy.
+
+- <a href = "https://medphilworkshop.wordpress.com" target="_blank"> visit our website </a>
+
+---
+
+### Workshops in Philosophy of Religion
+
+A workshop series with invited speakers working in the Philosophy of Religion.
+
+- <a href="http://zitavtoth.com/public/archive/Religion/">visit our website</a>
+
 
 
 
