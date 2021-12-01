@@ -5,7 +5,7 @@ image: /public/img/events.jpg
 color: '#b6874f'
 ---
 
-Some events I am involved in organizing (apart from the <a href="{{ site.baseurl }}/3_Latin" > Virtual Paleography Group</a>).
+Some events I have been involved in organizing (apart from the <a href="{{ site.baseurl }}/3_Latin" > Virtual Paleography Group</a>).
 
 
 ### Conference: Late Medieval Hylomorphism – Matter and Form, 1300–1600.
@@ -44,7 +44,7 @@ A closing workshop for the MeLO seminar series.
 
 ### Women On Medieval Philosophy
 
-A conference for especially early carrier women working in medieval philosophy.
+A conference for especially early-career women working in medieval philosophy.
 
 - <a href="https://hiw.kuleuven.be/dwmc/conferences-lectures/womedieval" target="_blank">visit our website</a>
 
