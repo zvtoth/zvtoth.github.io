@@ -26,5 +26,5 @@ Working at Indiana University, I also explored the thought of Richard Rufus, an 
 
 Beside medieval philosophy, I am much interested in some contemporary issues in Metaphysics and Philosophy of Religion -- hence the <a href="{{ site.baseurl }}/public/archive/Religion">Philosophy of Religion Workshop Series</a> I so much enjoyed organizing back in 2015/16.
 
-Read the <a href="{{ site.baseurl }}/1_research/Research.pdf">longer research statement</a>, or the <a href="{{ site.baseurl }}/1_research/dissum.pdf">summary of a dissertation</a> where it all began.
+Read the <a href="{{ site.baseurl }}/1_research/research.pdf">longer research statement</a>, or the <a href="{{ site.baseurl }}/1_research/dissum.pdf">summary of a dissertation</a> where it all began.
 
