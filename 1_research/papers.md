@@ -9,7 +9,7 @@ color: '#5db400'
 ### Published Papers
 
 
-<a href="{{ site.baseurl }}/1_research/Toth_sqnc.pdf">"<i>Sine qua non</i> Causes and Their Disconents,"</a> <i>Res Philosophica</i>, forthcoming.
+<a href="{{ site.baseurl }}/1_research/Toth_sqnc.pdf">"<i>Sine qua non</i> Causes and Their Discontents,"</a> <i>Res Philosophica</i>, forthcoming.
 <br>
 <p style="margin-left: 40px; line-height: 0.9"><small>For theological reasons, medieval thinkers maintained that sacraments “effect what they figure,” that is, they are more than mere signs of grace; and yet, they also maintained that they are not proper causes of grace in the way fire is proper cause of heat. One way to reconcile these requirements is to explicate sacramental causation in terms of sine qua non causes, which were distinguished from accidental causes on the one hand, and from proper efficient causes on the other hand. This paper traces the development of this concept, as discussed in the context of the sacraments, from Scotus and Auriol, via Ockham and Peter of Ailly, to Gabriel Biel. It shows how the discussion, in its later stages, opened up concerns about occasionalism, offering thereby a case study of how particular theological issues led to metaphysical ones in the fourteenth and fifteenth century.
 </small></p>
