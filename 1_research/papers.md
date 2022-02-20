@@ -8,12 +8,18 @@ color: '#5db400'
 
 ### Published Papers
 
-<a href="{{ site.baseurl }}/1_research/Toth_Rufus.pdf">"They Tend into Nothing by Their Own Nature: Richard Rufus and an Anonymous De Generatione Commentary on the Principles of Corruptibility,"</a> <i>Early Thirteenth-Century English Franciscan Thought</i>, ed. Lydia Schumacher, De Gruyter, forthcoming.
+
+<a href="{{ site.baseurl }}/1_research/Toth_sqnc.pdf">"<i>Sine qua non</i> Causes and Their Disconents,"</a> <i>Res Philosophica</i>, forthcoming.
+<br>
+<p style="margin-left: 40px; line-height: 0.9"><small>For theological reasons, medieval thinkers maintained that sacraments “effect what they figure,” that is, they are more than mere signs of grace; and yet, they also maintained that they are not proper causes of grace in the way fire is proper cause of heat. One way to reconcile these requirements is to explicate sacramental causation in terms of sine qua non causes, which were distinguished from accidental causes on the one hand, and from proper efficient causes on the other hand. This paper traces the development of this concept, as discussed in the context of the sacraments, from Scotus and Auriol, via Ockham and Peter of Ailly, to Gabriel Biel. It shows how the discussion, in its later stages, opened up concerns about occasionalism, offering thereby a case study of how particular theological issues led to metaphysical ones in the fourteenth and fifteenth century.
+</small></p>
+
+<a href="{{ site.baseurl }}/1_research/Toth_Rufus.pdf">"They Tend into Nothing by Their Own Nature: Richard Rufus and an Anonymous De Generatione Commentary on the Principles of Corruptibility,"</a> <i>Early Thirteenth-Century English Franciscan Thought</i>, ed. Lydia Schumacher, De Gruyter, 2021.
 <br>
 <p style="margin-left: 40px; line-height: 0.9"><small>In this paper, I consider Richard Rufus’s account of generation and corruption. This is a fundamental metaphysical question in the Aristotelian framework. Given that there are things that are corruptible (such as trees and cats and the human body), and things that are incorruptible (such as the celestial bodies and angels), what is it that makes one one, and the other the other? In other words, what is the ultimate explanation (in Rufus’s terminology, the principle or principles) of corruptibility and incorruptibility? Do corruptible and incorruptible things have the same principles – the same fundamental metaphysical constitution – or are their principles different? Richard Rufus was among the first ones lecturing on Aristotle’s Metaphysics at the University of Paris. He addresses these questions in book 4 (Gamma), lectio 1, question 2 of his longer commentary on Aristotle's work (the Scriptum), which will provide the main textual basis of this paper. The other textual basis is an anonymous commentary on Aristotle’s On generation and corruption, found in Oxford, Corpus Christi ms. 119, whose treatment of these issues is remarkably similar to Rufus's. As I show, we can learn a great deal about Rufus's general metaphysical commitments by looking at this particular question, especially concerning his view of prime matter and his view of the qualities of the resurrected bodies.</small></p>
 
 
-(with Rega Wood) "Nec idem nec aliud: The Powers of the Soul and the Origins of the Formal Distinction," <i>Early Thirteenth-Century English Franciscan Thought</i>, ed. Lydia Schumacher, De Gruyter, forthcoming.
+(with Rega Wood) "Nec idem nec aliud: The Powers of the Soul and the Origins of the Formal Distinction," <i>Early Thirteenth-Century English Franciscan Thought</i>, ed. Lydia Schumacher, De Gruyter, 2021.
 
 
 
@@ -57,10 +63,11 @@ In the following, I deal only with the first two, that is, with the possible rec
 
 ### Drafts, Talks, Work in progress
 
-<a href="{{ site.baseurl }}/1_research/Toth_sqnc.pdf">''Sine qua non Causes and their Discontents"</a> (in progress)
+"14th-Century Problems of Celestial Matter" (in progress)
+<br>
 
 ''Durand of St.-Pourçain and Some Contemporaries on Whether God Can Recreate Numerically the Same Individual'' (in progress, with Adam Wood)
-
+<br>
 
 <a href="{{ site.baseurl }}/1_research/Toth2017a_0.pdf">"Medieval Problems of Causation and Divine Concurrence."</a>
 <br>
