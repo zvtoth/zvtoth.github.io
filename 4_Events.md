@@ -16,6 +16,7 @@ A conference that brings together scholars working various issues of hylomorphis
 - <a href="{{ site.baseurl }}/3_events/Program_hylo22.pdf" > download the program </a>
 - <a href = "https://hiw.kuleuven.be/dwmc/conferences-lectures/hylomorphism" target="_blank"> visit our website </a> for more information.
 
+
 ---
 
 ### KUL-CoMP: the KU Leuven Colloquia in Medieval Philosophy
