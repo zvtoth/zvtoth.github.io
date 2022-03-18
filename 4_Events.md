@@ -20,6 +20,7 @@ A conference that brings together scholars working various issues of hylomorphis
 
 <br>
 <br>
+
 ---
 
 ### KUL-CoMP: the KU Leuven Colloquia in Medieval Philosophy
