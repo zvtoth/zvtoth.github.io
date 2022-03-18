@@ -5,7 +5,7 @@ image: /public/img/events.jpg
 color: '#b6874f'
 ---
 
-Some events I have been involved in organizing (apart from the <a href="{{ site.baseurl }}/3_Latin" > Virtual Paleography Group</a>).
+Some events I have been involved in organizing (apart from the <a href="{{ site.baseurl }}/3_Latin" > Virtual Paleography Group</a>). 
 
 
 ### Conference: Late Medieval Hylomorphism – Matter and Form, 1300–1600.
@@ -15,6 +15,8 @@ A conference that brings together scholars working various issues of hylomorphis
 - <a href="{{ site.baseurl }}/3_events/CFP_hylomorphism.pdf" > read the Call for Abstracts </a>
 - <a href="{{ site.baseurl }}/3_events/Program_hylo22.pdf" > download the program </a>
 - <a href = "https://hiw.kuleuven.be/dwmc/conferences-lectures/hylomorphism" target="_blank"> visit our website </a> for more information.
+
+<img class="img-single" align="left" src="/public/img/Program_hylo.jpg" width="600">
 
 
 ---
