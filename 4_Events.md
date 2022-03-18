@@ -18,6 +18,7 @@ A conference that brings together scholars working various issues of hylomorphis
 
 <img class="img-single" align="left" src="/public/img/Program_hylo.jpg" width="600">
 
+<br>
 
 ---
 
