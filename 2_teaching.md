@@ -10,6 +10,19 @@ Despite all this, I teach philosophy. To see why, see my <a href="{{ site.baseur
 
 ---
 
+### Current Courses (Autumn 2022)
+
+<div>
+<br>
+<br>
+
+<a href="{{ site.baseurl }}/2_teaching/Medieval "><img src="{{ site.baseurl }}/public/img/medieval.jpg" width="150" height="150" title="Medieval Philosophy" hspace="40" /></a>
+
+</div>
+
+
+---
+
 ### <!--- <u>Current</u> and --> Recent Courses
 
 <div>
