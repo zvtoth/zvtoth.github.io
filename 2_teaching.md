@@ -36,8 +36,7 @@ Despite all this, I teach philosophy. To see why, see my <a href="{{ site.baseur
 <a href="{{ site.baseurl }}/2_teaching/Ethics "><img src="{{ site.baseurl }}/public/img/ethics.jpg" width="150" height="150" title="Ethics" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Metaphysics "><img src="{{ site.baseurl }}/public/img/meta.jpg" width="150" height="150" title="Metaphysics" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Euclid "><img src="{{ site.baseurl }}/public/img/elements.jpg" width="150" height="150" title="Euclidean Geometry" hspace="40" /></a>
-<a href="{{ site.baseurl }}/2_teaching/Contemplation"><img src="{{ site.baseurl }}/public/img/cont.jpg" width="150" height="150" -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%); title="Contemplative Life" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Contemplation"><img src="{{ site.baseurl }}/public/img/cont.jpg" width="150" height="150" title="Contemplative Life" hspace="40" /></a>
 
 </div>
 
