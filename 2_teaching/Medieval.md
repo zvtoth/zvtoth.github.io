@@ -47,11 +47,16 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
   </tr>
 	<tr>
 		<td>14/10</td>
-		<td>Anselm and the fall of the devil</td>
-		<td><i>On the Faill of the Devil</i> (sel.)</td>
+		<td>Boethius and the problem of foreknowledge</td>
+		<td><i>The Consolation of Philosophy</i> (sel.)</td>
+</tr>
+<tr>
+  <td>21/10</td>
+  <td>Anselm and the fall of the devil</td>
+  <td><i>On the Fall of the Devil</i> (sel.)</td>
 </tr>
 	<tr>
-    <td>21/10</td>
+    <td>28/10</td>
 		<td>Free will in Arabic philosophy; Al-Ghazali</td>
 		<td>Al-Ghazali, <i>Incoherence</i> (sel.)</td>
 </tr>
