@@ -64,6 +64,7 @@ Please reserve a slot before coming to office hours to make sure I am here. You 
 
 ### Other things
 
+- <a href="https://www.mcsweeneys.net/articles/an-open-letter-to-college-students-who-dont-read-the-syllabus" target="_blank"> Didn't read the syllabus? <i class="fa fa-link"></i></a>
 - <a href="https://www.reddit.com/r/Professors/comments/99e8k9/a_video_explainer_about_office_hours_for_students/?st=JL5YL6F3&sh=c1f6434b" target="_blank"> About office hours<i class="fa fa-link"></i></a>
 - <a href="https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.a63fa0z6h" target="_blank">How to Email Your Professor <i class="fa fa-link"></i></a>
 - <a href="http://www.slate.com/articles/life/education/2016/08/the_one_thing_college_students_should_never_say_to_a_professor.html" target="_blank">Need an A? <i class="fa fa-link"></i></a>
