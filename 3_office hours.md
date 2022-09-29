@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Office hours
+title: Office Hours
 image: /public/img/teach.jpg
 color: '#d58000'
 ---
 
-
-## Office Hours
 
 My office is in the Strand Philosophy Building, room 709. My official office hours are Tuesdays and Thursdays, 16.00–17.00, but you can come any time as long as you reserve a slot here, by clicking on the preferred slot below. Or, if you come by and my door is open, that means I am here – feel free to come in.
 
