@@ -5,7 +5,7 @@ image: /public/img/events.jpg
 color: '#b6874f'
 ---
 
-Some events I have been involved in organizing (apart from the <a href="{{ site.baseurl }}/3_Latin" > Virtual Paleography Group</a>). 
+Some events I have been involved in organizing (apart from the <a href="{{ site.baseurl }}/4_Latin" > Virtual Paleography Group</a>). 
 
 
 ### Conference: Late Medieval Hylomorphism – Matter and Form, 1300–1600.
