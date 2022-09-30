@@ -39,7 +39,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
     <td>30/09</td>
 		<td><a href="http://zitavtoth.com/2_teaching/Medieval/0930_Intro_HO.pdf">Introduction; faith and reason </a><br>
 </td>
-		<td>Lewis, <i>Discarded Image</i></td>
+		<td>Lewis, <i>Discarded Image; Aquinas, ST I.1.</i></td>
   </tr>
   <tr>
     <td>07/10</td>
