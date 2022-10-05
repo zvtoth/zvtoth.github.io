@@ -5,9 +5,9 @@ image: /public/img/latin.jpg
 color: '#439feb'
 ---
 
-The Latin Reading Group has recently transformed into a Paleography reading group. We meet once every week via Zoom, right now on Wednesdays at 6:30 p.m. Brussels Time, and read and transcribe from a manuscript. Currently (Spring 2022) we are working on a question of Peter of Auvergne's *Sentences* commentary, in a gothic book hand.
+The Latin Reading Group has recently transformed into a Paleography reading group. We meet once every week via Zoom, right now on Wednesdays at 7 p.m. London time, and read and transcribe from a manuscript. Currently (Autumn 2022) we are working on Peter Auriol's quodlibet (Assisi Bibl. comm. 136).
 
-In earlier semesters we read from De Fonseca's *De sensu* (in a modern cursive script); John Buridan's commentary on the *De memoria* (in a 14th-century anglicana script); from the *Life of St. Cuthbert* by Bede (Carolingian script); and from an anonymous Vatican Lateran ms. (14th-century gothic book hand).
+In earlier semesters we read from Peter of Auvergne's *Sentences* commentary; De Fonseca's *De sensu* (in a modern cursive script); John Buridan's commentary on the *De memoria* (in a 14th-century anglicana script); from the *Life of St. Cuthbert* by Bede (Carolingian script); and from an anonymous Vatican Lateran ms. (14th-century gothic book hand).
 
 The paleography skills of the group participants occupy a big range, and everyone is welcome. It is easier than it looks like! If interested, please <a href="mailto:tothzit@gmail.com">send me an email</a>.
 
