@@ -43,7 +43,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
   </tr>
   <tr>
     <td>07/10</td>
-		<td>Augustine on Free will and evil</td>
+		<td><a href="http://zitavtoth.com/2_teaching/Medieval/1007_Augustine_HO.pdf">Augustine on free will and evil</a></td>
 		<td><i>On Free Choice of the Will</i> I</td>
   </tr>
 	<tr>
