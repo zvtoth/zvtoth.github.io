@@ -48,7 +48,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
   </tr>
 	<tr>
 		<td>14/10</td>
-		<td>Boethius and the problem of foreknowledge</td>
+    <td><a href="http://zitavtoth.com/2_teaching/Medieval/1014_Boethius_HO.pdf">Boethius and the problem of foreknowledge</a></td>
 		<td><i>The Consolation of Philosophy</i> (sel.)</td>
 </tr>
 <tr>
