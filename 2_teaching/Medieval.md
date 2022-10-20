@@ -53,7 +53,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 </tr>
 <tr>
   <td>21/10</td>
-  <td>Anselm and the fall of the devil</td>
+  <td><a href="http://zitavtoth.com/2_teaching/Medieval/1021_Anselm_HO.pdf">Anselm and the Fall of the Devil</a></td>
   <td><i>On the Fall of the Devil</i> (sel.)</td>
 </tr>
 	<tr>
