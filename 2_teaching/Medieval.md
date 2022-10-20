@@ -22,7 +22,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 ### Assignments, 2022 Autumn
 
 <a href="http://zitavtoth.com/2_teaching/Medieval/argrec.pdf">Argument reconstruction paper (BA students)</a> <br>
-<a href="http://zitavtoth.com/2_teaching/Medieval/argrec2.pdf">Argument reconsruction and response (MA students) </a><br>
+<a href="http://zitavtoth.com/2_teaching/Medieval/argrec2.pdf">Argument reconstruction and response (MA students) </a><br>
 
 
 ### Class Schedule, 2022 Autumn
