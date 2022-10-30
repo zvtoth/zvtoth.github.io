@@ -5,7 +5,12 @@ image: /public/img/events.jpg
 color: '#b6874f'
 ---
 
-Some events I have been involved in organizing (apart from the <a href="{{ site.baseurl }}/4_Latin" > Virtual Paleography Group</a>). 
+
+I'm currently coordinating the History of Philosophy Cluster at King's. Our events can be found on <a href="https://kclhop.wordpress.com" target="blank">our webpage</a>.
+
+---
+
+Past events I have been involved in organizing (apart from the <a href="{{ site.baseurl }}/4_Latin" > Virtual Paleography Group</a>):
 
 
 ### Conference: Late Medieval Hylomorphism – Matter and Form, 1300–1600.
@@ -37,7 +42,6 @@ The seminar meets once month, in a hybrid format (on Zoom as well as in person a
 
 ---
 
-## Past Events
 
 ### Knowability and the Limits of Knowledge
 
