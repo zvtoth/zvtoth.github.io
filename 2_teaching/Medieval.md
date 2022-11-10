@@ -68,7 +68,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 </tr>
 	<tr>
     <td>11/11</td>
-		<td>Aquinas on free choice</td>
+    <td><a href="http://zitavtoth.com/2_teaching/Medieval/1111_Aquinas_HO.pdf">Aquinas on Free Choice</a></td>
 		<td><i>Summa theologiae</i> I, q. 83</td>
 </tr>
 	<tr>
