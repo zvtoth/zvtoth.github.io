@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Office Hours
-image: /public/img/teach.jpg
+image: /public/img/schola.jpg
 color: '#d58000'
 ---
 
