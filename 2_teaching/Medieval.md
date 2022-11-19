@@ -73,7 +73,7 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 </tr>
 	<tr>
     <td>18/11</td>
-		<td>Henry of Ghent on will and intellect</td>
+    <td><a href="http://zitavtoth.com/2_teaching/Medieval/1118_Henry_HO.pdf">Henry of Ghent on Will and Intellect</a></td>
 		<td><i>Quodlibet</i> I, q. 14</td>
 </tr>
 	<tr>
