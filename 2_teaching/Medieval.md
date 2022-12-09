@@ -78,17 +78,17 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 </tr>
 	<tr>
     <td>25/11</td>
-		<td>Duns Scotus on willing happiness</td>
+    <td><a href="http://zitavtoth.com/2_teaching/Medieval/1125_Scotus_HO.pdf">Duns Scotus on willing happiness</a></td>
 		<td><i> Ordinatio</i> IV, supp. d. 49, qq. 9–10</td>
   </tr>
 	<tr>
 		<td>02/12</td>
-		<td>Will and virtues in some women thinkers</td>
+    <td><a href="http://zitavtoth.com/2_teaching/Medieval/1202_Marguerite_HO.pdf">Marguerite of Porete on will and virtues</a></td>
 		<td>Marguerite Porete, <i>The Mirror of Simple Souls</i> (sel.)</td>
 </tr>
 	<tr>
 		<td>09/12</td>
-		<td>Free will in Jewish philosophy</td>
+    <td><a href="http://zitavtoth.com/2_teaching/Medieval/1209_Albo_HO.pdf">Free will in Jewish philosophy</a></td>
 		<td>Josef Albo, <i>Book of Principles</i>, IV.25, 27</td>
 </tr>
 	
