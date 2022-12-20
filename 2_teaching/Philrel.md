@@ -6,7 +6,7 @@ image: /public/img/teach.jpg
 color: '#d58000'
 ---
 
-<img class="img-single" align="right" src="/public/img/medieval.jpg" width="200">
+<img class="img-single" align="right" src="/public/img/philrel.jpg" width="200">
 
 In this course, we look at the most important classical problems in the Philosophy of Religion, from both a historical and a contemporary persepctive. We consider how thinkers thought about religious belief in general; about whether we can meaningfully talk about God; about whether God exists, and if so, what characteristics God may have. We will also look at the problem of evil and the connection (if any) between religion and morality.
 
