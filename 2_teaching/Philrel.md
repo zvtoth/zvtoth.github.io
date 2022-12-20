@@ -51,7 +51,7 @@ In this course, we look at the most important classical problems in the Philosop
       <td></td>
       <td><br>
     </td>
-      <td>Swinburne, <i>The Coherence of Theism<i>, ch. 2</td>
+      <td>Swinburne, <i>The Coherence of Theism</i>, ch. 2</td>
     </tr>
 
     <tr>
