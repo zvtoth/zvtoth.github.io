@@ -112,6 +112,19 @@ In this course, we look at the most important classical problems in the Philosop
               <td>Morris, "Simplicity"</td>
             </tr>
 
+
+            
+                      <tr>
+                          <td>28/02</td>
+                      		<td>Divine attributes 1: Divine simplicity<br>
+                      </td>
+                      		<td>Aquinas, <i>Summa theologiae</i> I.3 <br> Morris, "Simplicity" </td>
+                        </tr>
+                      
+
+
+
+
             <tr>
                 <td>07/03</td>
             		<td>Divine attributes 2: Divine omniscience<br>
