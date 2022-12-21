@@ -30,16 +30,16 @@ In this course, we look at the most important classical problems in the Philosop
   
 <tr>
     <td>17/01</td>
-		<td>Philosophy and religion; the rationality of religious belief<br>
+		<td>Introduction; how to talk about God<br>
 </td>
-		<td>Aquinas, <i>Summa contra gentiles</i> I.3–7 <br> Clifford, "The Ethics of Belief"</td>
+		<td>Maimonides, <i>The Guide of the Perplexed</i>, chs. 52–58<br> Swinburne, <i>The Coherence of Theism</i>, ch. 2</td>
   </tr>
 
 <tr>
       <td>24/01</td>
-  		<td>Talking about God<br>
+  		<td>Religious belief<br>
   </td>
-  		<td>Maimonides, <i>The Guide of the Perplexed</i>, chs. 52–58<br> Swinburne, <i>The Coherence of Theism</i>, ch. 2</td>
+  		<td>Pascal, <i>Pensées</i>, § 233 <br> Clifford, "The Ethics of Belief"</td>
     </tr>
 
     <tr>
@@ -58,9 +58,9 @@ In this course, we look at the most important classical problems in the Philosop
 
         <tr>
             <td>14/02</td>
-        		<td>The practical argument: Pascal's wager<br>
+        		<td>Divine attributes 1: omnipotence (guest lecture)<br>
         </td>
-        		<td>Pascal, <i>Pensées</i>, § 233 <br> Martin, "Pascal's Wager as an Argument for Not Believing in God"</td>
+        		<td> tba </td>
           </tr>
 <tr>
 <td> 21/02</td>
@@ -71,14 +71,14 @@ In this course, we look at the most important classical problems in the Philosop
             
                       <tr>
                           <td>28/02</td>
-                      		<td>Divine attributes 1: Divine simplicity<br>
+                      		<td>Divine attributes 2: Divine simplicity<br>
                       </td>
                       		<td>Aquinas, <i>Summa theologiae</i> I.3 <br> Morris, "Simplicity" </td>
                         </tr>
                       
             <tr>
                 <td>07/03</td>
-            		<td>Divine attributes 2: Divine omniscience<br>
+            		<td>Divine attributes 3: Divine omniscience<br>
             </td>
             		<td>Boethius, <i>Consolation of Philosophy</i>, V <br> Pike, "Divine Omniscience and Voluntary Action"</td>
               </tr>
