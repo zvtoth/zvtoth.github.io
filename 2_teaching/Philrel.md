@@ -58,9 +58,9 @@ In this course, we look at the most important classical problems in the Philosop
 
         <tr>
             <td>14/02</td>
-        		<td>Divine attributes 1: omnipotence (guest lecture)<br>
+        		<td>Divine attributes 1: Divine omnipotence and divine freedom (guest lecture by Marcin Iwanicki)<br>
         </td>
-        		<td> tba </td>
+        		<td> Aquinas, <i>Summa theologiae</i> I.25 <br> Howard-Snyder, "How an Unsurpassable Being Can Create a Surpassable World" </td>
           </tr>
 <tr>
 <td> 21/02</td>
