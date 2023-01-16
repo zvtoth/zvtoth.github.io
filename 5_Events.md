@@ -7,7 +7,7 @@ color: '#b6874f'
 
 ### KHOPS
 
-I'm currently coordinating the History of Philosophy Cluster at King's, including our Seminar Series (King's History of Philosophy Seminars, a.k.a. KHOPS). This semester's schedule can be found on <a href="https://kclhop.wordpress.com/events-2/" target="_blank">our webpage</a>.
+I'm currently coordinating the History of Philosophy Cluster at King's, including our Seminar Series (King's History of Philosophy Seminars, a.k.a. KHOPS). This semester's schedule can be found on <a href="http://kclhop.wordpress.com/events-2/" target="_blank">our webpage</a>.
 
 ---
 
