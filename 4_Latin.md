@@ -6,7 +6,7 @@ color: '#439feb'
 ---
 
 
-## The Latin Philosophy Reading Group
+### The Latin Philosophy Reading Group
 
 In Spring 2023 we are reading Aquinas's *Summa Theologiae*. We are meeting every Monday from 2 to 3 p.m., in the Philosophy building, room 508. Everyone is welcome to join, regardless of Latin proficiency.
 
@@ -17,7 +17,7 @@ In Spring 2023 we are reading Aquinas's *Summa Theologiae*. We are meeting every
 
 ---
 
-## Virtual Paleography Group
+### Virtual Paleography Group
 
 We meet once every week via Zoom, right now on Wednesdays at 7 p.m. London time, and read and transcribe from a manuscript. Currently (Autumn 2022) we are working on Peter Auriol's quodlibet (Assisi Bibl. comm. 136).
 
