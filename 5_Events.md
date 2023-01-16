@@ -23,7 +23,6 @@ A conference that brings together scholars working various issues of hylomorphis
 - <a href = "https://hiw.kuleuven.be/dwmc/conferences-lectures/hylomorphism" target="_blank"> visit our website </a> for more information.
 
 <br>
-<br>
 
 ---
 
