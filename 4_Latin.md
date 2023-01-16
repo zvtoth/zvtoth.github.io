@@ -12,8 +12,6 @@ In Spring 2023 we are reading Aquinas's *Summa Theologiae*. We are meeting every
 
 <ul><li> <a href="{{ site.baseurl }}/4_latin/LRG_2023S.pdf">details and schedule</a></li></ul>
 
-<br>
-
 
 ---
 
