@@ -24,7 +24,7 @@ In earlier semesters we read from Peter of Auvergne's *Sentences* commentary; De
 The paleography skills of the group participants occupy a big range, and everyone is welcome. It is easier than it looks like! If interested, please <a href="mailto:tothzit@gmail.com">send me an email</a>.
 
 
-<img src="{{ site.baseurl }}/public/img/folio.jpg" alt="Vat Lat ms 985">
+---
 
 
 In earlier semesters I had lead the CSC Latin Reading Group, where we read some of <a href="https://www.augustinus.it/latino/commento_lsg/index2.htm" target="_blank"> Augustine's sermons</a>, and earlier the <a href="http://www.thelatinlibrary.com/egeria.html" target="_blank">*Itinerarium Egeriae*</a>, the travel diary of a 4th-century Spanish pilgrim woman traveling to the Holy Land.
