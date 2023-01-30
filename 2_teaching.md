@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 image: /public/img/latin.jpg
-color: '#d58000'
+color: '#439feb'
 ---
 
 "It is not enough that my devotion to you has not helped me at all, but you are now made the victim of the hatred,'' complains Boethius to Philosophy personalized, with the barbarians standing at the gates of Rome and himself sentenced to death. The situation seems to be somewhat similar today: why should anyone waste their time studying philosophy, with no jobs around, the economy in crisis, rather than learning some practical skills that would be more useful in these circumstances?<br>
