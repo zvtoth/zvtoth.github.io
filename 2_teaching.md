@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-image: /public/img/teach.jpg
+image: /public/img/latin.jpg
 color: '#d58000'
 ---
 

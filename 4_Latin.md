@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Latin and Paleography
-image: /public/img/latin.jpg
+image: /public/img/schola.jpg
 color: '#439feb'
 ---
 
