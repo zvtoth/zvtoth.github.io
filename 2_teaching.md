@@ -33,8 +33,10 @@ Despite all this, I teach philosophy. To see why, see my <a href="{{ site.baseur
 <a href="{{ site.baseurl }}/2_teaching/Aristotle "><img src="{{ site.baseurl }}/public/img/arist.jpg" width="150" height="150" title="Aristotle" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Medieval "><img src="{{ site.baseurl }}/public/img/medieval.jpg" width="150" height="150" title="Medieval Philosophy" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/17thcent "><img src="{{ site.baseurl }}/public/img/scirev.jpg" width="150" height="150" title="17th Century Philosophy" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Humannature "><img src="{{ site.baseurl }}/public/img/humannature.jpg" width="150" height="150" title="Human Nature" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Ethics "><img src="{{ site.baseurl }}/public/img/ethics.jpg" width="150" height="150" title="Ethics" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Metaphysics "><img src="{{ site.baseurl }}/public/img/meta.jpg" width="150" height="150" title="Metaphysics" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Philrel "><img src="{{ site.baseurl }}/public/img/philrel.jpg" width="150" height="150" title="Philosophy of Religion" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Euclid "><img src="{{ site.baseurl }}/public/img/elements.jpg" width="150" height="150" title="Euclidean Geometry" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Contemplation"><img src="{{ site.baseurl }}/public/img/cont.jpg" width="150" height="150" title="Contemplative Life" hspace="40" /></a>
 
