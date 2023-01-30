@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-image: /public/img/events.jpg
+image: /public/img/bridge.jpg
 color: '#b6874f'
 ---
 
