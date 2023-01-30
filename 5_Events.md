@@ -9,7 +9,7 @@ color: '#b6874f'
 
 I'm currently coordinating the History of Philosophy Cluster at King's, including our Seminar Series (King's History of Philosophy Seminars, a.k.a. KHOPS). This semester's schedule can be found on <a href="http://kclhop.wordpress.com/events-2/" target="_blank">our webpage</a>.
 
-At King's, I'm also responsible for our <a href="http://https://www.kcl.ac.uk/events/series/kings-annual-peace-lecture" target="_blank">Annual Peace Lecture</a> (register <a href="https://www.eventbrite.co.uk/e/annual-peace-lecture-tickets-522509569187" target="_blank">here</a> for this year's event), and our Annual Mark Sainsbury Lecture.
+At King's, I'm also responsible for our <a href="https://www.kcl.ac.uk/events/series/kings-annual-peace-lecture" target="_blank">Annual Peace Lecture</a> (register <a href="https://www.eventbrite.co.uk/e/annual-peace-lecture-tickets-522509569187" target="_blank">here</a> for this year's event), and our Annual Mark Sainsbury Lecture.
 
 ---
 
