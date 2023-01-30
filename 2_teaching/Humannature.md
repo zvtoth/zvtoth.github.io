@@ -16,12 +16,12 @@ This course is an introduction to the most important philosophical problems rela
 <br>
 <a href="http://zitavtoth.com/2_teaching/HN/HN_2013F.pdf">2013 Fall syllabus</a>
 <br>
-<a href="http://zitavtoth.com/2_teaching/HN/HN_2014F.pdf">2014 Fall syllabus</a>
+<a href="http://zitavtoth.com/2_teaching/HN/HN_2014S.pdf">2014 Spring syllabus</a>
 
 
 
 
 ### Slides
-(Note: these are old and not updated.)
+(N.B.: these are old and not updated.)
 
 
