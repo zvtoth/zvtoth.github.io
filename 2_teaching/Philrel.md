@@ -30,28 +30,28 @@ In this course, we look at the most important classical problems in the Philosop
   
 <tr>
     <td>17/01</td>
-		<td>Introduction; how to talk about God<br>
+		<td><a href="http://zitavtoth.com/2_teaching/Philrel/0117_Intro_HO.pdf">Introduction; how to talk about God</a><br>
 </td>
 		<td>Maimonides, <i>The Guide of the Perplexed</i>, chs. 52–58<br> Swinburne, <i>The Coherence of Theism</i>, ch. 2</td>
   </tr>
 
 <tr>
       <td>24/01</td>
-  		<td>Religious belief<br>
+  		<td><a href="http://zitavtoth.com/2_teaching/Philrel/0124_Epistemology_HO.pdf">Religious belief</a><br>
   </td>
   		<td>Pascal, <i>Pensées</i>, § 233 <br> Clifford, "The Ethics of Belief"</td>
     </tr>
 
     <tr>
         <td>31/01</td>
-    		<td>Arguments for God's existence 1: The ontological argument<br>
+    		<td><a href="http://zitavtoth.com/2_teaching/Philrel/0131_Anselm_HO.pdf">Arguments for God's existence 1: The ontological argument</a><br>
     </td>
     		<td>Anselm, <i>Proslogion</i>, chs. 1–5 <br> Gaunilo's reply to Anselm's argument</td>
       </tr>
 
       <tr>
           <td>07/02</td>
-      		<td>Arguments for God's existence 2: The cosmological argument<br>
+      		<td><a href="http://zitavtoth.com/2_teaching/Philrel/0207_Cosmological_HO.pdf">Arguments for God's existence 2: The cosmological argument</a><br>
       </td>
       		<td>Aquinas, <i>Summa theologiae</i> I.2.3 <br> Rowe, "The Cosmological Argument"</td>
         </tr>
