@@ -61,7 +61,7 @@ concurrence against a case that involves a specific kind of miracles, then it tu
 In the following, I deal only with the first two, that is, with the possible reconciliation of the empiricist and the universalistic claim. After outlining the solution of Thomas Aquinas and some criticism of it in the 14th century, I shall call attention to John Buridan, who – despite his apparent Nominalism – in certain respects, turns out to be surprisingly Thomistic.</small></p>
 
 
-### Drafts, Talks, Work in progress
+### Drafts, Work in progress
 
 "14th-Century Problems of Celestial Matter" (in progress)
 <br>
