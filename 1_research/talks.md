@@ -13,29 +13,29 @@ Click on the links for the handouts.
 <br> <a href="https://philevents.org/event/fileDownload/106821?fileId=13609" target="_blank"> <i>Primary and Secondary Causality</i></a>, Vienna, 2023.
 
 
-"Celestial Stuff: Peter Auriol on the Matter of Angels and Celestial Bodies"
+<a href="{{ site.baseurl }}/1_research/handouts/221122_Handout_Wb.pdf">"Celestial Stuff: Peter Auriol on the Matter of Angels and Celestial Bodies"</a>
 <br> Invited Lecture, University of Würzburg, 2022.
 
-"How Many Matters? The Problem of Celestial Matter in Some Early 14th-Century Thinkers"
+<a href="{{ site.baseurl }}/1_research/handouts/220825_Handout_SIEPM.pdf">"How Many Matters? The Problem of Celestial Matter in Some Early 14th-Century Thinkers"</a>
 <br> <i>The XVth International Congress of the SIEPM</i>, 2022.
 
 
-"Angelic Mental Acts and Universal Hylomorphism in Some Early 14th-Century Franciscans"
+<a href="{{ site.baseurl }}/1_research/handouts/220528_Handout_London.pdf">"Angelic Mental Acts and Universal Hylomorphism in Some Early 14th-Century Franciscans"</a>
 <br> <i>Powers of the Soul in the Franciscan Tradition</i>, KCL, 2022.
 
+<a href="{{ site.baseurl }}/1_research/handouts/220518_Handout_Gotheborg.pdf">Matterless Celestial Bodies in Durand of St.-Pourçain, John of Jandun, and Peter Auriol</a>
+<br> Invited Lecture, Gothenburg, SE, 2022.
+<br> <i>APA Central, SMRP Satellite Session</i>, Chicago, 2022. 
+<br> <i>Materia, Qì, and their Epistemes</i>, KU-Leuven--UST Beijing, 2021.
 
-Matterless Celestial Bodies in Durand of St.-Pourçain, John of Jandun, and Peter Auriol Invited Lecture, Gothenburg, SE, 2022.
-<br> <i>APA Central, SMRP Satellite Session</i>, Chicago, 2022. <i>Materia, Qì, and their Epistemes}, KU-Leuven--UST Beijing, 2021.
-
-
-Causal Powers and Teleology
+<a href="{{ site.baseurl }}/1_research/handouts/220520_Handout_Stockholm.pdf">Causal Powers and Teleology</a>
 <br> <i>Causal Powers in Late Medieval Philosophy</i>, Stockholm, 2022.
 <br> <i>Teloi research group</i>, Central European University, 2021.
 
-"Durand of St.-Pourçain on Gappy Existence," with Adam Wood 
+<a href="{{ site.baseurl }}/1_research/handouts/211014_Handout.pdf">"Durand of St.-Pourçain on Gappy Existence," with Adam Wood </a>
 <br> <i>SMRP Inaugural Conference</i>, Notre Dame, IN, 2021.
 
-"Albert and Aquinas on Virtual Containment" 
+<a href="{{ site.baseurl }}/1_research/handouts/200227_Handout.pdf">"Albert and Aquinas on Virtual Containment"</a>
 <br> <i>APA Central, SMRP Satellite Session</i>, Chicago, 2020.
 
 Durand of St.-Pourçain and Peter of Palude on the Problem of Impassibility 
@@ -43,8 +43,7 @@ Durand of St.-Pourçain and Peter of Palude on the Problem of Impassibility
 <br> <i>Morris Colloquium in Medieval Philosophy</i>, Boulder, CO, 2018.
 <br> <i>Annual meeting of the ACPA</i>, Dallas, TX, 2017.
 
-
-Scotus, Ockham, and Biel on <i>sine qua non</i> Causes 
+<a href="{{ site.baseurl }}/1_research/handouts/190617_Handout.pdf">Scotus, Ockham, and Biel on <i>sine qua non</i> Causes</a>
 <br> <i>Symposium on Medieval and Renaissance Studies</i>, SLU, 2019.
 <br> <i>Medieval Natural Philosophy</i>, University of St. Thomas, MN, 2016.
 
@@ -77,9 +76,9 @@ Aquinas, Giles of Rome, Durand of St.-Pourçain, and Peter of Palude on Divine C
 "Mere Conservationism and Its Metaphysical Commitments" 
 <br> <i>Divine Action in the World</i>, AT Project, Innsbruck, 2014.
 
-Descartes' <i>Optics} and Medieval Theories of Vision
+Descartes' <i>Optics</i> and Medieval Theories of Vision
 <br> <i>Southwest Seminar in Early Modern Philosophy</i>, Albuquerque, 2014.
-<br> <i>Scientiae}, Simon Fraser University, Vancouver, 2012.
+<br> <i>Scientiae</i>, Simon Fraser University, Vancouver, 2012.
 
 
 "Scotus on Modality and the Argument for God's Existence" 
