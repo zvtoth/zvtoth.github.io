@@ -6,93 +6,89 @@ color: '#5db400'
 ---
 
 
-### Talks at Conferences
-
 Click on the links for the handouts.
 
 
 <a href="{{ site.baseurl }}/1_research/handouts/230216_Handout_Vienna.pdf">"Divine Concurrence with Sinful Volitions in Some Lesser Known Fourteenth-Century Franciscan Thinkers"</a>
-<br> <a href="https://philevents.org/event/fileDownload/106821?fileId=13609" target="_blank"> <i>Primary and Secondary Causality</i><a>, Vienna, 2023.
+<br> <a href="https://philevents.org/event/fileDownload/106821?fileId=13609" target="_blank"> <i>Primary and Secondary Causality</i></a>, Vienna, 2023.
 
 
-\cvitem{}{``Celestial Stuff: Peter Auriol on the Matter of Angels and Celestial Bodies''
-\newline \hspace*{3em} Invited Lecture, University of Würzburg, 2022.
-}
+"Celestial Stuff: Peter Auriol on the Matter of Angels and Celestial Bodies"
+<br> Invited Lecture, University of Würzburg, 2022.
 
-\cvitem{}{``How Many Matters? The Problem of Celestial Matter in Some Early 14th-Century Thinkers''
-\newline \hspace*{3em} \emph{The XVth International Congress of the SIEPM}, 2022.
-}
-
-\cvitem{}{``Angelic Mental Acts and Universal Hylomorphism in Some Early 14th-Century Franciscans''
-\newline \hspace*{3em} \emph{Powers of the Soul in the Franciscan Tradition}, KCL, 2022.
-}
-
-\cvitem{}{Matterless Celestial Bodies in Durand of St.-Pour\c{c}ain, John of Jandun, and Peter Auriol \newline \hspace*{3em} Invited Lecture, Gothenburg, SE, 2022.
-\newline \hspace*{3em} \emph{APA Central, SMRP Satellite Session}, Chicago, 2022. \newline \hspace*{3em} \emph{Materia, Qì, and their Epistemes}, KU-Leuven--UST Beijing, 2021.
-}
-
-\cvitem{}{Causal Powers and Teleology
-\newline \hspace*{3em} \emph{Causal Powers in Late Medieval Philosophy}, Stockholm, 2022.
-\newline \hspace*{3em} \emph{Teloi research group}, Central European University, 2021.
-}
-
-\cvitem{}{``Durand of St.-Pour\c{c}ain on Gappy Existence,'' with Adam Wood 
-\newline \hspace*{3em} \emph{SMRP Inaugural Conference}, Notre Dame, IN, 2021.}
-
-\cvitem{}{``Albert and Aquinas on Virtual Containment'' 
-\newline \hspace*{3em} \emph{APA Central, SMRP Satellite Session}, Chicago, 2020.}
-
-\cvitem{}{Durand of St.-Pour\c{c}ain and Peter of Palude on the Problem of Impassibility 
-\newline \hspace*{3em} \emph{Theories of Causal Powers in the 13th--14th Century}, KUL, 2018.
-\newline \hspace*{3em} \emph{Morris Colloquium in Medieval Philosophy}, Boulder, CO, 2018.
-\newline \hspace*{3em} \emph{Annual meeting of the ACPA}, Dallas, TX, 2017.
-}
-
-\cvitem{}{Scotus, Ockham, and Biel on \emph{sine qua non} Causes 
-\newline \hspace*{3em} \emph{Symposium on Medieval and Renaissance Studies}, SLU, 2019.
-\newline \hspace*{3em} \emph{Medieval Natural Philosophy}, University of St.\ Thomas, MN, 2016.
-}
-
-\cvitem{}{``Ockham on Divine Concurrence'' 
-\newline \hspace*{3em} \emph{Annual meeting of the ACPA}, San Diego, CA, 2018.}
+"How Many Matters? The Problem of Celestial Matter in Some Early 14th-Century Thinkers"
+<br> <i>The XVth International Congress of the SIEPM</i>, 2022.
 
 
-\cvitem{}{Aquinas on Causes, Effects, and Their Necessary Connection
-\newline \hspace*{3em} \emph{CLPS-DWMC Symposium}, KU Leuven, 2018.
-\newline \hspace*{3em} \emph{Aquinas and Analytic Philosophy}, Trinity College Dublin, 2017.
-\newline \hspace*{3em} \emph{34th annual joint meeting of the SAGP}, Fordham University, NY, 2016.
-}
+"Angelic Mental Acts and Universal Hylomorphism in Some Early 14th-Century Franciscans"
+<br> <i>Powers of the Soul in the Franciscan Tradition</i>, KCL, 2022.
 
-\cvitem{}{Nebuchadnezzar's Fire and Causal Powers
-\newline \hspace*{3em} \emph{Special Divine Action}, AAR Symposium, San Antonio, 2016.
-\newline \hspace*{3em} \emph{Canadian Society of Christian Philosophers}, Calgary, 2016.
-\newline \hspace*{3em} \emph{Change and Its Challenges}, Fordham University, NY, 2015.}
 
-\cvitem{}{Aquinas, Giles of Rome, Durand of St.-Pour\c{c}ain, and Peter of Palude on Divine Concurrence
-\newline \hspace*{3em} \emph{International Congress on Medieval Studies}, Kalamazoo, 2016.
-\newline \hspace*{3em} \emph{The University of Toronto Colloquium in Medieval Philosophy}, 2015.
-\newline \hspace*{3em} \emph{33rd annual joint meeting of the SAGP}, Fordham University,  NY, 2015.
-\newline \hspace*{3em} \emph{13th- and 14-century Thought on Change}, KU Leuven, 2015.
-}
+Matterless Celestial Bodies in Durand of St.-Pourçain, John of Jandun, and Peter Auriol Invited Lecture, Gothenburg, SE, 2022.
+<br> <i>APA Central, SMRP Satellite Session</i>, Chicago, 2022. <i>Materia, Qì, and their Epistemes}, KU-Leuven--UST Beijing, 2021.
 
-\cvitem{}{``Thought Experiments in John Buridan's \emph{Treatise on the Void}'' 
-\newline \hspace*{3em} \textit{Medieval Thought Experiments 1100–1450}, New College, Oxford, 2015.}
 
-\cvitem{}{``Mere Conservationism and Its Metaphysical Commitments'' 
-\newline \hspace*{3em} \emph{Divine Action in the World}, AT Project, Innsbruck, 2014.}
+Causal Powers and Teleology
+<br> <i>Causal Powers in Late Medieval Philosophy</i>, Stockholm, 2022.
+<br> <i>Teloi research group</i>, Central European University, 2021.
 
-\cvitem{}{Descartes' \emph{Optics} and Medieval Theories of Vision
-\newline \hspace*{3em} \emph{Southwest Seminar in Early Modern Philosophy}, Albuquerque, 2014.
-\newline \hspace*{3em} \emph{Scientiae}, Simon Fraser University, Vancouver, 2012.
-}
+"Durand of St.-Pourçain on Gappy Existence," with Adam Wood 
+<br> <i>SMRP Inaugural Conference</i>, Notre Dame, IN, 2021.
 
-\cvitem{}{``Scotus on Modality and the Argument for God's Existence'' 
-\newline \hspace*{3em} \emph{31st annual meeting of the SAGP}, Fordham University, 2013.}
+"Albert and Aquinas on Virtual Containment" 
+<br> <i>APA Central, SMRP Satellite Session</i>, Chicago, 2020.
 
-\cvitem{}{``Are Horse-legs Horses? Buridan on Material Constitution'' 
-\newline \hspace*{3em} \emph{Graduate Symposium}, Fordham University, NY, 2011.}
+Durand of St.-Pourçain and Peter of Palude on the Problem of Impassibility 
+<br> <i>Theories of Causal Powers in the 13th--14th Century</i>, KUL, 2018.
+<br> <i>Morris Colloquium in Medieval Philosophy</i>, Boulder, CO, 2018.
+<br> <i>Annual meeting of the ACPA</i>, Dallas, TX, 2017.
 
-\cvitem{}{``Aquinas and Buridan on the Possibility of Scientific Knowledge'' 
-\newline \hspace*{3em} Conference of the Hungarian Thomas Aquinas Society, 2009.}
-%\cvitem{}{``Ockham, Autrecourt, and Modern Skepticism,'' \emph{National Students' Conference on Science and Humanities}, Pécs, HU, 2007.}
+
+Scotus, Ockham, and Biel on <i>sine qua non</i> Causes 
+<br> <i>Symposium on Medieval and Renaissance Studies</i>, SLU, 2019.
+<br> <i>Medieval Natural Philosophy</i>, University of St. Thomas, MN, 2016.
+
+
+"Ockham on Divine Concurrence" 
+<br> <i>Annual meeting of the ACPA</i>, San Diego, CA, 2018.
+
+
+Aquinas on Causes, Effects, and Their Necessary Connection
+<br> <i>CLPS-DWMC Symposium</i>, KU Leuven, 2018.
+<br> <i>Aquinas and Analytic Philosophy</i>, Trinity College Dublin, 2017.
+<br> <i>34th annual joint meeting of the SAGP</i>, Fordham University, NY, 2016.
+
+
+Nebuchadnezzar's Fire and Causal Powers
+<br> <i>Special Divine Action</i>, AAR Symposium, San Antonio, 2016.
+<br> <i>Canadian Society of Christian Philosophers</i>, Calgary, 2016.
+<br> <i>Change and Its Challenges</i>, Fordham University, NY, 2015.
+
+Aquinas, Giles of Rome, Durand of St.-Pourçain, and Peter of Palude on Divine Concurrence
+<br> <i>International Congress on Medieval Studies</i>, Kalamazoo, 2016.
+<br> <i>The University of Toronto Colloquium in Medieval Philosophy</i>, 2015.
+<br> <i>33rd annual joint meeting of the SAGP</i>, Fordham University,  NY, 2015.
+<br> <i>13th- and 14-century Thought on Change</i>, KU Leuven, 2015.
+
+
+"Thought Experiments in John Buridan's <i>Treatise on the Void</i>" 
+<br> <i>Medieval Thought Experiments 1100–1450</i>, New College, Oxford, 2015.
+
+"Mere Conservationism and Its Metaphysical Commitments" 
+<br> <i>Divine Action in the World</i>, AT Project, Innsbruck, 2014.
+
+Descartes' <i>Optics} and Medieval Theories of Vision
+<br> <i>Southwest Seminar in Early Modern Philosophy</i>, Albuquerque, 2014.
+<br> <i>Scientiae}, Simon Fraser University, Vancouver, 2012.
+
+
+"Scotus on Modality and the Argument for God's Existence" 
+<br> <i>31st annual meeting of the SAGP</i>, Fordham University, 2013.
+
+"Are Horse-legs Horses? Buridan on Material Constitution" 
+<br> <i>Graduate Symposium</i>, Fordham University, NY, 2011.
+
+"Aquinas and Buridan on the Possibility of Scientific Knowledge" 
+<br> Conference of the Hungarian Thomas Aquinas Society, 2009.
+
 
