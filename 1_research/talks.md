@@ -6,9 +6,6 @@ color: '#5db400'
 ---
 
 
-Click on the links for the handouts.
-
-
 <a href="{{ site.baseurl }}/1_research/handouts/230216_Handout_Vienna.pdf">"Divine Concurrence with Sinful Volitions in Some Lesser Known Fourteenth-Century Franciscan Thinkers"</a>
 <br> <a href="https://philevents.org/event/fileDownload/106821?fileId=13609" target="_blank"> <i>Primary and Secondary Causality</i></a>, Vienna, 2023.
 
