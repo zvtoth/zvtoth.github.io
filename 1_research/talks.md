@@ -1,6 +1,6 @@
 ---
 layout: text
-title: Talks
+title: Lectures and Talks
 image: /public/img/research.jpg
 color: '#5db400'
 ---
