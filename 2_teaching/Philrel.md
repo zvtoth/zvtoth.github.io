@@ -71,7 +71,7 @@ In this course, we look at the most important classical problems in the Philosop
             
                       <tr>
                           <td>28/02</td>
-                      		<td>Divine attributes 2: Divine simplicity<br>
+                          <td><a href="http://zitavtoth.com/2_teaching/Philrel/0228_Simplicity_HO.pdf">Divine attributes 2: Divine Simplicity</a><br>
                       </td>
                       		<td>Aquinas, <i>Summa theologiae</i> I.3 <br> Morris, "Simplicity" </td>
                         </tr>
