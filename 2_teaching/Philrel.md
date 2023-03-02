@@ -78,7 +78,7 @@ In this course, we look at the most important classical problems in the Philosop
                       
             <tr>
                 <td>07/03</td>
-            		<td>Divine attributes 3: Divine omniscience<br>
+                <td><a href="http://zitavtoth.com/2_teaching/Philrel/0307_Foreknowledge_HO.pdf">Divine attributes 3: Divine Omniscience</a><br>
             </td>
             		<td>Boethius, <i>Consolation of Philosophy</i>, V <br> Pike, "Divine Omniscience and Voluntary Action"</td>
               </tr>
