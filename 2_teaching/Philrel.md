@@ -92,14 +92,14 @@ In this course, we look at the most important classical problems in the Philosop
 
                 <tr>
                     <td>21/03</td>
-                		<td>God and evil<br>
+                    <td><a href="http://zitavtoth.com/2_teaching/Philrel/0314_Evil_HO.pdf">God and Evil</a><br>
                 </td>
                 		<td>Aquinas, <i>Summa contra gentiles</i> III.10; <i>De malo</i> 3.1–2 <br> Rowe, "The Problem of Evil and Some Varieties of Atheism"</td>
                   </tr>
 
                   <tr>
                       <td>28/03</td>
-                  		<td>Religion and morality<br>
+                      <td><a href="http://zitavtoth.com/2_teaching/Philrel/0328_Morality_HO.pdf">Religion and morality</a><br>
                   </td>
                   		<td>Kant, <i>Critique of Practical Reason</i> V–VIII<br> Nielsen, "Ethics without Religion"</td>
                     </tr>
