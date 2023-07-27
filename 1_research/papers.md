@@ -9,6 +9,11 @@ color: '#5db400'
 ### Published Papers
 
 
+<a href="{{ site.baseurl }}/1_research/Auriol_revised.pdf">"<i>Heavenly Stuff: Peter Auriol on the Materiality of Angels and Heavenly Bodies,"</a> <i>Oxford Studies in Medieval Philosophy</i>, accepted.
+<br>
+<p style="margin-left: 40px; line-height: 0.9"><small>Take three, very different kinds of entities: Sophie the cat, Venus the planet, and Gabriel the archangel. Imagining these entities, one may be tempted to picture Sophie and Venus as something material, while Gabriel as something immaterial. Peter Auriol, an early fourteenth-century Franciscan theologian, disagrees. He thinks that while Sophie and Gabriel possess matter, Venus does not. In this paper I trace what led Auriol to endorse these seemingly implausible claims, attributing matter to certain spiritual beings and yet denying it of certain physical ones. I also examine the view that emerges from the combination of these two positions, and show that they, far from being irreconcilable, point to a particular conception of matter. According to this conception, matter is not to be treated as the physical stuff that makes something a body, nor as a mere substrate of natural change, but as a subject in pure potency that can take on multiple forms.
+</small></p>
+
 <a href="{{ site.baseurl }}/1_research/Toth_sqnc.pdf">"<i>Sine qua non</i> Causes and Their Discontents,"</a> <i>Res Philosophica</i> 99 (2022): 139–167.
 <br>
 <p style="margin-left: 40px; line-height: 0.9"><small>For theological reasons, medieval thinkers maintained that sacraments “effect what they figure,” that is, they are more than mere signs of grace; and yet, they also maintained that they are not proper causes of grace in the way fire is proper cause of heat. One way to reconcile these requirements is to explicate sacramental causation in terms of sine qua non causes, which were distinguished from accidental causes on the one hand, and from proper efficient causes on the other hand. This paper traces the development of this concept, as discussed in the context of the sacraments, from Scotus and Auriol, via Ockham and Peter of Ailly, to Gabriel Biel. It shows how the discussion, in its later stages, opened up concerns about occasionalism, offering thereby a case study of how particular theological issues led to metaphysical ones in the fourteenth and fifteenth century.
