@@ -84,12 +84,12 @@ In the following, I deal only with the first two, that is, with the possible rec
 
 <a href="https://ndpr.nd.edu/reviews/hidden-wisdom-medieval-contemplatives-on-self-knowledge-reason-love-persons-and-immortality/" target="_blank">*Hidden Wisdom: Medieval Contemplatives on Self-Knowledge, Reason, Love, Persons, and Immortality*,</a> by Christina Van Dyke, OUP, 2022, *NDPR*, 2023.07.04.
 
-*Free Will and the Rebel Angels in Medieval Philosophy*, by Tobias Hoffmann, CUP, 2020, *Faith and Philosophy*, forthcoming.
+*Free Will and the Rebel Angels in Medieval Philosophy*, by Tobias Hoffmann, CUP, 2020, *Faith and Philosophy* 39 (2022): 176–79.
 
 <a href="https://scholarworks.iu.edu/journals/index.php/tmr/article/view/31316" target="_blank">Pére Dagui, *Tractatus de differentia*.</a> *The Medieval Review*, 2020.
 
 <a href="{{ site.baseurl }}/1_research/Toth2018a_0.pdf">*On Evil, Providence, and Freedom: A New Reading of Molina*,</a> by Mark B. Wiebe, Northern Illinois University Press, 2017, *Journal of Analytic Theology* 6 (2018): 799–805.
 
-<a href="{{ site.baseurl }}/1_research/Toth2016b_0.pdf">*Aristotle in Aquinas’s Theology*,</a> ed. Gilles Emery and Matthew Levering, OUP 2015, *Themelios* 41 (2016), 545–547.
+<a href="{{ site.baseurl }}/1_research/Toth2016b_0.pdf">*Aristotle in Aquinas’s Theology*,</a> ed. Gilles Emery and Matthew Levering, OUP 2015, *Themelios* 41 (2016), 545–47.
 
 <a href="{{ site.baseurl }}/1_research/Toth2012a_0.pdf">“Borbély Gábor és a középkori filozófia”</a> [Gabor Borbely, Medieval Philosophy], *Magyar Filozófiai Szemle* 54 (2010): 157–160.
