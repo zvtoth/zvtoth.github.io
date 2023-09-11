@@ -1,6 +1,6 @@
 ---
 layout: text
-title: Metaphysics
+title: Metaphysics 2022
 tags: Teaching
 image: /public/img/teach.jpg
 color: '#d58000'
