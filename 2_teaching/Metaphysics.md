@@ -8,45 +8,68 @@ color: '#d58000'
 
 <img class="img-single" align="right" src="/public/img/meta.jpg" width="200">
 
-Aristotle defines metaphysics as the study of being as being. Although there has been considerable subsequent disagreement about the meaning of this definition, and even more disagreement about what the subject matter of metaphysics really is, most philosophers would agree that metaphysicians are interested in something very basic; as a contemporary metaphysician puts it, "Metaphysics, at the bottom, is about the fundamental structure of reality" (Sider 2011, p. 1). What _are_ the most fundamental things in the world? Are they universals or particulars? What do particulars consist of, and how can they endure through time? What _is_ time, anyway, and what does it mean to say that they 'can', or that something is 'possible'? These are just a few of the questions metaphysicians have examined, starting at least from the Presocratic period. In this class, we are going to look at how they were tackled by some 20th-century philosophers, mostly belonging to the analytical tradition. Along the way, we will also glance at parts of the long history of the discipline.
+Aristotle defines metaphysics as the study of being as being. Although there has been considerable subsequent disagreement about the meaning of this definition, and even more disagreement about what the subject matter of metaphysics really is, most philosophers would agree that metaphysicians are interested in something very basic; as a contemporary metaphysician puts it, "Metaphysics, at the bottom, is about the fundamental structure of reality" (Sider 2011, p. 1). 
+This term we look at one particular answer to this question, namely that things in the world, ultimately, consist of prime matter, substantial form(s), and some accidents – in other words, they are *hylomorphic composites*. While the main claims of this theory are decently clear, its details are murky. What do we mean by ‘matter’, exactly? How many substantial forms are there in a thing? What ontological status do accidents have, on this picture? How does it all apply to human beings? We will look at these and similar questions especially as they arose for the most elaborate Aristotelian accounts, that is, those developed in the Middle Ages, while also considering criticisms of the theory and some contemporary issues.
 
-<a href="http://zitavtoth.com/2_teaching/Metaphysics2022.pdf">2022 Spring syllabus</a>
+<a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2023F.pdf">Current syllabus</a>
+
+
+### Earlier Semesters
+
+2022 Spring <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2022.pdf">syllabus</a>; <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2022.pdf">course site</a>
 <br>
-<a href="http://zitavtoth.com/2_teaching/Metaphysics2019.pdf">2019 Spring syllabus</a>
+<a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2019.pdf">2019 Spring syllabus</a>
 <br>
-<a href="http://zitavtoth.com/2_teaching/Metaphysics2018.pdf">2018 Spring syllabus</a><br>
+<a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2018.pdf">2018 Spring syllabus</a><br>
 
 
 
-### Class Schedule, 2022 Spring
-(updated: 2021-09-27)
+### Class Schedule, 2023 Autumn
+(updated: 2023-09-11)
 
-###### Introduction
-What is metaphysics all about?
-- __Feb. 17__: Peter van Inwagen and Meghan Sullivan, "Metaphysics" (SEP, sel.)
+__Week 1, 26-9__: Introduction; The problem of change
+- C.S. Lewis, “On the reading of old books”.
+- Parmenides, fragment VI.
+(optional: Thomas Ainsworth, “Form vs. Matter” (from the SEP))
 
-###### Particulars
-In everyday language, we often speak of individual objects being in this or that way, or having such and such properties. But what are, precisely, the bearer of these properties? Is there a bare object, when we peel off *all* the properties, or is it just properties, all the way down?
-- __Feb. 24__: Max Black, "The Identity of Indiscernibles"
-- __Mar. 3__: Edwin B. Allaire, "Bare Particulars"
+__Week 2, 3-10__: The starting point: Aristotle on change and the composite 
+- Aristotle, selections from *Physics*, *Metaphysics*, and *De anima*.
+(optional: Mary Louise Gill, “Aristotle’s Metaphysics Reconsidered”, esp. sections 2–5) 
 
-###### Modality and Possible Worlds
-The concepts of 'necessity', 'contingency', or 'possiblity' and 'impossibility' are called modal concepts. When I say that 'Hilary Clinton could have been elected US president in 2016', I mean that things *could have gone* in such a way in 2016 that she was elected US president. But what grounds such a claim? And what are the principled ways of talking about the *ways* things could have gone?
-- __Mar. 10__: David Lewis, "Possible Worlds"
-- __Mar. 17__: Alvin Plantinga, "Actualism and Possible Worlds"
+Week 3, 10-10: Prime Matter: Stuff without extension?
+␇ Francisco Suárez, Metaphysical Disputations XIII.5.
+⋆ Robert Pasnau, Metaphysical Themes 1274–1650, ch. 3.
+Week 4, 17-10: Substantial Form: How many?
+␇ Thomas Aquinas, “On the mixture of elements”.
+␇ William of Ockham, Quodlibet II.11.
+⋆ Rega Wood & Michael Weisberg, “Interpreting Aristotle on Mixture”.
+Week 5, 24-10: NO CLASS
+31-10: Reading week (no class)
+Week 6, 7-11: Accidents: Real or not?
+␇ Duns Scotus, Reportatio, IV.12.1.
+⋆ Giorgio Pini, “John Duns Scotus on Homeless Accidents”.
+Week 7, 14-11: Application: Body and soul
+␇ Thomas Aquinas, Quaestiones de anima, sel.
+⋆ Robert Pasnau, Aquinas on Human Nature, esp. chs. 2 & 12. Week 8, 21-11: Hylomorphic composites – but everything?
+␇ Peter Auriol, selected questions form his Sentences commentary ⋆ Zita Toth, “Heavenly Stuff”.
+Week 9, 28-11: Criticism and alternatives: The early days
+␇ Gregory of Nyssa, In Hexaemeron, sel.
+␇ Nicholas of Autrecourt, The Universal Treatise, sel.
+⋆ Richard Sorabji, “Bodies as Bundles of Properties”.
+⋆ Christophe Grellard, “Nicholas of Autrecourt’s Atomistic Physics”.
+Week 10, 5-12: Criticism and alternatives: After the Scientific Revolution
+␇ René Descartes, The World (Threatise on Light), ch. 6.
+␇ John Locke, Essay, II.23.
+␇ Gottfried Wilhelm Leibniz, Discourse on Metaphysics, X–XII.
+⋆ Roger Ariew & Marjorie Grene, “The Cartesian Destiny of Form and Matter”. ⋆ Daniel Garber, Leibniz, ch. 2.
+Catch up, 12-12: Contemporary revival
+␇ Karen Bennett, “Koslicki on Formal Proper Parts”.
 
-###### Time
-What is time? As Augustine notes already in the 4th century, "If no one asks me, I know; if I want to explain it to a questioner, I do not know" (Confessions, XI). Philosophers has always found time puzzling. Does it exist? If so, what properties does it have? Can it have contradictory properties? And what about objects that persist in time? What *does it mean* to say that object persists in time?
 
-- **Mar. 24**: J.M.E. McTaggart, "Time"
-- **Mar. 31**: C.D. Broad, "Ostensible Temporality"
-- **Apr.  21**: David Lewis, "Counterparts or Double Lives?"
-- **Apr. 28**: Trenton Merricks, "Endurance and Indiscernibility"
 
-###### Causation
-What does it mean to say that one thing (or event) causes another? Does that involve some kind of necessary relation between the cause and effect? How do we perceive this relation, if we perceive it at all? 
-- **May 5**: David Lewis, "Causation"
-- **May 12**: Elizabeth Anscombe, "Causality and Determination"
 
-###### Conclusion
-- May 19: paper-writing workshop
+
+
+
+
+

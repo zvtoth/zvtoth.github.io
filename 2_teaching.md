@@ -7,9 +7,7 @@ color: '#439feb'
 
 "It is not enough that my devotion to you has not helped me at all, but you are now made the victim of the hatred,'' complains Boethius to Philosophy personalized, with the barbarians standing at the gates of Rome and himself sentenced to death. The question seems perennial: why should anyone waste their time studying philosophy, with no jobs around, the economy in crisis, amidst wars and pandemics?<br>
 
-Despite all this, I teach philosophy. To see why, see my <a href="{{ site.baseurl }}/2_teaching/teachingstatement.pdf" target="_blank">longer statement</a> about teaching philosophy.
-
-
+Despite all this, I teach philosophy. There is an old <a href="{{ site.baseurl }}/2_teaching/teachingstatement.pdf" target="_blank">teaching statement</a> where I discussed this more lengthily.
 
 ---
 
@@ -19,7 +17,9 @@ Despite all this, I teach philosophy. To see why, see my <a href="{{ site.baseur
 <br>
 <br>
 
-<a href="{{ site.baseurl }}/2_teaching/Philrel "><img src="{{ site.baseurl }}/public/img/philrel.jpg" width="150" height="150" title="Philosophy of Religion" hspace="40" /></a>
+
+<a href="{{ site.baseurl }}/2_teaching/Metaphysics "><img src="{{ site.baseurl }}/public/img/meta.jpg" width="150" height="150" title="Metaphysics" hspace="40" /></a>
+
 
 </div>
 
