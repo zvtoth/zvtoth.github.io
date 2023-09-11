@@ -11,7 +11,7 @@ Despite all this, I teach philosophy. There is an old <a href="{{ site.baseurl }
 
 ---
 
-### Current Courses (Spring 2023)
+### Current Courses (Autumn 2023)
 
 <div>
 <br>
