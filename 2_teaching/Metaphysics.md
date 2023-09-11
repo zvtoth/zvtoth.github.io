@@ -16,7 +16,7 @@ This term we look at one particular answer to this question, namely that things 
 
 ### Earlier Semesters
 
-2022 Spring <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2022.pdf">syllabus</a>; <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2022.pdf">course site</a>
+2022 Spring <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2022.pdf">syllabus</a>; <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics_2022">course site</a>
 <br>
 <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2019.pdf">2019 Spring syllabus</a>
 <br>
@@ -28,48 +28,53 @@ This term we look at one particular answer to this question, namely that things 
 (updated: 2023-09-11)
 
 __Week 1, 26-9__: Introduction; The problem of change
-- C.S. Lewis, “On the reading of old books”.
+- C.S. Lewis, “On the reading of old books”
 - Parmenides, fragment VI.
-(optional: Thomas Ainsworth, “Form vs. Matter” (from the SEP))
+- (optional: Thomas Ainsworth, “Form vs. Matter” (from the SEP))
 
 __Week 2, 3-10__: The starting point: Aristotle on change and the composite 
-- Aristotle, selections from *Physics*, *Metaphysics*, and *De anima*.
-(optional: Mary Louise Gill, “Aristotle’s Metaphysics Reconsidered”, esp. sections 2–5) 
+- Aristotle, selections from *Physics*, *Metaphysics*, and *De anima*
+- (optional: Mary Louise Gill, “Aristotle’s Metaphysics Reconsidered”, esp. sections 2–5) 
 
-Week 3, 10-10: Prime Matter: Stuff without extension?
-␇ Francisco Suárez, Metaphysical Disputations XIII.5.
-⋆ Robert Pasnau, Metaphysical Themes 1274–1650, ch. 3.
-Week 4, 17-10: Substantial Form: How many?
-␇ Thomas Aquinas, “On the mixture of elements”.
-␇ William of Ockham, Quodlibet II.11.
-⋆ Rega Wood & Michael Weisberg, “Interpreting Aristotle on Mixture”.
-Week 5, 24-10: NO CLASS
-31-10: Reading week (no class)
-Week 6, 7-11: Accidents: Real or not?
-␇ Duns Scotus, Reportatio, IV.12.1.
-⋆ Giorgio Pini, “John Duns Scotus on Homeless Accidents”.
-Week 7, 14-11: Application: Body and soul
-␇ Thomas Aquinas, Quaestiones de anima, sel.
-⋆ Robert Pasnau, Aquinas on Human Nature, esp. chs. 2 & 12. Week 8, 21-11: Hylomorphic composites – but everything?
-␇ Peter Auriol, selected questions form his Sentences commentary ⋆ Zita Toth, “Heavenly Stuff”.
-Week 9, 28-11: Criticism and alternatives: The early days
-␇ Gregory of Nyssa, In Hexaemeron, sel.
-␇ Nicholas of Autrecourt, The Universal Treatise, sel.
-⋆ Richard Sorabji, “Bodies as Bundles of Properties”.
-⋆ Christophe Grellard, “Nicholas of Autrecourt’s Atomistic Physics”.
-Week 10, 5-12: Criticism and alternatives: After the Scientific Revolution
-␇ René Descartes, The World (Threatise on Light), ch. 6.
-␇ John Locke, Essay, II.23.
-␇ Gottfried Wilhelm Leibniz, Discourse on Metaphysics, X–XII.
-⋆ Roger Ariew & Marjorie Grene, “The Cartesian Destiny of Form and Matter”. ⋆ Daniel Garber, Leibniz, ch. 2.
-Catch up, 12-12: Contemporary revival
-␇ Karen Bennett, “Koslicki on Formal Proper Parts”.
+__Week 3, 10-10__: Prime Matter: Stuff without extension?
+- Francisco Suárez, *Metaphysical Disputations* XIII.5
+- (optional: Robert Pasnau, *Metaphysical Themes* 1274–1650, ch. 3.)
 
+__Week 4, 17-10__: Substantial Form: How many?
+- Thomas Aquinas, “On the mixture of elements”
+- William of Ockham, Quodlibet II.11
+- (optional: Rega Wood & Michael Weisberg, “Interpreting Aristotle on Mixture”)
 
+__Week 5, 24-10__: NO CLASS
 
+__31-10__ : Reading week (no class)
 
+__Week 6, 7-11__: Accidents: Real or not?
+- Duns Scotus, *Reportatio*, IV.12.1
+- (optional: Giorgio Pini, “John Duns Scotus on Homeless Accidents”)
 
+__Week 7, 14-11__: Application: Body and soul
+- Thomas Aquinas, *Quaestiones de anima*, sel.
+- (optional: Robert Pasnau, Aquinas on Human Nature, esp. chs. 2 & 12)
 
+__Week 8, 21-11__: Hylomorphic composites – but everything?
+- Peter Auriol, selected questions form his *Sentences* commentary 
+- (optional: Zita Toth, “Heavenly Stuff”)
 
+__Week 9, 28-11__: Criticism and alternatives: The early days
+- Gregory of Nyssa, *In Hexaemeron*, sel.
+- Nicholas of Autrecourt, *The Universal Treatise*, sel.
+- (optional: Richard Sorabji, “Bodies as Bundles of Properties”)
+- (optional: Christophe Grellard, “Nicholas of Autrecourt’s Atomistic Physics”)
+
+__Week 10, 5-12__: Criticism and alternatives: After the Scientific Revolution
+- René Descartes, *The World* (Threatise on Light), ch. 6
+- John Locke, *Essay*, II.23
+- Gottfried Wilhelm Leibniz, *Discourse on Metaphysics*, X–XII
+- (optional: Roger Ariew & Marjorie Grene, “The Cartesian Destiny of Form and Matter”)
+- (optional: Daniel Garber, *Leibniz*, ch. 2)
+
+__Catch up, 12-12__: Contemporary revival
+- Karen Bennett, “Koslicki on Formal Proper Parts”
 
 
