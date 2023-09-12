@@ -82,6 +82,9 @@ In the following, I deal only with the first two, that is, with the possible rec
 
 ### Book Reviews
 
+
+<a href="https://www.tandfonline.com/doi/full/10.1080/09608788.2023.2232828" target="_blank">"Recent Work on Aquinas' Metaphysics"</a> (review article), *BJHP* 2023.
+
 <a href="https://ndpr.nd.edu/reviews/hidden-wisdom-medieval-contemplatives-on-self-knowledge-reason-love-persons-and-immortality/" target="_blank">*Hidden Wisdom: Medieval Contemplatives on Self-Knowledge, Reason, Love, Persons, and Immortality*,</a> by Christina Van Dyke, OUP, 2022, *NDPR*, 2023.07.04.
 
 *Free Will and the Rebel Angels in Medieval Philosophy*, by Tobias Hoffmann, CUP, 2020, *Faith and Philosophy* 39 (2022): 176–79.
