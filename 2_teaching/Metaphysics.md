@@ -23,13 +23,17 @@ This term we look at one particular answer to this question, namely that things 
 <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2018.pdf">2018 Spring syllabus</a><br>
 
 
+### Assignments, 2023 Autumn
+
+<a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2023_formative.pdf">Formative assignment </a>
+
 
 ### Class Schedule, 2023 Autumn
 (updated: 2023-09-11)
 
 __Week 1, 26-9__: Introduction; The problem of change
 - C.S. Lewis, “On the reading of old books”
-- Parmenides, fragment VI.
+- Parmenides, fragment VIII.
 - (optional: Thomas Ainsworth, “Form vs. Matter” (from the SEP))
 
 __Week 2, 3-10__: The starting point: Aristotle on change and the composite 
