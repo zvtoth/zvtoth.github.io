@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Advising
 image: /public/img/teach.jpg
 color: '#439feb'
 ---
