@@ -1,6 +1,6 @@
 ---
 layout: text
-title: Philosophy of Religion
+title: Philosophy of Religion 2023
 tags: Teaching
 image: /public/img/teach.jpg
 color: '#d58000'
