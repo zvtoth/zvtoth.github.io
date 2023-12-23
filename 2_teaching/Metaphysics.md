@@ -27,6 +27,8 @@ This term we look at one particular answer to this question, namely that things 
 
 <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2023_formative.pdf">Formative assignment </a>
 
+<a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/summative_BA.pdf">Summative assignment </a>
+
 
 ### Class Schedule, 2023 Autumn
 (updated: 2023-09-11)
@@ -36,15 +38,15 @@ __Week 1, 26-9__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/0926
 - Parmenides, fragment VIII.
 - (optional: Thomas Ainsworth, “Form vs. Matter” (from the SEP))
 
-__Week 2, 3-10__: The starting point: Aristotle on change and the composite 
+__Week 2, 3-10__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1003_Aristotle_HO.pdf">The starting point: Aristotle on change and the composite</a> 
 - Aristotle, selections from *Physics*, *Metaphysics*, and *De anima*
 - (optional: Mary Louise Gill, “Aristotle’s Metaphysics Reconsidered”, esp. sections 2–5) 
 
-__Week 3, 10-10__: Prime Matter: Stuff without extension?
+__Week 3, 10-10__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1010_Matter_HO.pdf">Prime Matter: Stuff without extension?</a>
 - Francisco Suárez, *Metaphysical Disputations* XIII.5
 - (optional: Robert Pasnau, *Metaphysical Themes* 1274–1650, ch. 3.)
 
-__Week 4, 17-10__: Substantial Form: How many?
+__Week 4, 17-10__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1017_Plurality_HO.pdf">Substantial Form: How many?</a>
 - Thomas Aquinas, “On the mixture of elements”
 - William of Ockham, Quodlibet II.11
 - (optional: Rega Wood & Michael Weisberg, “Interpreting Aristotle on Mixture”)
@@ -53,32 +55,32 @@ __Week 5, 24-10__: NO CLASS
 
 __31-10__ : Reading week (no class)
 
-__Week 6, 7-11__: Accidents: Real or not?
+__Week 6, 7-11__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1107_Accidents_HO.pdf">Accidents: Real or not?</a>
 - Duns Scotus, *Reportatio*, IV.12.1
 - (optional: Giorgio Pini, “John Duns Scotus on Homeless Accidents”)
 
-__Week 7, 14-11__: Application: Body and soul
+__Week 7, 14-11__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1114_Soul_HO.pdf">Application: Body and soul</a>
 - Thomas Aquinas, *Quaestiones de anima*, sel.
 - (optional: Robert Pasnau, Aquinas on Human Nature, esp. chs. 2 & 12)
 
-__Week 8, 21-11__: Hylomorphic composites – but everything?
+__Week 8, 21-11__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1121_Celestial_HO.pdf">Hylomorphic composites – but everything?</a>
 - Peter Auriol, selected questions form his *Sentences* commentary 
 - (optional: Zita Toth, “Heavenly Stuff”)
 
-__Week 9, 28-11__: Criticism and alternatives: The early days
+__Week 9, 28-11__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1128_Critiques1_HO.pdf">Criticism and alternatives: The early days</a>
 - Gregory of Nyssa, *In Hexaemeron*, sel.
 - Nicholas of Autrecourt, *The Universal Treatise*, sel.
 - (optional: Richard Sorabji, “Bodies as Bundles of Properties”)
 - (optional: Christophe Grellard, “Nicholas of Autrecourt’s Atomistic Physics”)
 
-__Week 10, 5-12__: Criticism and alternatives: After the Scientific Revolution
+__Week 10, 5-12__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1205_Critiques2_HO.pdf">Criticism and alternatives: After the Scientific Revolution</a>
 - René Descartes, *The World* (Threatise on Light), ch. 6
 - John Locke, *Essay*, II.23
 - Gottfried Wilhelm Leibniz, *Discourse on Metaphysics*, X–XII
 - (optional: Roger Ariew & Marjorie Grene, “The Cartesian Destiny of Form and Matter”)
 - (optional: Daniel Garber, *Leibniz*, ch. 2)
 
-__Catch up, 12-12__: Contemporary revival
+__Catch up, 12-12__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/1212_Contemporary_HO.pdf">Contemporary revival</a>
 - Karen Bennett, “Koslicki on Formal Proper Parts”
 
 
