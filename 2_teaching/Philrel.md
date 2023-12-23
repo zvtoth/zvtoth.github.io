@@ -92,7 +92,7 @@ In this course, we look at the most important classical problems in the Philosop
                   <td>11/03</td>
               		<td>God and Evil<br>
               </td>
-              		<td>Macie, "Evil and Omnipotence"<br> Stump, "The Problem of Evil: Analytic Philosophy and Narrative"</td>
+              		<td>Mackie, "Evil and Omnipotence"<br> Stump, "The Problem of Evil: Analytic Philosophy and Narrative"</td>
                 </tr>
 
                 <tr>
