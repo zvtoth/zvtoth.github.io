@@ -16,7 +16,7 @@ In this course, we look at the most important classical problems in the Philosop
 
 ### Earlier Semesters
 
-2023 Spring <a href="http://zitavtoth.com/2_teaching/Philrel/2023/PhilRel2023S_BA.pdf">syllabus</a>; <a href="http://zitavtoth.com/2_teaching/Philrel/Philrel2023">course site</a>
+2023 Spring <a href="http://zitavtoth.com/2_teaching/Philrel/2023/PhilRel2023S_BA.pdf">syllabus</a>; <a href="http://zitavtoth.com/2_teaching/Philrel/2023/Philrel2023">course site</a>
 <br>
 
 
