@@ -11,14 +11,14 @@ Despite all this, I teach philosophy. There is an old <a href="{{ site.baseurl }
 
 ---
 
-### Current Courses (Autumn 2023)
+### Current Courses (Spring 2024)
 
 <div>
 <br>
 <br>
 
 
-<a href="{{ site.baseurl }}/2_teaching/Metaphysics "><img src="{{ site.baseurl }}/public/img/meta.jpg" width="150" height="150" title="Metaphysics" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Philrel "><img src="{{ site.baseurl }}/public/img/philrel.jpg" width="150" height="150" title="Philosophy of Religion" hspace="40" /></a>
 
 
 </div>
