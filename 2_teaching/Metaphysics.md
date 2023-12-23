@@ -26,7 +26,7 @@ This term we look at one particular answer to this question, namely that things 
 ### Assignments, 2023 Autumn
 
 <a href="http://zitavtoth.com/2_teaching/Metaphysics/Metaphysics2023_formative.pdf">Formative assignment </a>
-
+<br>
 <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/summative_BA.pdf">Summative assignment </a>
 
 
