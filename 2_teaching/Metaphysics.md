@@ -31,7 +31,7 @@ This term we look at one particular answer to this question, namely that things 
 
 
 ### Class Schedule, 2023 Autumn
-(updated: 2023-09-11)
+<!-- (updated: 2023-09-11) -->
 
 __Week 1, 26-9__: <a href="http://zitavtoth.com/2_teaching/Metaphysics/2023/0926_Intro_HO.pdf">Introduction; The problem of change</a>
 - C.S. Lewis, “On the reading of old books”
