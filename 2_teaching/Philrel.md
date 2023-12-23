@@ -34,77 +34,77 @@ In this course, we look at the most important classical problems in the Philosop
   </tr>
   
 <tr>
-    <td>17/01</td>
-		<td><a href="http://zitavtoth.com/2_teaching/Philrel/0117_Intro_HO.pdf">Introduction; how to talk about God</a><br>
+    <td>15/01</td>
+		<td>Introduction; how to talk about God<br>
 </td>
 		<td>Maimonides, <i>The Guide of the Perplexed</i>, chs. 52–58<br> Swinburne, <i>The Coherence of Theism</i>, ch. 2</td>
   </tr>
 
 <tr>
-      <td>24/01</td>
-  		<td><a href="http://zitavtoth.com/2_teaching/Philrel/0124_Epistemology_HO.pdf">Religious belief</a><br>
+      <td>22/01</td>
+  		<td>Religious belief<br>
   </td>
-  		<td>Pascal, <i>Pensées</i>, § 233 <br> Clifford, "The Ethics of Belief"</td>
+  		<td>Clifford, "The Ethics of Belief" <br> William James, "The Will to Believe"</td>
     </tr>
 
     <tr>
-        <td>31/01</td>
-    		<td><a href="http://zitavtoth.com/2_teaching/Philrel/0131_Anselm_HO.pdf">Arguments for God's existence 1: The ontological argument</a><br>
+        <td>29/01</td>
+    		<td>Arguments for God's existence 1: The ontological argument<br>
     </td>
     		<td>Anselm, <i>Proslogion</i>, chs. 1–5 <br> Gaunilo's reply to Anselm's argument</td>
       </tr>
 
       <tr>
-          <td>07/02</td>
-      		<td><a href="http://zitavtoth.com/2_teaching/Philrel/0207_Cosmological_HO.pdf">Arguments for God's existence 2: The cosmological argument</a><br>
+          <td>05/02</td>
+      		<td>Arguments for God's existence 2: The cosmological argument<br>
       </td>
       		<td>Aquinas, <i>Summa theologiae</i> I.2.3 <br> Rowe, "The Cosmological Argument"</td>
         </tr>
 
         <tr>
-            <td>14/02</td>
-        		<td>Divine attributes 1: Divine omnipotence and divine freedom (guest lecture by Marcin Iwanicki)<br>
+            <td>12/02</td>
+        		<td>No arguments? Wager!<br>
         </td>
-        		<td> Aquinas, <i>Summa theologiae</i> I.25 <br> Howard-Snyder, "How an Unsurpassable Being Can Create a Surpassable World" </td>
+        		<td> Pascal, <i>Pensées</i>, 233 <br> Martin, "Pascal's Wager as an Argument for Not Believing in God" </td>
           </tr>
 <tr>
-<td> 21/02</td>
+<td> 19/02</td>
 <td> Reading week </td>
 <td> (No class) </td>
 </tr>
 
             
                       <tr>
-                          <td>28/02</td>
-                          <td><a href="http://zitavtoth.com/2_teaching/Philrel/0228_Simplicity_HO.pdf">Divine attributes 2: Divine Simplicity</a><br>
+                          <td>26/02</td>
+                          <td>Divine omniscience and human freedom<br>
                       </td>
-                      		<td>Aquinas, <i>Summa theologiae</i> I.3 <br> Morris, "Simplicity" </td>
+                      <td>Boethius, <i>Consolation of Philosophy</i>, V <br> Pike, "Divine Omniscience and Voluntary Action"</td>
                         </tr>
                       
             <tr>
-                <td>07/03</td>
-                <td><a href="http://zitavtoth.com/2_teaching/Philrel/0307_Foreknowledge_HO.pdf">Divine attributes 3: Divine Omniscience</a><br>
+                <td>04/03</td>
+                <td>Creation, East and West<br>
             </td>
-            		<td>Boethius, <i>Consolation of Philosophy</i>, V <br> Pike, "Divine Omniscience and Voluntary Action"</td>
+            		<td>Aquinas, <i>Summa theologiae</i> I.45.1-2 <br> Sim, "The Question of Being, Non-Being and 'Creation ex Nihilo' in Chinese Philosophy"</td>
               </tr>
 
               <tr>
-                  <td>14/03</td>
-              		<td>The problem of miracles<br>
+                  <td>11/03</td>
+              		<td>God and Evil<br>
               </td>
-              		<td>Hume, "Of miracles" (<i>Enquiry</i>, sec. 10) <br> Swinburne, <i>The Concept of Miracle</i>, ch. 3</td>
+              		<td>Macie, "Evil and Omnipotence"<br> Stump, "The Problem of Evil: Analytic Philosophy and Narrative"</td>
                 </tr>
 
                 <tr>
-                    <td>21/03</td>
-                    <td><a href="http://zitavtoth.com/2_teaching/Philrel/0314_Evil_HO.pdf">God and Evil</a><br>
+                    <td>18/03</td>
+                    <td>Religious practice and mysticism<br>
                 </td>
-                		<td>Aquinas, <i>Summa contra gentiles</i> III.10; <i>De malo</i> 3.1–2 <br> Rowe, "The Problem of Evil and Some Varieties of Atheism"</td>
+                		<td>Marguerite of Porete, <i>The Mirror of Simple Souls</i> 131–138 <br> Van Dyke, <i> Hidden Wisdom</i>, ch. 1</td>
                   </tr>
 
                   <tr>
-                      <td>28/03</td>
-                      <td><a href="http://zitavtoth.com/2_teaching/Philrel/0328_Morality_HO.pdf">Religion and morality</a><br>
+                      <td>25/03</td>
+                      <td>Religion and morality<br>
                   </td>
                   		<td>Kant, <i>Critique of Practical Reason</i> V–VIII<br> Nielsen, "Ethics without Religion"</td>
                     </tr>
