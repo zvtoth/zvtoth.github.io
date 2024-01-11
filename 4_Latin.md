@@ -8,7 +8,8 @@ color: '#d58000'
 
 ### The KCL Latin Philosophy Reading Group
 
-In Autumn 2023 we are meeting every Thursday from 12 to 1 p.m., in the Philosophy building, room 508. Everyone is welcome to join, regardless of Latin proficiency.
+In the spring 2024 we are meeting every Wednesday from 12 to 1 p.m., in the Philosophy building, room 508. Currently we are reading one of Duns Scotus's quodlibetal questions on free will. In earlier terms we read from Aquinas's *Summa theologiae*, as well as from Suárez's *Metaphysical Disputations*. 
+Everyone is welcome to join, regardless of Latin proficiency. 
 
 <!-- <ul><li> <a href="{{ site.baseurl }}/4_latin/LRG_2023S.pdf">details and schedule</a></li></ul> -->
 
@@ -17,7 +18,7 @@ In Autumn 2023 we are meeting every Thursday from 12 to 1 p.m., in the Philosoph
 
 ### Virtual Paleography Group
 
-We meet once every week via Zoom, right now on Fridays at 4 p.m. London time, and read and transcribe from a manuscript. Currently (Autumn 2023) we are working on Buridan's commentary on the Nicomachean Ethics (Vat. Urb. 198).
+We meet once every week via Zoom, right now on Fridays at 4 p.m. London time, and read and transcribe from a manuscript. Currently (Spring 2024) we are working on Buridan's commentary on the Nicomachean Ethics (Vat. Urb. 198).
 
 In earlier semesters we read from Peter Auriol's Quodlibet; Peter of Auvergne's *Sentences* commentary; De Fonseca's *De sensu* (in a modern cursive script); John Buridan's commentary on the *De memoria* (in a 14th-century anglicana script); from the *Life of St. Cuthbert* by Bede (Carolingian script); and from an anonymous Vatican Lateran ms. (14th-century gothic book hand).
 
