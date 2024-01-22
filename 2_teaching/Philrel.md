@@ -10,7 +10,7 @@ color: '#d58000'
 
 In this course, we look at the most important classical problems in the Philosophy of Religion, from both a historical and a contemporary perspective. We consider whether we can meaningfully talk about God; how to think about religious belief in general; about whether God exists, and if so, what characteristics God may have. We will also look at the problem of evil, some issues is religious practices, and the connection (if any) between religion and morality.
 
-<a href="http://zitavtoth.com/2_teaching/Philrel/PhilRel2024.pdf">Current syllabus</a>
+<a href="http://zitavtoth.com/2_teaching/Philrel/2024/PhilRel2024.pdf">Current syllabus</a>
 
 
 
@@ -22,6 +22,7 @@ In this course, we look at the most important classical problems in the Philosop
 
 ### Assignments, 2024 Spring
 
+<a href="http://zitavtoth.com/2_teaching/Philrel/2024/formative.pdf">Formative paper</a>
 
 ### Class Schedule, 2024 Spring
 
