@@ -13,7 +13,7 @@ Currently, my MPhil students work on the notion of *creatio ex nihilo* East and 
 ### MA theses supervised
 
 - Mario Bison, "Sacred Doctrine as *scientia* in St Thomas Aquinas's *Summa Theologiae*"
-- Preedant Jareonsettasin, "What is an Account of Something's Nature?"
+- Preedant Jareonsettasin, "What is an Account of Something's Nature?" (winner of the best MA dissertation award in 2023)
 
 
 <!-- ### BA theses supervised -->
