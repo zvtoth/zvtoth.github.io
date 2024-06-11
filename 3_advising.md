@@ -7,9 +7,9 @@ color: '#439feb'
 
 I am always happy to hear from students interested in any area of medieval philosophy, philosophy of religion, or some metaphysical issues.
 
-Currently, my MPhil students work on the notion of *creatio ex nihilo* East and West; on William James's will to believe argument; and on the doctrine of Divine Simplicity. I am also supervising a PhD dissertation in Theology on Duns Scotus.
+Currently, my MPhil students work on the notion of *creatio ex nihilo* East and West; on William James's 'will to believe' argument; and on the doctrine of Divine Simplicity. I am also co-supervising a PhD dissertation in Theology on Duns Scotus.
 
-I am part of the "Knowledge Orders before Modernity" project, a Leverhulme doctoral scholarship programme, which offers funding to PhD students interested in a broad range of topics in medieval studies. <a href="https://www.komldsp.org.uk" target="_blank"> Read more about the project </a>.
+I am part of the "Knowledge Orders before Modernity" project, a Leverhulme doctoral scholarship programme, which offers funding to PhD students interested in a broad range of topics in medieval studies. Read more about the project <a href="https://www.komldsp.org.uk" target="_blank">here</a>.
 
 
 ### MA theses supervised
