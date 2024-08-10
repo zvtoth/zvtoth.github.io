@@ -6,12 +6,42 @@ color: '#5db400'
 ---
 
 
-### Published Papers
+### Published and Forthcoming Papers
 
 
-<a href="{{ site.baseurl }}/1_research/Auriol_revised.pdf">"Heavenly Stuff: Peter Auriol on the Materiality of Angels and Heavenly Bodies,"</a> <i>Oxford Studies in Medieval Philosophy</i>, accepted.
+<a href="{{ site.baseurl }}/1_research/papers/creation_240810.pdf">"Creation,"</a>  in <i>The Origins of Scholasticism</i>, ed. Lydia Schumacher, forthcoming.
+<br>
+<p style="margin-left: 40px; line-height: 0.9"><small>By the time of the early scholastics, the main elements of the Christian doctrine of creation had crystallised: God brought the world into being from nothing; God created everything, all at once; and creation happened in the beginning of time. While none of these claims were contested by early scholastic authors, there was greater disagreement on how precisely to understand them, how they are related to one another, and whether they can be philosophically defended against alternative views, such as Plato’s and Aristotle’s. This chapter focuses on these core issues as they were developed by Stephen Langton, Philip the Chancellor, William of Auvergne, Alexander of Hales and the Summa Halesiana, and Roland of Cremona; with some occasional appearances from Alan of Lille, Hugh of St Cher, and others. As will be seen, when fleshing out some details regarding creation, authors often engaged with other fundamental metaphysical topics, such as the nature of matter and potency, or the relation between eternity and time.
+</small></p>
+
+
+<a href="{{ site.baseurl }}/1_research/Auriol_revised.pdf">"Heavenly Stuff: Peter Auriol on the Materiality of Angels and Heavenly Bodies,"</a> <i>Oxford Studies in Medieval Philosophy</i>, forthcoming.
 <br>
 <p style="margin-left: 40px; line-height: 0.9"><small>Take three, very different kinds of entities: Sophie the cat, Venus the planet, and Gabriel the archangel. Imagining these entities, one may be tempted to picture Sophie and Venus as something material, while Gabriel as something immaterial. Peter Auriol, an early fourteenth-century Franciscan theologian, disagrees. He thinks that while Sophie and Gabriel possess matter, Venus does not. In this paper I trace what led Auriol to endorse these seemingly implausible claims, attributing matter to certain spiritual beings and yet denying it of certain physical ones. I also examine the view that emerges from the combination of these two positions, and show that they, far from being irreconcilable, point to a particular conception of matter. According to this conception, matter is not to be treated as the physical stuff that makes something a body, nor as a mere substrate of natural change, but as a subject in pure potency that can take on multiple forms.
+</small></p>
+
+
+<a href="{{ site.baseurl }}/1_research/papers/Auriol_230930.pdf">“Auriol on Divine Concurrence,” <a> In <i>Peter Auriol Today</i>, ed. Giacomo Fornasieri et al.. Leuven: Leuven University Press, forthcoming.
+<br>
+<p style="margin-left: 40px; line-height: 0.9"><small>Take three, very different kinds of entities: Sophie the cat, Venus the planet, and Gabriel the archangel. Imagining these entities, one may be tempted to picture Sophie and Venus as something material, while Gabriel as something immaterial. Peter Auriol, an early fourteenth-century Franciscan theologian, disagrees. He thinks that while Sophie and Gabriel possess matter, Venus does not. In this paper I trace what led Auriol to endorse these seemingly implausible claims, attributing matter to certain spiritual beings and yet denying it of certain physical ones. I also examine the view that emerges from the combination of these two positions, and show that they, far from being irreconcilable, point to a particular conception of matter. According to this conception, matter is not to be treated as the physical stuff that makes something a body, nor as a mere substrate of natural change, but as a subject in pure potency that can take on multiple forms.
+</small></p>
+
+
+<a href="{{ site.baseurl }}/1_research/papers/angels_240528.pdf">"What’s the Matter with Angels? Angelic Materiality and the Possible Intellect in Some Early Fourteenth-century Franciscans,"</a> <i>Revista Española de Filosofía Medieval<i> 31 (2024): 15–52.
+<br>
+<p style="margin-left: 40px; line-height: 0.9"><small>While the question of whether angels are composed of matter and form, may seem, to the
+modern reader, somewhat odd, medieval thinkers saw it as a genuine puzzle. On the one hand,
+angels are purely intellectual creatures, which, according to some (perhaps most famously
+Aquinas), seems to imply that they are altogether devoid of materiality. On the other hand,
+however, angels are capable of change, which, according to the broadly-speaking Aristotelian
+framework, seems to imply an underlying material substrate. This paper traces the views of some
+early fourteenth-century Franciscan texts, according to which angels are material: the Disputed
+questions by Gonsalvus of Spain, a De Anima question-commentary sometimes attributed to the early
+Duns Scotus, and the Sentences commentaries of Peter of Trabibus and of Peter Auriol. As will be
+seen, the question of angelic materiality gave ample opportunity for these thinkers to elaborate on
+what they meant exactly by ‘matter’, and to hint at the ways in which this metaphysical principle
+is related to other important metaphysical notions in the neighborhood, such as change, corporeity,
+or potency.
 </small></p>
 
 <a href="{{ site.baseurl }}/1_research/Toth_sqnc.pdf">"<i>Sine qua non</i> Causes and Their Discontents,"</a> <i>Res Philosophica</i> 99 (2022): 139–167.
