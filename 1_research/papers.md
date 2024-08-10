@@ -21,7 +21,7 @@ color: '#5db400'
 </small></p>
 
 
-<a href="{{ site.baseurl }}/1_research/papers/Auriol_230930.pdf">“Auriol on Divine Concurrence,” <a> In <i>Peter Auriol Today</i>, ed. Giacomo Fornasieri et al.. Leuven: Leuven University Press, forthcoming.
+<a href="{{ site.baseurl }}/1_research/papers/Auriol_230930.pdf">“Auriol on Divine Concurrence,” </a> In <i>Peter Auriol Today</i>, ed. Giacomo Fornasieri et al.. Leuven: Leuven University Press, forthcoming.
 <br>
 <p style="margin-left: 40px; line-height: 0.9"><small>Take three, very different kinds of entities: Sophie the cat, Venus the planet, and Gabriel the archangel. Imagining these entities, one may be tempted to picture Sophie and Venus as something material, while Gabriel as something immaterial. Peter Auriol, an early fourteenth-century Franciscan theologian, disagrees. He thinks that while Sophie and Gabriel possess matter, Venus does not. In this paper I trace what led Auriol to endorse these seemingly implausible claims, attributing matter to certain spiritual beings and yet denying it of certain physical ones. I also examine the view that emerges from the combination of these two positions, and show that they, far from being irreconcilable, point to a particular conception of matter. According to this conception, matter is not to be treated as the physical stuff that makes something a body, nor as a mere substrate of natural change, but as a subject in pure potency that can take on multiple forms.
 </small></p>
