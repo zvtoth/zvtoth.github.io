@@ -18,7 +18,7 @@ Despite all this, I teach philosophy. There is an old <a href="{{ site.baseurl }
 <br>
 
 
-<a href="{{ site.baseurl }}/2_teaching/Philrel "><img src="{{ site.baseurl }}/public/img/philrel.jpg" width="150" height="150" title="Philosophy of Religion" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Medieval "><img src="{{ site.baseurl }}/public/img/medieval.jpg" width="150" height="150" title="Medieval Philosophy" hspace="40" /></a>
 
 
 </div>
