@@ -8,7 +8,7 @@ color: '#d58000'
 
 <img class="img-single" align="right" src="/public/img/medieval.jpg" width="200">
 
-In this course, we look at philosophy from around the 4th to the 14th centuries. In the Autumn semester, 2022, we will be especially concerned with problems related to free will: how authors in our period characterized free will; whether they thought we had any; and some of the emerging philosophical and theological issues.
+In this course, we look at philosophy from around the 4th to the 14th centuries. In the Autumn semester, 2024, we will be especially concerned with problems related to free will: how authors in our period characterized free will; whether they thought we had any; and some of the emerging philosophical and theological issues.
 
 
 <a href="http://zitavtoth.com/2_teaching/Medieval/2024/Medieval2024F.pdf">Current syllabus</a>
