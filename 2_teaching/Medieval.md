@@ -53,8 +53,8 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
   </tr>
 	<tr>
 		<td>10/10</td>
-    <td>Nemesius: an early Christian anthropology</td>
-		<td><i>On the Nature of Man</i>, 29</td>
+    <td>John Damascene: choice and will</td>
+		<td><i>An Exposition of Orthodox Faith</i>, 3.14</td>
 </tr>
 <tr>
   <td>17/10</td>
