@@ -26,10 +26,9 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
 
 ### Assignments, 2024 Autumn
 
-<!--- <a href="http://zitavtoth.com/2_teaching/Medieval/argrec.pdf">Argument reconstruction paper (BA students)</a> <br>
-<a href="http://zitavtoth.com/2_teaching/Medieval/argrec2.pdf">Argument reconstruction and response (MA students) </a><br>
-<a href="http://zitavtoth.com/2_teaching/Medieval/finalpaper_BA.pdf">Summative paper </a><br>
---->
+<a href="http://zitavtoth.com/2_teaching/Medieval/2024/argrec.pdf">Argument reconstruction exercise </a> <br>
+<a href="http://zitavtoth.com/2_teaching/Medieval/2024/finalpaper_BA.pdf">Summative paper </a><br>
+
 
 ### Class Schedule, 2024 Autumn
 
@@ -53,8 +52,8 @@ In this course, we look at philosophy from around the 4th to the 14th centuries.
   </tr>
 	<tr>
 		<td>10/10</td>
-    <td>Nemesius: an early Christian anthropology</td>
-		<td><i>On the Nature of Man</i>, 29</td>
+    <td>John Damascene: choice and will</td>
+		<td><i>An Exposition of Orthodox Faith</i>, 3.14</td>
 </tr>
 <tr>
   <td>17/10</td>
