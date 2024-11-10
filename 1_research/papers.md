@@ -118,6 +118,8 @@ In the following, I deal only with the first two, that is, with the possible rec
 ### Book Reviews
 
 
+*Housing the Powers: Medieval Debates about Dependence on God*, by Marilyn McCord Adams, OUP, 2022, *Journal of the History of Philosophy* 64 (2024): 662–663.
+
 <a href="https://www.tandfonline.com/doi/full/10.1080/09608788.2023.2232828" target="_blank">"Recent Work on Aquinas' Metaphysics"</a> (review article), *BJHP* 2023.
 
 <a href="https://ndpr.nd.edu/reviews/hidden-wisdom-medieval-contemplatives-on-self-knowledge-reason-love-persons-and-immortality/" target="_blank">*Hidden Wisdom: Medieval Contemplatives on Self-Knowledge, Reason, Love, Persons, and Immortality*,</a> by Christina Van Dyke, OUP, 2022, *NDPR*, 2023.07.04.
