@@ -97,7 +97,7 @@ __Week 10__: The contemplative life
 <a href="http://zitavtoth.com/2_teaching/Arist/2019/Protrepticus.pdf">Fragments from Aristotle's *Protrepticus*</a><br>
 <a href="http://zitavtoth.com/2_teaching/Arist/2019/Background.pdf">Background: Parmenides and Plato</a><br>
 <a href="http://zitavtoth.com/2_teaching/Arist/2019/DL_Arist.pdf">Diogenes Laertius on Aristotle</a><br>
-<a href="http://learning.hccs.edu/faculty/christina.hemati/phil1301/readings/lewis-on-the-reading-of-old-books/view" target="_blank">Why care about reading dead people anyway?</a>
+<a href="http://zitavtoth.com/2_teaching/Arist/2019/OntheReadingofOldBooks.pdf">Why care about reading dead people anyway?</a>
 
 
 ### Bibliography
