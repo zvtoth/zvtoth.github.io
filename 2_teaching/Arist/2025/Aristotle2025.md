@@ -34,62 +34,62 @@ __Week 1__: Introduction; Why philosophy?
 - (optional: Hutchinson & Johnson, “Authenticating the Protrepticus”) 
 - (optional: Frede, “The Study of Ancient Philosophy”)
 
-- Guiding questions: Why do we study philosophy? Can you give an argument for why you chose to study philosophy?
+- __Guiding questions__: Why do we study philosophy? Can you give an argument for why you chose to study philosophy?
 
 __Week 2__: Natural science 
 - *Phys.* II (93–110); *Meta.* V.4 (270–71), VI.1 (278–80)
 - (optional: Ferejohn, “Empiricism and the First Principles”)
 
-Guiding questions: What are the basic concepts of natural science, for Aristotle? What kinds of things does physics deal with?
+- __Guiding questions__: What are the basic concepts of natural science, for Aristotle? What kinds of things does physics deal with?
 
 __Week 3__: Scientific explanation and scientific knowledge
 - *Anal. post.* I–II (39–59)
 - (optional: Burnyeat, “Aristotle on Understanding Knowledge”)
 
-Guiding questions: Why does Aristotle think that we need indemonstrable first principles in every science? What are these principles and how do we know them?
+- __Guiding questions__: Why does Aristotle think that we need indemonstrable first principles in every science? What are these principles and how do we know them?
 How do we acquire scientific knowledge, for Aristotle?
 
 __Week 4__: Ontology 
 - *Cat.* (5–11); *Meta.* VII.1–9 (284–98)
 - (optional: Frede, “Substance in Aristotle’s Metaphysics”)
 
-Guiding questions: What are the basic kinds of entities for Aristotle? Are the accounts in the Categories and in the Metaphysics express the same thoughts? If so, how, or if not, why?
+- __Guiding questions__: What are the basic kinds of entities for Aristotle? Are the accounts in the Categories and in the Metaphysics express the same thoughts? If so, how, or if not, why?
 
 __Week 5__: The unmoved mover 
 - *Meta.* XII (339–55)
 - (optional: Bordt, “Why Aristotle’s God is Not the Unmoved Mover”)
 
-Guiding questions: What does Aristotle’s Unmoved Mover explain in the world? What can we know about the Unmoved Mover?
+- __Guiding questions__: What does Aristotle’s Unmoved Mover explain in the world? What can we know about the Unmoved Mover?
 
 __Week 6__: Application: the soul and perception
 - *De an.* II.1–7 (165–77)
 - (optional: Ackrill, “Aristotle’s Definitions of Psuche”)
 
-Guiding questions: How does Aristotle apply the established metaphysical framework to living things? What is the most general operation of living things, and of animals, in particular?
+- __Guiding questions__: How does Aristotle apply the established metaphysical framework to living things? What is the most general operation of living things, and of animals, in particular?
 
 __Week 7__: Thinking 
 - *De an.* III.3–8 (191–200)
 - (optional: Cohoe, “Nous in Aristotle’s De anima”)
 
-Guiding questions: How does thinking work, for Aristotle? What do we know about the intellect?
+- __Guiding questions__: How does thinking work, for Aristotle? What do we know about the intellect?
 
 __Week 8__: Living well and the virtues 
 - *EN* I.1–3, 7–8, 13; II.1–2, 5–9 (363–387, sel.)
 - (optional: Lawrence, “Human Good and Human Function”)
 
-Guiding questions: What is the good without qualification, for Aristotle? How can one achieve it? Why do we need virtues?
+- __Guiding questions__: What is the good without qualification, for Aristotle? How can one achieve it? Why do we need virtues?
 
 __Week 9__: Friendship 
 - *EN* IX (452–59)
 - (optional: Biss, “Aristotle on Friendship”)
 
-Guiding questions: What distinguishes and characterises the different kinds of friendships, for Aristotle? Does the wise person need friends? Why or why not?
+- __Guiding questions__: What distinguishes and characterises the different kinds of friendships, for Aristotle? Does the wise person need friends? Why or why not?
 
 __Week 10__: The contemplative life 
 - *EN* X.6–9 (468–78)
 - (optional: Liu, “An All-inclusive Interpretation of Aristotle's Contemplative Life”)
 
-Guiding questions: Why does Aristotle think that the contemplative life is the best form of life for a human being? What is contemplation, exactly?
+- __Guiding questions__: Why does Aristotle think that the contemplative life is the best form of life for a human being? What is contemplation, exactly?
 
 
 ### Other things
