@@ -11,14 +11,14 @@ Despite all this, I teach philosophy. There is an old <a href="{{ site.baseurl }
 
 ---
 
-### Current Courses (Spring 2024)
+### Current Courses (Spring 2025)
 
 <div>
 <br>
 <br>
 
 
-<a href="{{ site.baseurl }}/2_teaching/Medieval "><img src="{{ site.baseurl }}/public/img/medieval.jpg" width="150" height="150" title="Medieval Philosophy" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Arist/2025/Aristotle2025 "><img src="{{ site.baseurl }}/public/img/arist.jpg" width="150" height="150" title="Aristotle" hspace="40" /></a>
 
 
 </div>
@@ -33,8 +33,8 @@ Despite all this, I teach philosophy. There is an old <a href="{{ site.baseurl }
 <br>
 
 <a href="{{ site.baseurl }}/2_teaching/Ancient "><img src="{{ site.baseurl }}/public/img/greek.jpg" width="150" height="150" title="Ancient Philosophy" hspace="40" /></a>
-<a href="{{ site.baseurl }}/2_teaching/Aristotle "><img src="{{ site.baseurl }}/public/img/arist.jpg" width="150" height="150" title="Aristotle" hspace="40" /></a>
-<a href="{{ site.baseurl }}/2_teaching/Medieval "><img src="{{ site.baseurl }}/public/img/medieval.jpg" width="150" height="150" title="Medieval Philosophy" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Arist/2025/Aristotle2025 "><img src="{{ site.baseurl }}/public/img/arist.jpg" width="150" height="150" title="Aristotle" hspace="40" /></a>
+<a href="{{ site.baseurl }}/2_teaching/Medieval/2024/Medieval2024 "><img src="{{ site.baseurl }}/public/img/medieval.jpg" width="150" height="150" title="Medieval Philosophy" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/17thcent "><img src="{{ site.baseurl }}/public/img/scirev.jpg" width="150" height="150" title="17th Century Philosophy" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Humannature "><img src="{{ site.baseurl }}/public/img/humannature.jpg" width="150" height="150" title="Human Nature" hspace="40" /></a>
 <a href="{{ site.baseurl }}/2_teaching/Ethics "><img src="{{ site.baseurl }}/public/img/ethics.jpg" width="150" height="150" title="Ethics" hspace="40" /></a>
