@@ -61,6 +61,8 @@ __Week 5__: The unmoved mover
 
 - __Guiding questions__: What does Aristotle’s Unmoved Mover explain in the world? What can we know about the Unmoved Mover?
 
+__Reading week (no class)__
+
 __Week 6__: Application: the soul and perception
 - *De an.* II.1–7 (165–77)
 - (optional: <a href="https://philpapers.org/rec/ACKADO" target="_blank">Ackrill, “Aristotle’s Definitions of Psuche”</a>)
