@@ -38,7 +38,7 @@ __Week 1__: Introduction; Why philosophy?
 
 __Week 2__: Natural science 
 - *Phys.* II (93–110); *Meta.* V.4 (270–71), VI.1 (278–80)
-- (optional: Ferejohn, “Empiricism and the First Principles”)
+- (optional: <a href="https://philpapers.org/rec/FEREAT-11" target="_blank">Ferejohn, “Empiricism and the First Principles”</a>)
 
 - __Guiding questions__: What are the basic concepts of natural science, for Aristotle? What kinds of things does physics deal with?
 
