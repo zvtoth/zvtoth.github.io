@@ -17,11 +17,11 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 
 ### Earlier Semesters
 
-<a href="http://zitavtoth.com/2_teaching/Arist/Arist2019F.pdf">2019 Autumn syllabus</a>; <a href="http://zitavtoth.com/2_teaching/Arist/2019/Aristotle2019">course site </a><br>
+<a href="http://zitavtoth.com/2_teaching/Arist/2019/Arist2019F.pdf">2019 Autumn syllabus</a>; <a href="http://zitavtoth.com/2_teaching/Arist/2019/Aristotle2019">course site </a><br>
 
 
-### Assignments, 2025 Spring
-
+<!--### Assignments, 2025 Spring
+-->
 
 
 ### Class Schedule, 2025 Spring
@@ -34,7 +34,7 @@ __Week 1__: Introduction; Why philosophy?
 - (optional: Hutchinson & Johnson, “Authenticating the Protrepticus”) 
 - (optional: Frede, “The Study of Ancient Philosophy”)
 
-Guiding questions: Why do we study philosophy? Can you give an argument for why you chose to study philosophy?
+- Guiding questions: Why do we study philosophy? Can you give an argument for why you chose to study philosophy?
 
 __Week 2__: Natural science 
 - *Phys.* II (93–110); *Meta.* V.4 (270–71), VI.1 (278–80)
