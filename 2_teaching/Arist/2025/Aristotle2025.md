@@ -57,19 +57,19 @@ __Week 4__: Ontology
 
 __Week 5__: The unmoved mover 
 - *Meta.* XII (339–55)
-- (optional: Bordt, “Why Aristotle’s God is Not the Unmoved Mover”)
+- (optional: <a href="https://philpapers.org/rec/BORWAG-2" target="_blank">Bordt, “Why Aristotle’s God is Not the Unmoved Mover”</a>)
 
 - __Guiding questions__: What does Aristotle’s Unmoved Mover explain in the world? What can we know about the Unmoved Mover?
 
 __Week 6__: Application: the soul and perception
 - *De an.* II.1–7 (165–77)
-- (optional: Ackrill, “Aristotle’s Definitions of Psuche”)
+- (optional: <a href="https://philpapers.org/rec/ACKADO" target="_blank">Ackrill, “Aristotle’s Definitions of Psuche”</a>)
 
 - __Guiding questions__: How does Aristotle apply the established metaphysical framework to living things? What is the most general operation of living things, and of animals, in particular?
 
 __Week 7__: Thinking 
 - *De an.* III.3–8 (191–200)
-- (optional: Cohoe, “Nous in Aristotle’s De anima”)
+- (optional: <a href="https://philpapers.org/rec/COHNIA" target="_blank">Cohoe, “Nous in Aristotle’s De anima”</a>)
 
 - __Guiding questions__: How does thinking work, for Aristotle? What do we know about the intellect?
 
@@ -81,13 +81,13 @@ __Week 8__: Living well and the virtues
 
 __Week 9__: Friendship 
 - *EN* IX (452–59)
-- (optional: Biss, “Aristotle on Friendship”)
+- (optional: <a href="https://philpapers.org/rec/BISAOF" target="_blank">Biss, “Aristotle on Friendship”</a>)
 
 - __Guiding questions__: What distinguishes and characterises the different kinds of friendships, for Aristotle? Does the wise person need friends? Why or why not?
 
 __Week 10__: The contemplative life 
 - *EN* X.6–9 (468–78)
-- (optional: Liu, “An All-inclusive Interpretation of Aristotle's Contemplative Life”)
+- (optional: <a href="https://philpapers.org/rec/LIUAAI" target="_blank">Liu, “An All-inclusive Interpretation of Aristotle's Contemplative Life”</a>)
 
 - __Guiding questions__: Why does Aristotle think that the contemplative life is the best form of life for a human being? What is contemplation, exactly?
 
