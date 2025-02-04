@@ -12,6 +12,7 @@ Our conference brings together scholars working on the Islamic-Arabic, and Latin
 - <a href = "https://bridgesconference2025.wordpress.com" target = "_blank"> visit our website </a> for more information, or to request the Zoom link.
 - <a href="{{ site.baseurl }}/3_events/bridges.pdf" > download the poster </a>
 
+---
 
 ### KHOPS
 
