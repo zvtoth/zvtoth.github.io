@@ -7,6 +7,8 @@ color: '#b6874f'
 
 ### Conference: Bridges Between Parallel Paths – Arabic-Islamic and Latin Christian Medieval Philosophies
 
+<img class="img-single" align="right" src="/3_events/bridges.jpg" width="150">
+
 Our conference brings together scholars working on the Islamic-Arabic, and Latin Christian tradition. While these two traditions are closely connected through a shared textual basis and theological interests, often addressing the same set of philosophical issues, current scholarship on them has been somewhat segregated. The conference aims to build a bridge between the two scholarly communities. Our approach was to identify a broad set of issues, ranging from ethics to natural philosophy to metaphysics, and invite scholars from both traditions working on the particular theme. This means that the issue can showcase the best research on the given topic in both fields, while also ensuring that the approaches engage with each other in a meaningful way. The conference may be interesting to scholars working in both traditions, as well as to the wider philosophical community by providing an example of “global philosophy” done well.
 
 - <a href = "https://bridgesconference2025.wordpress.com" target = "_blank"> visit our website </a> for more information, or to request the Zoom link.
