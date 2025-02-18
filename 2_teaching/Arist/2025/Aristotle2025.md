@@ -29,33 +29,33 @@ This course is a close study of one of the most preeminent philosophers, Aristot
 All the page numbers refer to those in J. L. Ackrill (ed.), *A New Aristotle
 Reader*, Princeton University Press, 1989 (ISBN: 0-691-02043-3).
 
-__Week 1__: Introduction; Why philosophy?
+__Week 1__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/01_Protrepticus_HO.pdf">Introduction; Why philosophy?</a>
 - <a href="http://zitavtoth.com/2_teaching/Arist/2019/Protrepticus.pdf">*Protrepticus*</a>
 - (optional: Hutchinson & Johnson, “Authenticating the Protrepticus”) 
 - (optional: Frede, “The Study of Ancient Philosophy”)
 
 - __Guiding questions__: Why do we study philosophy? Can you give an argument for why you chose to study philosophy?
 
-__Week 2__: Natural science 
+__Week 2__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/02_Physics_HO.pdf">Natural science</a> 
 - *Phys.* II (93–110); *Meta.* V.4 (270–71), VI.1 (278–80)
 - (optional: <a href="https://philpapers.org/rec/FEREAT-11" target="_blank">Ferejohn, “Empiricism and the First Principles”</a>)
 
 - __Guiding questions__: What are the basic concepts of natural science, for Aristotle? What kinds of things does physics deal with?
 
-__Week 3__: Scientific explanation and scientific knowledge
+__Week 3__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/03_science_HO.pdf">Scientific explanation and scientific knowledge</a>
 - *Anal. post.* I–II (39–59)
 - (optional: Burnyeat, “Aristotle on Understanding Knowledge”)
 
 - __Guiding questions__: Why does Aristotle think that we need indemonstrable first principles in every science? What are these principles and how do we know them?
 How do we acquire scientific knowledge, for Aristotle?
 
-__Week 4__: Ontology 
+__Week 4__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/04_ontology_HO.pdf">Ontology</a> 
 - *Cat.* (5–11); *Meta.* VII.1–9 (284–98)
 - (optional: Frede, “Substance in Aristotle’s Metaphysics”)
 
 - __Guiding questions__: What are the basic kinds of entities for Aristotle? Are the accounts in the Categories and in the Metaphysics express the same thoughts? If so, how, or if not, why?
 
-__Week 5__: The unmoved mover 
+__Week 5__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/05_unmoved_HO.pdf">The unmoved mover</a> 
 - *Meta.* XII (339–55)
 - (optional: <a href="https://philpapers.org/rec/BORWAG-2" target="_blank">Bordt, “Why Aristotle’s God is Not the Unmoved Mover”</a>)
 
