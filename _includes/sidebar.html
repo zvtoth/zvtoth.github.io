@@ -62,7 +62,10 @@
       {% if site.author.gscholar %}
         {% include icon-gscholar.html username=site.author.gscholar class="sidebar-social"%}
       {% endif %}
-      {% if site.author.github %}
+      {% if site.author.orcid %}
+        {% include icon-orcid.html username=site.author.orcid class="sidebar-social"%}
+      {% endif %}
+  {% if site.author.github %}
         {% include icon-github.html username=site.author.github class="sidebar-social"%}
       {% endif %}
         {% if site.author.facebook %}
@@ -71,9 +74,7 @@
         {% if site.author.instagram %}
           {% include icon-instagram.html username=site.author.instagram class="sidebar-social"%}
         {% endif %}
-        {% if site.author.orcid %}
-          {% include icon-orcid.html username=site.author.orcid class="sidebar-social"%}
-        {% endif %}
+      
 
 </center>
 
