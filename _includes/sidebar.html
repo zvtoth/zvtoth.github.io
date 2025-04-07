@@ -56,6 +56,9 @@
         {% if site.author.linkedin %}
         {% include icon-linkedin.html username=site.author.linkedin class="sidebar-social"%}
       {% endif %}
+      {% if site.author.cv %}
+        {% include icon-cv.html username=site.author.cv class="sidebar-social"%}
+      {% endif %}
       {% if site.author.academia %}
         {% include icon-academia.html username=site.author.academia class="sidebar-social"%}
       {% endif %}
