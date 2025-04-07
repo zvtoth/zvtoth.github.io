@@ -23,7 +23,7 @@
 	-moz-osx-font-smoothing:grayscale;
 }
 .ai-google-scholar:before {
-    content: "\e900";
+    content: "\e9d4";
 }
 .ai-google-scholar-square:before {
     content: "\e901";
@@ -54,6 +54,9 @@
 }
 .ai-academia:before {
     content: "\e9af";
+}
+.ai-philpapers-square:before {
+    content: "\e96f";
 }
 .ai-academia-square:before {
     content: "\e911";
