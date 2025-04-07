@@ -55,8 +55,8 @@
 .ai-academia:before {
     content: "\e9af";
 }
-.ai-philpapers-square:before {
-    content: "\e96f";
+.ai-philpapers:before {
+    content: "\e98a";
 }
 .ai-cv:before {
     content: "\e9a5";
