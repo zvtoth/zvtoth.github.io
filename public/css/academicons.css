@@ -6,11 +6,11 @@
  */
 @font-face {
     font-family: 'Academicons';
-    src:url('../fonts/academicons.eot?v=1.7.0');
-    src:url('../fonts/academicons.eot?v=1.7.0') format('embedded-opentype'),
-        url('../fonts/academicons.ttf?v=1.7.0') format('truetype'),
-        url('../fonts/academicons.woff?v=1.7.0') format('woff'),
-        url('../fonts/academicons.svg?v=1.7.0#academicons') format('svg');
+    src:url('../fonts/academicons.eot?v=1.9.7');
+    src:url('../fonts/academicons.eot?v=1.9.7') format('embedded-opentype'),
+        url('../fonts/academicons.ttf?v=1.9.7') format('truetype'),
+        url('../fonts/academicons.woff?v=1.9.7') format('woff'),
+        url('../fonts/academicons.svg?v=1.9.7#academicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -53,7 +53,7 @@
     content: "\e909";
 }
 .ai-academia:before {
-    content: "\e910";
+    content: "\e9af";
 }
 .ai-academia-square:before {
     content: "\e911";
