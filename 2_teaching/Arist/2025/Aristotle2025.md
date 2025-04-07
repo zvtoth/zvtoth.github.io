@@ -63,31 +63,31 @@ __Week 5__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/05_unmoved_HO.pd
 
 __Reading week (no class)__
 
-__Week 6__: Application: the soul and perception
+__Week 6__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/06_soul_HO.pdf">Application: the soul and perception</a>
 - *De an.* II.1–7 (165–77)
 - (optional: <a href="https://philpapers.org/rec/ACKADO" target="_blank">Ackrill, “Aristotle’s Definitions of Psuche”</a>)
 
 - __Guiding questions__: How does Aristotle apply the established metaphysical framework to living things? What is the most general operation of living things, and of animals, in particular?
 
-__Week 7__: Thinking 
+__Week 7__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/07_intellect_HO.pdf">Thinking</a> 
 - *De an.* III.3–8 (191–200)
 - (optional: <a href="https://philpapers.org/rec/COHNIA" target="_blank">Cohoe, “Nous in Aristotle’s De anima”</a>)
 
 - __Guiding questions__: How does thinking work, for Aristotle? What do we know about the intellect?
 
-__Week 8__: Living well and the virtues 
+__Week 8__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/08_virtues_HO.pdf">Living well and the virtues</a> 
 - *EN* I.1–3, 7–8, 13; II.1–2, 5–9 (363–387, sel.)
 - (optional: Lawrence, “Human Good and Human Function”)
 
 - __Guiding questions__: What is the good without qualification, for Aristotle? How can one achieve it? Why do we need virtues?
 
-__Week 9__: Friendship 
+__Week 9__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/09_friendship_HO.pdf">Friendship</a> 
 - *EN* IX (452–59)
 - (optional: <a href="https://philpapers.org/rec/BISAOF" target="_blank">Biss, “Aristotle on Friendship”</a>)
 
 - __Guiding questions__: What distinguishes and characterises the different kinds of friendships, for Aristotle? Does the wise person need friends? Why or why not?
 
-__Week 10__: The contemplative life 
+__Week 10__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/10_contemplation_HO.pdf">The contemplative life</a> 
 - *EN* X.6–9 (468–78)
 - (optional: <a href="https://philpapers.org/rec/LIUAAI" target="_blank">Liu, “An All-inclusive Interpretation of Aristotle's Contemplative Life”</a>)
 
