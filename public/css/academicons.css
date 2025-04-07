@@ -58,6 +58,9 @@
 .ai-philpapers-square:before {
     content: "\e96f";
 }
+.ai-cv:before {
+    content: "\e9a5";
+}
 .ai-academia-square:before {
     content: "\e911";
 }
