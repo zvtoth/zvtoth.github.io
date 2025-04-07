@@ -75,7 +75,7 @@ __Week 7__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/07_intellect_HO.
 
 - __Guiding questions__: How does thinking work, for Aristotle? What do we know about the intellect?
 
-__Week 8__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/08_virtues_HO.pdf">Living well and the virtues</a> 
+__Week 8__: <a href="http://zitavtoth.com/2_teaching/Arist/2025/08_virtue_HO.pdf">Living well and the virtues</a> 
 - *EN* I.1–3, 7–8, 13; II.1–2, 5–9 (363–387, sel.)
 - (optional: Lawrence, “Human Good and Human Function”)
 
