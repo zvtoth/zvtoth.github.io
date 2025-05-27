@@ -24,12 +24,12 @@ color:            '#b14633'
 author:
   name:           'Zita V. Tóth'
   email:           zita.v.toth@kcl.ac.uk
-  facebook:     zita.v.toth
+  # facebook:     zita.v.toth
   cv: zitatoth
   linkedin:      tothzita
   academia:   ZitaToth
   philpeople: zita-toth
-  instagram:  oresmeember
+  # instagram:  oresmeember
   gscholar: tothzit
   orcid: 0000-0002-0767-1099
 
