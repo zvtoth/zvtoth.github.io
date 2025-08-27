@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervising
+title: Supervision
 image: /public/img/teach.jpg
 color: '#439feb'
 ---
