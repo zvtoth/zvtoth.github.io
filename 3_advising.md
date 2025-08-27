@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Advising
+title: Supervising
 image: /public/img/teach.jpg
 color: '#439feb'
 ---
 
 I am always happy to hear from students interested in any area of medieval philosophy, philosophy of religion, or some metaphysical issues.
 
-Currently, my MPhil students work on William James's 'will to believe' argument and on the doctrine of Divine Simplicity. I am also co-supervising a PhD dissertation in Theology on Duns Scotus.
+Currently, my MPhil and PhD students work on William James's 'will to believe' argument; on Antonius Andreae's natural philosophy; and on Aquinas's take on the devil. I am also co-supervising a PhD dissertation in Theology on Duns Scotus.
 
-I am part of the "Knowledge Orders before Modernity" project, a Leverhulme doctoral scholarship programme, which offers funding to PhD students interested in a broad range of topics in medieval studies. Read more about the project <a href="https://www.komldsp.org.uk" target="_blank">here</a>.
+I am part of the <a href="https://www.komldsp.org.uk" target="_blank">"Knowledge Orders before Modernity"</a> project, a Leverhulme doctoral scholarship programme, which offers funding to PhD students interested in a broad range of topics in medieval studies.
 
 ### MPhil theses supervised
 
