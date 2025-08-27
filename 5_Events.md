@@ -5,16 +5,13 @@ image: /public/img/bridge.jpg
 color: '#b6874f'
 ---
 
-### Conference: Bridges Between Parallel Paths – Arabic-Islamic and Latin Christian Medieval Philosophies
+### SMRP at the BSHP
 
-<img class="img-single" align="right" src="/3_events/bridges.jpg" width="250">
+<img class="img-single" align="right" src="/3_events/smrp2026.jpg" width="250">
 
-Our conference brings together scholars working on the Islamic-Arabic, and Latin Christian tradition. While these two traditions are closely connected through a shared textual basis and theological interests, often addressing the same set of philosophical issues, current scholarship on them has been somewhat segregated. The conference aims to build a bridge between the two scholarly communities. Our approach was to identify a broad set of issues, ranging from ethics to natural philosophy to metaphysics, and invite scholars from both traditions working on the particular theme. This means that the issue can showcase the best research on the given topic in both fields, while also ensuring that the approaches engage with each other in a meaningful way. The conference may be interesting to scholars working in both traditions, as well as to the wider philosophical community by providing an example of “global philosophy” done well.
+Call for abstracts: the Society for Medieval and Renaissance Philosophy will have some sponsored sessions at the annual conference of the British Society for the History of Philosophy, to be held in London in April 2026. Abstracts are due 15 September.
 
-- <a href = "https://bridgesconference2025.wordpress.com" target = "_blank"> visit our website </a> for more information, or to request the Zoom link.
-- <a href="{{ site.baseurl }}/3_events/bridges.pdf" > download the poster </a>
-
----
+--- 
 
 ### KHOPS
 
@@ -27,6 +24,16 @@ I'm currently coordinating the History of Philosophy Cluster at King's, includin
 
 Past events I have been involved in organizing (apart from the <a href="{{ site.baseurl }}/4_Latin" > Virtual Paleography Group</a>):
 
+### Conference: Bridges Between Parallel Paths – Arabic-Islamic and Latin Christian Medieval Philosophies
+
+<img class="img-single" align="right" src="/3_events/bridges.jpg" width="250">
+
+Our conference brings together scholars working on the Islamic-Arabic, and Latin Christian tradition. While these two traditions are closely connected through a shared textual basis and theological interests, often addressing the same set of philosophical issues, current scholarship on them has been somewhat segregated. The conference aims to build a bridge between the two scholarly communities. Our approach was to identify a broad set of issues, ranging from ethics to natural philosophy to metaphysics, and invite scholars from both traditions working on the particular theme. This means that the issue can showcase the best research on the given topic in both fields, while also ensuring that the approaches engage with each other in a meaningful way. The conference may be interesting to scholars working in both traditions, as well as to the wider philosophical community by providing an example of “global philosophy” done well.
+
+- <a href = "https://bridgesconference2025.wordpress.com" target = "_blank"> visit our website </a> for more information, or to request the Zoom link.
+- <a href="{{ site.baseurl }}/3_events/bridges.pdf" > download the poster </a>
+
+---
 
 ### Conference: Late Medieval Hylomorphism – Matter and Form, 1300–1600.
 
