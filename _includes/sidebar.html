@@ -59,17 +59,11 @@
       {% if site.author.linkedin %}
       {% include icon-linkedin.html username=site.author.linkedin class="sidebar-social"%}
       {% endif %}
-      {% if site.author.academia %}
-        {% include icon-academia.html username=site.author.academia class="sidebar-social"%}
+  {% if site.author.philpeople %}
+        {% include icon-philpeople.html username=site.author.philpeople class="sidebar-social"%}
       {% endif %}
-      {% if site.author.orcid %}
-              {% include icon-orcid.html username=site.author.orcid class="sidebar-social"%}
-            {% endif %} 
       {% if site.author.gscholar %}
         {% include icon-gscholar.html username=site.author.gscholar class="sidebar-social"%}
-      {% endif %}
-      {% if site.author.philpeople %}
-        {% include icon-philpeople.html username=site.author.philpeople class="sidebar-social"%}
       {% endif %}
         {% if site.author.facebook %}
           {% include icon-facebook.html username=site.author.facebook class="sidebar-social"%}
@@ -77,7 +71,9 @@
         {% if site.author.instagram %}
           {% include icon-instagram.html username=site.author.instagram class="sidebar-social"%}
         {% endif %}
-      
+      {% if site.author.orcid %}
+              {% include icon-orcid.html username=site.author.orcid class="sidebar-social"%}
+            {% endif %} 
 
 </center>
 
