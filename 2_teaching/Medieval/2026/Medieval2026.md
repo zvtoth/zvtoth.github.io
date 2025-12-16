@@ -73,7 +73,7 @@ __Week 7, 6/03__: The problem of seminal reasons
 
 __Week 8, 13/03__: The problem of elemental mixture
 - Aquinas, *On the mixture of the elements*
-- (optional:) Wood \& Weisberg, "Interpreting Aristotle on Mixture"
+- (optional:) Wood & Weisberg, "Interpreting Aristotle on Mixture"
  
 
 
