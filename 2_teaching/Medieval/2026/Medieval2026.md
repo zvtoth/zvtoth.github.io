@@ -36,7 +36,7 @@ In this module, we will look at philosophy from around the 4th to the 14th centu
 __Week 1, 16/01__: Introduction; the historiography of medieval philosophy; Aristotle, hylomorphism, and the problem of change
 -  C.S.\ Lewis, "On the reading of old books"
 -  Aristotle, *Physics* (sel.).
-- (optional:) Gill, *Substance in Aristotle*, ch.\ 3.
+- (optional:) Gill, *Substance in Aristotle*, ch. 3.
 
 __Week 2, 23/01__: Augustine and the problem of creation
 - Augustine, *On Genesis* (sel.); Mechthild of Magdeburg, *The Flowing Light* (sel.)
@@ -62,7 +62,7 @@ __20/02__: Reading week (no class)
 
 __Week 6, 27/02__: Prime matter, potency, and actuality
 - Scotus, *Metaphysics commentary* VII.5
-- (optional:) Pasnau, *Metaphysical Themes*, ch.\ 3
+- (optional:) Pasnau, *Metaphysical Themes*, ch. 3
  
 
 
@@ -85,4 +85,4 @@ __Week 9, 20/03__: The problem of atomism
 
 __Week 10, 27/03__: Some borderline cases: celestial matter
 - Aquinas, *Summa Theologiae* I.66.2; Auriol on the matter of the stars and planets
-- (optional:) Grant, *Planets, Stars, and Orbs*, ch.\ 12.
+- (optional:) Grant, *Planets, Stars, and Orbs*, ch. 12.
