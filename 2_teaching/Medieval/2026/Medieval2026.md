@@ -38,7 +38,7 @@ __Week 1, 16/01__: Introduction; the historiography of medieval philosophy; Aris
 -  Aristotle, *Physics* (sel.).
 - (optional:) Gill, *Substance in Aristotle*, ch.\ 3.
 
-__Week 2, 23/01__: Augustine and the problem of 
+__Week 2, 23/01__: Augustine and the problem of creation
 - Augustine, *On Genesis* (sel.); Mechthild of Magdeburg, *The Flowing Light* (sel.)
 - (optional:) Brady, "St Augustine's Theory of Seminal Reasons"
 - (optional:) Toth, "Creation".
