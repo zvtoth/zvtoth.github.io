@@ -9,6 +9,8 @@ color: '#439feb'
 
 Despite all this, I teach philosophy. There is an old <a href="{{ site.baseurl }}/2_teaching/teachingstatement.pdf" target="_blank">teaching statement</a> where I discussed this more lengthily.
 
+Normally, I teach Medieval Philosophy, occasionally also Metaphysics, Philosophy of Religion, or Aristotle. I have also taught the MPhil Work-in-Progress seminar, and lead the Pro-seminar for both the MPhil/PhD and the MA students.
+
 ---
 
 ### Current Courses (Spring 2026)
