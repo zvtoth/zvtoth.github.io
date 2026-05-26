@@ -5,9 +5,9 @@ image: /public/img/teach.jpg
 color: '#439feb'
 ---
 
-I am always happy to hear from students interested in any area of medieval philosophy, philosophy of religion, or some metaphysical issues.
+I am always happy to hear from students interested in any area of medieval philosophy, philosophy of religion, or some metaphysical issues. If you are a prospective student who would be interested in working with me at King's, please get in touch.
 
-Currently, my MPhil and PhD students work on William James's 'will to believe' argument; on Antonius Andreae's natural philosophy; and on Aquinas's take on the devil. I am also co-supervising a PhD dissertation in Theology on Duns Scotus.
+Currently, my MPhil and PhD students work on various aspects of medieval philosophy (critical editions, metaphysics, normativity), and on philosophy of religion.
 
 I am part of the <a href="https://www.komldsp.org.uk" target="_blank">"Knowledge Orders before Modernity"</a> project, a Leverhulme doctoral scholarship programme, which offers funding to PhD students interested in a broad range of topics in medieval studies.
 
@@ -15,12 +15,13 @@ I am part of the <a href="https://www.komldsp.org.uk" target="_blank">"Knowledge
 
 - "The *Quaestiones de tribus principiis* of Antonius Andreae: an edition and study" (in progress, started in 2025)
 - "The Devil is Back: Satan and Cognition under Thomas Aquinas" (in progress, started in 2025)
+- "The Nature and Normativity of Temptation" (in progress, started in 2026)
 
 
 
 ### MPhil theses supervised
 
-- "Epistemic Requirements for Theistic Faith" (submitted)
+- "Epistemic Requirements for Theistic Faith" (defended in 2026)
 - "The Metaphysics and the Logic of *Ex Nihilo* and Absolute Nothingness" (defended in 2024)
 
 
