@@ -33,26 +33,26 @@ In this module, we will look at philosophy from around the 4th to the 14th centu
 
 ### Class Schedule, 2026 Spring
 
-__Week 1, 16/01__: Introduction; the historiography of medieval philosophy; Aristotle, hylomorphism, and the problem of change
--  C.S.\ Lewis, "On the reading of old books"
+__Week 1, 16/01__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/01_Intro_HO.pdf">Introduction; the historiography of medieval philosophy; Aristotle, hylomorphism, and the problem of change</a>
+-  C.S. Lewis, "On the reading of old books"
 -  Aristotle, *Physics* (sel.).
 - (optional:) Gill, *Substance in Aristotle*, ch. 3.
 
-__Week 2, 23/01__: Augustine and the problem of creation
+__Week 2, 23/01__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/02_Creation_HO.pdf">Augustine and the problem of creation</a>
 - Augustine, *On Genesis* (sel.); Mechthild of Magdeburg, *The Flowing Light* (sel.)
 - (optional:) Brady, "St Augustine's Theory of Seminal Reasons"
 - (optional:) Toth, "Creation".
 
-__Week 3, 30/01__: Gregory of Nyssa's idealism
+__Week 3, 30/01__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/03_Gregory_HO.pdf">Gregory of Nyssa's idealism</a>
 - Gregory of Nyssa, *Hexaemeron* (sel.)
 - (optional:)  Marmodoro, "Gregory of Nyssa on Creation" 
 - (optional:) Greig, "The Bundle Theory"
 
-__Week 4, 6/02__: Avicebron on creation from nothing
+__Week 4, 6/02__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/04_Avicebron_HO.pdf">Avicebron on creation from nothing</a>
 - Avicebron, *Fons vitae* V (sel.)
 - (optional:)  Laumakis, "Avicebron on Creation ex nihilo"
 
-__Week 5, 13/02__: Al-Ghazali on the eternity of the world
+__Week 5, 13/02__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/05_AlGhazali_HO.pdf">Al-Ghazali on the eternity of the world</a>
 - Al-Ghazali, *Incoherence of the Philosophers* (sel.)
 - (optional:) Moad, "Al-Ghazali's Position"
  
@@ -60,18 +60,18 @@ __Week 5, 13/02__: Al-Ghazali on the eternity of the world
 __20/02__: Reading week (no class)
 
 
-__Week 6, 27/02__: Prime matter, potency, and actuality
+__Week 6, 27/02__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/06_Scotus_HO.pdf">Prime matter, potency, and actuality</a>
 - Scotus, *Metaphysics commentary* VII.5
 - (optional:) Pasnau, *Metaphysical Themes*, ch. 3
  
 
 
-__Week 7, 6/03__: The problem of seminal reasons
+__Week 7, 6/03__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/07_rationes_HO.pdf">The problem of seminal reasons</a>
 - Henry of Ghent and Roger Marston on seminal reasons
 - (optional:) Etzkorn, "The Grades of the Form according to Roger Marston"
  
 
-__Week 8, 13/03__: The problem of elemental mixture
+__Week 8, 13/03__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/08_Elements_HO.pdf">The problem of elemental mixture</a>
 - Aquinas, *On the mixture of the elements*
 - (optional:) Wood & Weisberg, "Interpreting Aristotle on Mixture"
  
@@ -83,6 +83,6 @@ __Week 9, 20/03__: The problem of atomism
  
 
 
-__Week 10, 27/03__: Some borderline cases: celestial matter
+__Week 10, 27/03__: <a href="http://zitavtoth.com/2_teaching/Medieval/2026/slides/09_Celestial_HO.pdf">Some borderline cases: celestial matter</a>
 - Aquinas, *Summa Theologiae* I.66.2; Auriol on the matter of the stars and planets
 - (optional:) Grant, *Planets, Stars, and Orbs*, ch. 12.
