@@ -21,8 +21,8 @@ I am part of the <a href="https://www.komldsp.org.uk" target="_blank">"Knowledge
 
 ### MPhil theses supervised
 
-- "Epistemic Requirements for Theistic Faith" (defended in 2026)
 - "The Metaphysics and the Logic of *Ex Nihilo* and Absolute Nothingness" (defended in 2024)
+- "Epistemic Requirements for Theistic Faith" (defended in 2026)
 
 
 ### MA theses supervised
